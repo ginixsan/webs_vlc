@@ -1,0 +1,20 @@
+{
+  "name": "municipio-homepage-screenshots",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Capture municipality homepages in CSV order with Playwright.",
+  "scripts": {
+    "capture": "node capture-webs.mjs",
+    "default-language": "node default-language.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cld3-asm": "^4.0.0",
+    "csv-parse": "^7.0.3",
+    "playwright": "^1.64.1"
+  }
+}

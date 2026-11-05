@@ -1,0 +1,359 @@
+﻿Provincia;Municipio;web_anterior;web_nueva;comprobado;accion;nota
+Alicante;Campello, el;https://www.elcampello.org/;https://www.elcampello.es/;true;web corregida;Antes: https://www.elcampello.org/ (dudoso)
+Alicante;Mutxamel;https://www.mutxamel.org/;https://ayto.mutxamel.org/;true;web actualizada;https://www.mutxamel.org/ redirige al dominio nuevo
+Alicante;Castalla;https://www.castalla.org/;https://www.castalla.org/;true;verificada;
+Alicante;Penàguila;https://www.penaguila.org/;https://www.penaguila.es/;true;web corregida;Antes: https://www.penaguila.org/ (http_0)
+Alicante;Tibi;https://www.tibi.es/;https://www.tibi.es/;true;verificada;
+Alicante;Biar;https://www.biar.es/;https://www.biar.es/;true;verificada;
+Alicante;Campo de Mirra;https://www.elcampdemirra.es/;https://www.elcampdemirra.es/;true;verificada;
+Alicante;Cañada;https://www.canyada.es/;https://www.canyada.es/;true;verificada;
+Alicante;Albatera;https://www.albatera.org/;https://albatera.es/;true;web actualizada;https://www.albatera.org/ redirige al dominio nuevo
+Alicante;Benejúzar;https://www.benejuzar.es/;https://www.benejuzar.es/;true;verificada;
+Alicante;Benijófar;https://www.benijofar.org/;https://www.benijofar.es/;true;web corregida;Antes: https://www.benijofar.org/ (aparcado)
+Alicante;Bigastro;https://www.aytobigastro.es/;https://bigastro.es/;true;web corregida;Antes: https://www.aytobigastro.es/ (aparcado)
+Alicante;Catral;https://www.ayuntamientocatral.com/;https://www.catral.es/;true;web corregida;Antes: https://www.ayuntamientocatral.com/ (dudoso)
+Alicante;Cox;https://www.cox.es/;https://www.cox.es/;true;verificada;
+Alicante;Daya Vieja;https://www.dayavieja.es/;https://www.dayavieja.es/;true;verificada;
+Alicante;Dolores;https://www.dolores.es/;https://www.dolores.es/;true;verificada;
+Alicante;Formentera del Segura;https://www.formenteradelsegura.es/;https://www.formenteradelsegura.es/;true;verificada;
+Alicante;Granja de Rocamora;https://www.granjaderocamora.es/;https://www.granjaderocamora.es/;true;verificada;
+Alicante;Guardamar del Segura;;https://www.guardamardelsegura.es/;true;web corregida;Antes: (sin web) (sin_web)
+Alicante;Jacarilla;https://www.jacarilla.es/;https://www.jacarilla.es/;true;verificada;
+Alicante;Redován;https://www.redovan.es/;https://www.redovan.es/;true;verificada;
+Alicante;Rojales;https://www.rojales.es/;https://www.rojales.es/;true;verificada;
+Alicante;San Fulgencio;https://www.ayto-sanfulgencio.es/;https://www.sanfulgencio.es/;true;web corregida;Antes: https://www.ayto-sanfulgencio.es/ (dudoso)
+Alicante;Pilar de la Horadada;https://www.pilardelahoradada.org/;https://www.pilardelahoradada.org/;true;verificada;
+Alicante;Montesinos, los;https://www.losmontesinos.org/;https://www.losmontesinos.es/;true;web corregida;Antes: https://www.losmontesinos.org/ (http_400)
+Alicante;Agres;https://www.agres.es/;https://www.agres.es/;true;verificada;
+Alicante;Alcosser;https://www.alcocerdeplanes.es/;https://www.alcocerdeplanes.es/;true;verificada;
+Alicante;Alcoleja;https://www.alcoleja.es/;https://www.alcoleja.es/;true;verificada;
+Alicante;Balones;https://www.balones.es/;https://www.balones.es/;true;verificada;
+Alicante;Benasau;https://www.benasau.es/;https://www.benasau.es/;true;verificada;
+Alicante;Beniarrés;https://www.beniarres.es/;https://www.beniarres.es/;true;verificada;
+Alicante;Benilloba;https://www.benilloba.es/;https://www.benilloba.es/;true;verificada;
+Alicante;Benimarfull;https://www.benimarfull.es/;https://www.benimarfull.es/;true;verificada;
+Alicante;Cocentaina;https://www.cocentaina.org/;https://www.cocentaina.es/;true;web actualizada;https://www.cocentaina.org/ redirige al dominio nuevo
+Alicante;Quatretondeta;https://www.quatretondeta.es/;https://www.quatretondeta.es/;true;verificada;
+Alicante;Famorca;https://www.famorca.es/;https://www.famorca.es/;true;verificada;
+Alicante;Lorcha;https://www.lorcha.es/;https://www.lorcha.es/;true;verificada;
+Alicante;Muro de Alcoy;https://www.vilademuro.net/;https://www.vilademuro.net/;true;verificada;
+Alicante;Tollos;https://www.tollos.es/;https://www.tollos.es/;true;verificada;
+Alicante;Atzúbia, l';https://www.atzubia.org/;https://www.atzubia.org/;false;sin verificar;Dominio correcto (coincide con el email) pero el WordPress redirige a 'https:///atzubia.org/' (web rota)
+Alicante;Alcalalí;https://www.alcalali.es/;https://www.alcalali.es/;true;verificada;
+Alicante;Beniarbeig;https://www.beniarbeig.org/;https://www.beniarbeig.es/;true;web corregida;Antes: https://www.beniarbeig.org/ (dudoso)
+Alicante;Benitachell;https://www.elpoblenoudebenitatxell.org/;https://elpoblenoudebenitatxell.com/;true;web corregida;Antes: https://www.elpoblenoudebenitatxell.org/ (dudoso)
+Alicante;Llíber;https://www.lliber.org/;https://www.lliber.org/;true;verificada;
+Alicante;Orba;https://www.orba.es/;https://www.orba.es/;true;verificada;
+Alicante;Pedreguer;https://www.pedreguer.es/;https://www.pedreguer.es/;true;verificada;
+Alicante;Ràfol d'Almúnia, el;https://www.rafol.org/;https://www.elrafoldalmunia.es/;true;web corregida;Antes: https://www.rafol.org/ (dudoso)
+Alicante;Sanet y Negrals;https://www.sanetynegrals.org/;https://www.sanetynegrals.es/;true;web actualizada;https://www.sanetynegrals.org/ redirige al dominio nuevo
+Alicante;Senija;https://www.senija.es/;https://www.senija.es/;true;verificada;
+Alicante;Teulada;https://www.teuladamoraira.org/;https://www.teuladamoraira.com.es/;true;web actualizada;https://www.teuladamoraira.org/ redirige al dominio nuevo
+Alicante;Tormos;https://www.tormos.es/;https://www.tormos.es/;true;verificada;
+Alicante;Vall de Gallinera, la;https://www.valldegallinera.es/;https://www.lavalldegallinera.org/;true;web corregida;Antes: https://www.valldegallinera.es/ (http_500)
+Alicante;Vall de Laguar, la;https://www.lavalldelaguar.es/;https://www.lavalldelaguar.es/;true;verificada;
+Alicante;Alfàs del Pi, l';https://www.lalfas.com/;https://www.lalfas.es/;true;web corregida;Antes: https://www.lalfas.com/ (dudoso)
+Alicante;Altea;https://www.altea.es/;https://www.altea.es/;true;verificada;
+Alicante;Beniardá;https://www.beniarda.es/;https://www.beniarda.es/;true;verificada;
+Alicante;Confrides;https://www.confrides.es/;https://www.confrides.es/;true;verificada;
+Alicante;Finestrat;https://www.finestrat.org/;https://ayto-finestrat.es/;true;web actualizada;https://www.finestrat.org/ redirige al dominio nuevo
+Alicante;Castell de Guadalest, el;https://www.guadalest.es/;https://www.guadalest.es/;true;verificada;
+Alicante;Orxeta;https://www.orxeta.es/;https://www.orxeta.es/;true;verificada;
+Alicante;Relleu;https://www.relleu.es/;https://www.relleu.es/;true;verificada;
+Alicante;Tàrbena;https://www.tarbena.es/;https://www.tarbena.es/;true;verificada;
+Alicante;Villajoyosa;https://www.villajoyosa.es/;https://www.villajoyosa.com/;true;web actualizada;https://www.villajoyosa.es/ redirige al dominio nuevo
+Alicante;Algueña;https://www.alguenya.es/;https://www.alguenya.es/;true;verificada;
+Alicante;Hondón de las Nieves;https://www.fondoneus.es/;https://www.fondoneus.es/;true;verificada;
+Alicante;Hondón de los Frailes;https://www.hondondelosfrailes.es/;https://www.hondondelosfrailes.es/;true;verificada;
+Alicante;Monforte del Cid;https://www.monfortedelcid.es/;https://www.monfortedelcid.es/;true;verificada;
+Castellón;Alcora, l';https://www.alcora.org/;https://lalcora.es/;true;web actualizada;https://www.alcora.org/ redirige al dominio nuevo
+Castellón;Lucena del Cid;https://www.figueroles.es/;https://www.lucenadelcid.es/;true;web corregida;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Atzeneta del Maestrat;https://www.atzenetadelmaestrat.es/;https://www.atzenetadelmaestrat.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Ares del Maestrat;https://www.aresdelmaestrat.es/;https://www.aresdelmaestrat.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Benassal;https://www.benassal.es/;https://www.benassal.es/;true;verificada;
+Castellón;Culla;https://www.culla.es/;https://www.culla.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Serratella, la;https://www.sarratella.es/;https://www.laserratella.es/;true;web corregida;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Tírig;https://www.tirig.es/;https://www.tirig.es/;true;verificada;
+Castellón;Vistabella del Maestrat;https://www.vistabelladelmaestrat.es/;https://www.vistabelladelmaestrat.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Arañuel;https://www.aranuel.es/;https://www.aranuel.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Argelita;https://www.argelita.es/;https://www.argelita.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Ayódar;https://www.ayodar.es/;https://www.ayodar.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Cirat;https://www.cirat.es/;https://www.cirat.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Cortes de Arenoso;https://www.cortesdearenoso.es/;https://www.cortesdearenoso.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Fanzara;https://www.fanzara.es/;https://www.fanzara.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Fuentes de Ayódar;https://www.fuentesdeayodar.es/;https://www.fuentesdeayodar.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Montanejos;https://www.montanejos.es/;https://www.montanejos.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Vallat;https://www.vallat.es/;https://www.vallat.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Villahermosa del Río;https://www.villahermosadelrio.es/;https://www.villahermosadelrio.es/;true;verificada;
+Castellón;Villanueva de Viver;https://www.villanuevadeviver.es/;https://www.villanuevadeviver.es/;true;verificada;
+Castellón;Altura;https://www.altura.es/;https://www.altura.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Azuébar;https://www.azuebar.es/;https://www.azuebar.es/;true;verificada;
+Castellón;Barracas;https://www.barracas.es/;https://www.barracas.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Bejís;https://www.bejis.es/;https://www.bejis.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Chóvar;https://www.chovar.es/;https://www.chovar.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Gaibiel;https://www.gaibiel.es/;https://www.gaibiel.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Geldo;https://www.geldo.es/;https://www.geldo.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Navajas;https://www.navajas.es/;https://www.navajas.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Soneja;https://www.soneja.es/;https://www.soneja.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Teresa;https://www.teresa.es/;https://www.teresa.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Torás;https://www.toras.es/;https://www.toras.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Viver;https://www.viver.es/;https://www.viver.es/;true;verificada;
+Castellón;Alcalà de Xivert;https://www.alcaladexivert.es/;https://www.alcaladexivert.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Càlig;https://www.calig.es/;https://www.calig.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Jana, la;https://www.lajana.es/;https://www.lajana.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Sant Mateu;https://www.santmateu.com/;https://www.santmateu.com/;true;verificada;
+Castellón;San Rafael del Río;https://www.sanrafaeldelrio.es/;https://www.sanrafaeldelrio.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Santa Magdalena de Pulpis;https://www.santamagdalenadepulpis.es/;https://www.santamagdalena.es/;true;web corregida;Antes: https://www.santamagdalenadepulpis.es/ (dudoso)
+Castellón;Almassora;https://www.almassora.es/;https://www.almassora.es/;true;verificada;
+Castellón;Benlloc;https://www.benlloch.es/;https://benlloc.es/;true;web corregida;Antes: https://www.benlloch.es/ (dudoso)
+Castellón;Cabanes;https://www.cabanes.es/;https://www.cabanes.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Coves de Vinromà, les;https://www.lescovesdevinroma.es/;https://www.lescovesdevinroma.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Oropesa del Mar;https://www.oropesadelmar.es/;https://www.oropesadelmar.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Pobla de Tornesa, la;https://www.lapoblatornesa.es/;https://www.lapoblatornesa.es/;true;verificada;
+Castellón;Torreblanca;https://www.torreblanca.es/;https://www.torreblanca.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Vilanova d'Alcolea;https://www.vilanovadalcolea.es/;https://www.vilanovadalcolea.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Aín;https://www.ajuntamentdain.es/;https://www.ajuntamentdain.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Alcudia de Veo;https://www.alcudiadeveo.es/;https://www.alcudiadeveo.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Almenara;https://www.almenara.es/;https://www.almenara.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Betxí;https://www.betxi.es/;https://www.betxi.es/;true;verificada;
+Castellón;Eslida;https://www.eslida.es/;https://www.eslida.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Llosa, la;https://www.lallosa.es/;https://www.lallosa.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Nules;https://www.nules.es/;https://nules.org/;true;web actualizada;https://www.nules.es/ redirige al dominio nuevo
+Castellón;Ribesalbes;https://www.ribesalbes.es/;https://www.ribesalbes.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Vall d'Uixó, la;https://www.lavallduixo.es/;https://www.lavallduixo.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Vilavella, la;https://www.lavilavella.com/;https://www.lavilavella.com/;true;verificada;
+Castellón;Alquerías del Niño Perdido;https://www.lesalqueries.es/;https://www.lesalqueries.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Castellón;Forcall;https://www.forcall.es/;https://www.forcall.es/;true;verificada;Verificada al volver a estar disponible la plataforma de la Diputació de Castelló
+Valencia;Albalat dels Tarongers;https://www.albalatdelstarongers.net/;https://www.albalatdelstarongers.es/;true;web corregida;Antes: https://www.albalatdelstarongers.net/ (no era la web municipal)
+Valencia;Alfara de la Baronia;https://www.alfaradelabaronia.es/;https://www.alfaradelabaronia.es/;true;verificada;
+Valencia;Algar de Palancia;https://www.algardepalancia.es/;https://www.algardepalancia.es/;true;verificada;
+Valencia;Algímia d'Alfara;https://www.algimiadealfara.es/;https://www.algimiadealfara.es/;true;verificada;
+Valencia;Benavites;https://www.benavites.es/;https://www.benavites.es/;true;verificada;
+Valencia;Benifairó de les Valls;https://www.benifairovalls.com/;https://www.benifairovalls.com/;true;verificada;
+Valencia;Canet d'En Berenguer;https://www.canetdenberenguer.es/;https://www.canetdenberenguer.es/;true;verificada;
+Valencia;Quart de les Valls;https://www.quartdelesvalls.es/;https://www.quartdelesvalls.es/;true;verificada;
+Valencia;Quartell;https://www.quartell.es/;https://www.quartell.es/;true;verificada;
+Valencia;Faura;https://www.fauraweb.net/;https://www.fauraweb.net/;true;verificada;
+Valencia;Gilet;https://www.gilet.es/;https://www.gilet.es/;true;verificada;
+Valencia;Petrés;https://www.ajuntamentpetres.es/;https://www.petres.es/;true;web corregida;Antes: https://www.ajuntamentpetres.es/ (http_503)
+Valencia;Torres Torres;https://www.torrestorres.es/;https://www.torrestorres.es/;true;verificada;
+Valencia;Benaguasil;https://www.benaguasil.com/;https://www.benaguasil.es/;true;web actualizada;https://www.benaguasil.com/ redirige al dominio nuevo
+Valencia;Bétera;https://www.betera.es/;https://www.betera.es/;true;verificada;
+Valencia;Casinos;https://www.casinos.es/;https://www.casinos.es/;true;verificada;
+Valencia;Domeño;https://www.domeno.es/;https://www.domeno.es/;true;verificada;
+Valencia;Eliana, l';https://www.leliana.es/;https://www.leliana.es/;true;verificada;
+Valencia;Llíria;https://www.lliria.es/;https://www.lliria.es/;true;verificada;
+Valencia;Marines;https://www.marines.es/;https://www.marines.es/;true;verificada;
+Valencia;Náquera;https://www.naquera.com/;https://www.naquera.es/;true;web corregida;Antes: https://www.naquera.com/ (http_500)
+Valencia;Riba-roja de Túria;https://www.ribarroja.es/;https://www.ribarroja.es/;true;verificada;
+Valencia;Vilamarxant;https://www.vilamarxant.es/;https://www.vilamarxant.es/;true;verificada;
+Valencia;Gátova;https://www.gatova.es/;https://www.gatova.es/;true;verificada;
+Valencia;San Antonio de Benagéber;https://www.sabenageber.com/;https://www.sanantoniodebenageber.es/;true;web corregida;Antes: https://www.sabenageber.com/ (http_0)
+Valencia;Anna;https://www.ayto-anna.org/;https://www.ayuntamientoanna.es/;true;web corregida;Antes: https://www.ayto-anna.org/ (no era la web municipal)
+Valencia;Bicorp;https://www.bicorp.es/;https://www.bicorp.es/;true;verificada;
+Valencia;Bolbaite;https://www.bolbaite.es/;https://www.bolbaite.es/;true;verificada;
+Valencia;Chella;https://www.aytochella.es/;https://www.chella.es/;true;web corregida;Antes: https://www.aytochella.es/ (http_0)
+Valencia;Enguera;https://www.enguera.es/;https://www.enguera.es/;true;verificada;
+Valencia;Navarrés;https://www.navarres.es/;https://www.navarres.es/;true;verificada;
+Valencia;Quesa;https://www.quesa.es/;https://www.quesa.es/;true;verificada;
+Valencia;Alcúdia de Crespins, l';https://www.acrespins.es/;https://www.lalcudiadecrespins.es/;true;web corregida;Antes: https://www.acrespins.es/ (dudoso)
+Valencia;Barxeta;https://www.barxeta.es/;https://www.barxeta.es/;true;verificada;
+Valencia;Cerdà;https://www.cerda.es/;https://www.cerda.es/;true;verificada;
+Valencia;Estubeny;https://www.estubeny.es/;https://www.estubeny.es/;true;verificada;
+Valencia;Font de la Figuera, la;https://www.lafontdelafiguera.net/;https://www.lafontdelafiguera.es/;true;web actualizada;https://www.lafontdelafiguera.net/ redirige al dominio nuevo
+Valencia;Genovés;https://www.genoves.es/;https://www.genoves.es/;true;verificada;
+Valencia;Granja de la Costera, la;https://www.lagranjadelacostera.com/;https://www.lagranjadelacostera.es/;true;web corregida;Antes: https://www.lagranjadelacostera.com/ (dudoso)
+Valencia;Xàtiva;https://www.xativa.es/;https://www.xativa.es/;true;verificada;
+Valencia;Llocnou d'En Fenollet;https://www.llocnoudenfenollet.es/;https://www.llocnoudenfenollet.es/;true;verificada;
+Valencia;Llanera de Ranes;https://www.llaneraderanes.es/;https://www.llaneraderanes.es/;true;verificada;
+Valencia;Llosa de Ranes, la;https://www.lallosaderanes.es/;https://www.lallosaderanes.es/;true;verificada;
+Valencia;Mogente;https://www.moixent.es/;https://www.moixent.es/;true;verificada;
+Valencia;Montesa;https://www.montesa.es/;https://www.montesa.es/;true;verificada;
+Valencia;Novetlè;https://www.novetle.es/;https://www.novetle.es/;true;verificada;
+Valencia;Rotglà i Corberà;https://www.rotglaicorbera.es/;https://www.rotglaicorbera.es/;true;verificada;
+Valencia;Torrella;https://www.torrella.es/;https://www.torrella.es/;true;verificada;
+Valencia;Vallada;https://www.vallada.es/;https://www.vallada.es/;true;verificada;
+Valencia;Vallés;https://www.valles.es/;https://www.valles.es/;true;verificada;
+Valencia;Albalat dels Sorells;https://www.albalatdelssorells.net/;https://www.albalatdelssorells.net/;true;verificada;
+Valencia;Alboraya;https://www.alboraya.com/;https://www.alboraya.es/;true;web actualizada;https://www.alboraya.com/ redirige al dominio nuevo
+Valencia;Alfara del Patriarca;https://www.alfaradelpatriarca.es/;https://www.alfaradelpatriarca.es/;true;verificada;
+Valencia;Almàssera;https://www.almassera.es/;https://www.almassera.es/;true;verificada;
+Valencia;Bonrepòs i Mirambell;https://www.bonreposimirambell.es/;https://www.bonreposimirambell.es/;true;verificada;
+Valencia;Burjassot;https://www.ayto-burjassot.es/;https://www.burjassot.org/;true;web corregida;Antes: https://www.ayto-burjassot.es/ (no era la web municipal)
+Valencia;Emperador;https://www.emperador.es/;https://www.emperador.es/;true;verificada;
+Valencia;Foios;https://www.foios.es/;https://www.foios.es/;true;verificada;
+Valencia;Godella;https://www.godella.es/;https://www.godella.es/;true;verificada;
+Valencia;Massalfassar;https://www.massalfassar.es/;https://www.massalfassar.es/;true;verificada;
+Valencia;Massamagrell;https://www.massamagrell.es/;https://www.massamagrell.es/;true;verificada;
+Valencia;Meliana;https://www.meliana.es/;https://www.meliana.es/;true;verificada;
+Valencia;Moncada;https://www.moncada.es/;https://www.moncada.es/;true;verificada;
+Valencia;Paterna;https://www.ayto-paterna.es/;https://www.paterna.es/;true;web corregida;Antes: https://www.ayto-paterna.es/ (no era la web municipal)
+Valencia;Pobla de Farnals, la;https://www.lapobladefarnals.es/;https://www.lapobladefarnals.es/;true;verificada;
+Valencia;Puig de Santa Maria, el;https://www.elpuig.es/;https://www.elpuig.es/;true;verificada;
+Valencia;Puçol;https://www.pucol.es/;https://www.pucol.es/;true;verificada;
+Valencia;Rafelbunyol;https://www.rafelbunyol.es/;https://www.rafelbunyol.es/;true;verificada;
+Valencia;Rocafort;https://www.rocafort.es/;https://www.rocafort.es/;true;verificada;
+Valencia;Tavernes Blanques;https://www.tavernesblanques.es/;https://www.tavernesblanques.es/;true;verificada;
+Valencia;Vinalesa;https://www.vinalesa.org/;https://www.vinalesa.es/;true;web corregida;Antes: https://www.vinalesa.org/ (http_404)
+Valencia;Alcàsser;https://www.alcasser.es/;https://www.alcasser.es/;true;verificada;
+Valencia;Aldaia;https://www.ajuntamentaldaia.org/;https://aldaia.es/;true;web actualizada;https://www.ajuntamentaldaia.org/ redirige al dominio nuevo
+Valencia;Alfafar;https://www.alfafar.com/;https://www.alfafar.es/;true;web actualizada;https://www.alfafar.com/ redirige al dominio nuevo
+Valencia;Benetússer;https://www.benetusser.net/;https://www.benetusser.es/;true;web corregida;Antes: https://www.benetusser.net/ (dudoso)
+Valencia;Beniparrell;https://www.beniparrell.es/;https://www.beniparrell.es/;true;verificada;
+Valencia;Catarroja;https://www.catarroja.es/;https://www.catarroja.es/;true;verificada;
+Valencia;Quart de Poblet;https://www.quartdepoblet.org/;https://www.quartdepoblet.es/;true;web corregida;Antes: https://www.quartdepoblet.org/ (http_404)
+Valencia;Xirivella;https://www.xirivella.es/;https://www.xirivella.es/;true;verificada;
+Valencia;Manises;https://www.manises.es/;https://www.manises.es/;true;verificada;
+Valencia;Massanassa;https://www.massanassa.es/;https://www.massanassa.es/;true;verificada;
+Valencia;Paiporta;https://www.paiporta.es/;https://www.paiporta.es/;true;verificada;
+Valencia;Picanya;https://www.picanya.org/;https://www.picanya.org/;true;verificada;
+Valencia;Picassent;https://www.picassent.es/;https://www.picassent.es/;true;verificada;
+Valencia;Sedaví;https://www.sedavi.es/;https://www.sedavi.es/;true;verificada;
+Valencia;Silla;https://www.silla.es/;https://www.silla.es/;true;verificada;
+Valencia;Alborache;https://www.alborache.es/;https://www.alborache.es/;true;verificada;
+Valencia;Buñol;https://www.bunyol.es/;https://www.bunyol.es/;true;verificada;
+Valencia;Cheste;https://www.cheste.es/;https://www.cheste.es/;true;verificada;
+Valencia;Chiva;https://www.chiva.es/;https://www.chiva.es/;true;verificada;
+Valencia;Dos Aguas;;https://www.dosaguas.es/;true;web corregida;Antes: (sin web) (sin_web)
+Valencia;Godelleta;https://www.godelleta.es/;https://www.godelleta.es/;true;verificada;
+Valencia;Macastre;https://www.macastre.es/;https://www.macastre.es/;true;verificada;
+Valencia;Siete Aguas;https://www.sieteaguas.es/;https://www.sieteaguas.es/;true;verificada;
+Valencia;Yátova;https://www.yatova.es/;https://www.yatova.es/;true;verificada;
+Valencia;Camporrobles;https://www.camporrobles.es/;https://www.camporrobles.es/;true;verificada;
+Valencia;Caudete de las Fuentes;https://www.caudetedelasfuentes.es/;https://www.caudetedelasfuentes.es/;true;verificada;
+Valencia;Chera;https://www.chera.es/;https://www.chera.es/;true;verificada;
+Valencia;Fuenterrobles;https://www.fuenterrobles.es/;https://www.fuenterrobles.es/;true;verificada;
+Valencia;Requena;https://www.requena.es/;https://www.requena.es/;true;verificada;
+Valencia;Sinarcas;https://www.sinarcas.es/;https://www.sinarcas.es/;true;verificada;
+Valencia;Utiel;https://www.utiel.es/;https://www.utiel.es/;true;verificada;
+Valencia;Venta del Moro;https://www.ventadelmoro.es/;https://www.ventadelmoro.es/;true;verificada;
+Valencia;Villargordo del Cabriel;https://www.villargordodelcabriel.es/;https://www.villargordodelcabriel.es/;true;verificada;
+Valencia;Alberic;https://www.alberic.es/;https://www.alberic.es/;true;verificada;
+Valencia;Alcàntera de Xúquer;https://www.alcanteradexuquer.es/;https://www.alcanteradexuquer.es/;true;verificada;
+Valencia;Alcúdia, l';https://www.lalcudia.com/;https://www.lalcudia.com/web/;true;web corregida;Antes: https://www.lalcudia.com/ (dudoso)
+Valencia;Algemesí;https://www.algemesi.net/;https://www.algemesi.es/;true;web corregida;Antes: https://www.algemesi.net/ (http_0)
+Valencia;Alginet;https://www.alginet.es/;https://www.alginet.es/;true;verificada;
+Valencia;Antella;https://www.antella.es/;https://www.antella.es/;true;verificada;
+Valencia;Beneixida;https://www.beneixida.es/;https://www.beneixida.es/;true;verificada;
+Valencia;Benifaió;https://www.benifaio.es/;https://www.benifaio.es/;true;verificada;
+Valencia;Benimodo;https://www.benimodo.es/;https://www.benimodo.es/;true;verificada;
+Valencia;Carcaixent;https://www.ayto-carcaixent.es/;https://www.carcaixent.es/;true;web corregida;Antes: https://www.ayto-carcaixent.es/ (dudoso)
+Valencia;Càrcer;https://www.carcer.net/;https://carcer.es/;true;web corregida;Antes: https://www.carcer.net/ (http_0)
+Valencia;Carlet;https://www.carlet.es/;https://www.carlet.es/;true;verificada;
+Valencia;Catadau;https://www.catadau.es/;https://www.catadau.es/;true;verificada;
+Valencia;Cotes;https://www.cotes.es/;https://www.cotes.es/;true;verificada;
+Valencia;Énova, l';https://www.lenova.es/;https://www.lenova.es/;true;verificada;
+Valencia;Gavarda;https://www.gavarda.es/;https://www.gavarda.es/;true;verificada;
+Valencia;Guadassuar;https://www.guadassuar.es/;https://www.guadassuar.es/;true;verificada;
+Valencia;Llombai;https://www.llombai.es/;https://www.llombai.es/;true;verificada;
+Valencia;Manuel;https://www.manuel.es/;https://www.manuel.es/;true;verificada;
+Valencia;Montserrat;https://www.montserrat.es/;https://www.montserrat.es/;true;verificada;
+Valencia;Montroy;https://www.montroi.es/;https://www.montroy.es/;true;web actualizada;https://www.montroi.es/ redirige al dominio nuevo
+Valencia;Pobla Llarga, la;https://www.lapoblallarga.es/;https://www.lapoblallarga.es/;true;verificada;
+Valencia;Rafelguaraf;https://www.rafelguaraf.es/;https://www.rafelguaraf.es/;true;verificada;
+Valencia;Real;https://www.ajuntamentdereal.es/;https://www.ajuntamentdereal.es/;true;verificada;
+Valencia;Sant Joanet;https://www.santjoanet.es/;https://www.santjoanet.es/;true;verificada;
+Valencia;Sellent;https://www.sellent.es/;https://www.sellent.es/;true;verificada;
+Valencia;Senyera;https://www.senyera.es/;https://www.senyera.es/;true;verificada;
+Valencia;Sumacàrcer;https://www.sumacarcer.es/;https://www.sumacarcer.es/;true;verificada;
+Valencia;Tous;https://www.ayuntamientotous.org/;https://ayuntamientotous.es/;true;web actualizada;https://www.ayuntamientotous.org/ redirige al dominio nuevo
+Valencia;Turís;https://www.turis.es/;https://www.turis.es/;true;verificada;
+Valencia;Castelló;https://www.castellosom.com/;https://www.castellosom.es/;true;web actualizada;https://www.castellosom.com/ redirige al dominio nuevo
+Valencia;Albalat de la Ribera;https://www.albalatdelaribera.es/;https://www.albalatdelaribera.es/;true;verificada;
+Valencia;Almussafes;https://www.almussafes.org/;https://almussafes.net/;true;web corregida;Antes: https://www.almussafes.org/ (dudoso)
+Valencia;Corbera;https://www.corbera.es/;https://www.corbera.es/;true;verificada;
+Valencia;Cullera;https://www.cullera.es/;https://www.cullera.es/;true;verificada;
+Valencia;Favara;https://www.favara.es/;https://www.favara.es/;true;verificada;
+Valencia;Fortaleny;https://www.fortaleny.es/;https://www.fortaleny.es/;true;verificada;
+Valencia;Llaurí;https://www.llauri.org/;https://www.llauri.org/;true;verificada;
+Valencia;Polinyà de Xúquer;https://www.polinyadexuquer.es/;https://www.polinyadexuquer.es/;true;verificada;
+Valencia;Sollana;https://www.sollana.es/;https://www.sollana.es/;true;verificada;
+Valencia;Sueca;https://www.sueca.es/;https://www.sueca.es/;true;verificada;
+Valencia;Benicull de Xúquer;https://www.beniculldexuquer.es/;https://www.beniculldexuquer.es/;true;verificada;
+Valencia;Ademuz;https://www.ademuz.es/;https://www.ademuz.es/;true;verificada;
+Valencia;Casas Altas;https://www.casasaltas.es/;https://www.casasaltas.es/;true;verificada;
+Valencia;Casas Bajas;https://www.ayuntamientocasasbajas.es/;https://www.casasbajas.es/;true;web corregida;Antes: https://www.ayuntamientocasasbajas.es/ (http_0)
+Valencia;Castielfabib;https://www.castielfabib.es/;https://www.castielfabib.es/;true;verificada;
+Valencia;Puebla de San Miguel;;https://www.puebladesanmiguel.es/;true;web corregida;Antes: (sin web) (sin_web)
+Valencia;Torrebaja;;https://www.torrebaja.es/;true;web corregida;Antes: (sin web) (sin_web)
+Valencia;Vallanca;https://www.vallanca.es/;https://www.vallanca.es/;true;verificada;
+Valencia;Ador;https://www.ayuntamientoador.org/;https://www.ador.es/;true;web corregida;Antes: https://www.ayuntamientoador.org/ (dudoso)
+Valencia;Alfauir;https://www.alfauir.es/;https://www.alfauir.es/;true;verificada;
+Valencia;Almiserà;https://www.almisera.org/;https://www.almisera.es/;true;web corregida;Antes: https://www.almisera.org/ (dudoso)
+Valencia;Almoines;https://www.almoines.es/;https://www.almoines.es/;true;verificada;
+Valencia;Alqueria de la Comtessa, l';https://www.lalqueriadelacomtessa.es/;https://www.lalqueriadelacomtessa.com/;true;web actualizada;https://www.lalqueriadelacomtessa.es/ redirige al dominio nuevo
+Valencia;Barx;https://www.barx.es/;https://www.barx.es/;true;verificada;
+Valencia;Beniarjó;https://www.ajuntamentbeniarjo.org/;https://www.beniarjo.es/;true;web corregida;Antes: https://www.ajuntamentbeniarjo.org/ (dudoso)
+Valencia;Benifairó de la Valldigna;https://www.benifairo.org/;https://www.benifairo.org/;true;verificada;
+Valencia;Beniflá;https://www.benifla.es/;https://www.benifla.es/;true;verificada;
+Valencia;Benirredrà;https://www.benirredraparticipa.es/;https://www.benirredraparticipa.es/;true;verificada;
+Valencia;Gandia;https://www.gandia.es/;https://www.gandia.es/;true;verificada;
+Valencia;Guardamar de la Safor;https://www.guardamardelasafor.org/;https://www.guardamardelasafor.org/;true;verificada;
+Valencia;Xeresa;https://www.ajuntamentxeresa.org/;https://www.ajuntamentxeresa.org/;true;verificada;
+Valencia;Llocnou de Sant Jeroni;https://www.llocnoudesantjeroni.com/;https://www.llocnoudesantjeroni.es/;true;web actualizada;https://www.llocnoudesantjeroni.com/ redirige al dominio nuevo
+Valencia;Oliva;https://www.oliva.es/;https://www.oliva.es/;true;verificada;
+Valencia;Palma de Gandía;https://www.palmadegandia.net/;https://www.palmadegandia.es/;true;web corregida;Antes: https://www.palmadegandia.net/ (dudoso)
+Valencia;Palmera;https://www.ajuntamentpalmera.org/;https://www.palmera.es/;true;web corregida;Antes: https://www.ajuntamentpalmera.org/ (dudoso)
+Valencia;Piles;https://www.ajuntamentpiles.es/;https://www.piles.es/;true;web corregida;Antes: https://www.ajuntamentpiles.es/ (dudoso)
+Valencia;Potries;https://www.potries.org/;https://www.potries.org/;true;verificada;
+Valencia;Rafelcofer;;https://www.rafelcofer.es/;true;web corregida;Antes: (sin web) (sin_web)
+Valencia;Real de Gandía;https://www.realdegandia.es/;https://www.realdegandia.es/;true;verificada;
+Valencia;Ròtova;https://www.rotova.es/;https://www.rotova.es/;true;verificada;
+Valencia;Tavernes de la Valldigna;https://www.tavernes.org/;https://www.tavernes.es/;true;web corregida;Antes: https://www.tavernes.org/ (http_0)
+Valencia;Villalonga;https://www.villalonga.es/;https://www.villalonga.es/;true;verificada;
+Valencia;Alcublas;https://www.alcublas.es/;https://www.alcublas.es/;true;verificada;
+Valencia;Alpuente;https://www.alpuente.es/;https://www.alpuente.es/;true;verificada;
+Valencia;Andilla;https://www.andilla.es/;https://www.andilla.es/;true;verificada;
+Valencia;Aras de los Olmos;https://www.arasdelosolmos.es/;https://www.arasdelosolmos.es/;true;verificada;
+Valencia;Benagéber;https://www.benageber.es/;https://www.benageber.es/;true;verificada;
+Valencia;Bugarra;https://www.bugarra.es/;https://www.bugarra.es/;true;verificada;
+Valencia;Calles;https://www.calles.es/;https://www.calles.es/;true;verificada;
+Valencia;Chelva;https://www.chelva.es/;https://www.chelva.es/;true;verificada;
+Valencia;Chulilla;https://www.chulilla.es/;https://www.chulilla.es/;true;verificada;
+Valencia;Gestalgar;https://www.gestalgar.es/;https://www.gestalgar.es/;true;verificada;
+Valencia;Higueruelas;https://www.higueruelas.es/;https://www.higueruelas.es/;true;verificada;
+Valencia;Losa del Obispo;https://www.losadelobispo.es/;https://www.losadelobispo.es/;true;verificada;
+Valencia;Pedralba;https://www.pedralba.es/;https://www.pedralba.es/;true;verificada;
+Valencia;Sot de Chera;https://www.sotdechera.es/;https://www.sotdechera.es/;true;verificada;
+Valencia;Titaguas;https://www.titaguas.es/;https://www.titaguas.es/;true;verificada;
+Valencia;Tuéjar;https://www.tuejar.es/;https://www.tuejar.es/;true;verificada;
+Valencia;Villar del Arzobispo;https://www.villardelarzobispo.es/;https://www.villardelarzobispo.es/;true;verificada;
+Valencia;Yesa, la;https://www.layesa.es/;https://www.layesa.es/;true;verificada;
+Valencia;Atzeneta d'Albaida;https://www.atzenetadalbaida.es/;https://www.atzenetadalbaida.es/;true;verificada;
+Valencia;Agullent;https://www.agullent.org/;https://www.agullent.es/;true;web corregida;Antes: https://www.agullent.org/ (aparcado)
+Valencia;Albaida;https://www.albaida.es/;https://www.albaida.es/;true;verificada;
+Valencia;Alfarrasí;https://www.ajuntamentalfarrasi.es/;https://www.alfarrasi.es/;true;web corregida;Antes: https://www.ajuntamentalfarrasi.es/ (aparcado)
+Valencia;Aielo de Rugat;https://www.aieloderugat.es/;https://www.aieloderugat.es/;true;verificada;
+Valencia;Bèlgida;https://www.belgida.es/;https://www.belgida.es/;true;verificada;
+Valencia;Bellús;https://www.bellus.es/;https://www.bellus.es/;true;verificada;
+Valencia;Beniatjar;https://www.beniatjar.org/;https://www.beniatjar.es/;true;web corregida;Antes: https://www.beniatjar.org/ (dudoso)
+Valencia;Benicolet;https://www.ajuntamentbenicolet.org/;https://www.benicolet.es/;true;web corregida;Antes: https://www.ajuntamentbenicolet.org/ (dudoso)
+Valencia;Benigànim;https://www.beniganim.org/;https://www.beniganim.es/;true;web corregida;Antes: https://www.beniganim.org/ (dudoso)
+Valencia;Benissoda;https://www.benissoda.es/;https://www.benissoda.es/;true;verificada;
+Valencia;Benissuera;https://www.benissuera.es/;https://www.benisuera.es/;true;web actualizada;https://www.benissuera.es/ redirige al dominio nuevo
+Valencia;Bocairent;https://www.bocairent.es/;https://www.bocairent.es/;true;verificada;
+Valencia;Bufali;https://www.bufali.es/;https://www.bufali.es/;true;verificada;
+Valencia;Carrícola;https://www.carricola.es/;https://www.carricola.es/;true;verificada;
+Valencia;Castelló de Rugat;https://www.castelloderugat.es/;https://www.castelloderugat.es/;true;verificada;
+Valencia;Quatretonda;https://www.quatretonda.org/;https://quatretonda.es/;true;web corregida;Antes: https://www.quatretonda.org/ (dudoso)
+Valencia;Guadasséquies;https://www.guadassequies.es/;https://www.guadassequies.es/;true;verificada;
+Valencia;Llutxent;https://www.llutxent.org/;https://www.llutxent.es/;true;web actualizada;https://www.llutxent.org/ redirige al dominio nuevo
+Valencia;Montaverner;https://www.montaverner.com/;https://www.montaverner.es/;true;web corregida;Antes: https://www.montaverner.com/ (dudoso)
+Valencia;Montichelvo;https://www.montitxelvo.org/;https://www.montitxelvo.es/;true;web corregida;Antes: https://www.montitxelvo.org/ (dudoso)
+Valencia;Olleria, l';https://www.lolleria.org/;https://www.lolleria.org/;true;verificada;
+Valencia;Ontinyent;https://www.ontinyent.es/;https://www.ontinyent.es/;true;verificada;
+Valencia;Otos;https://www.otos.es/;https://www.otos.es/;true;verificada;
+Valencia;Palomar, el;https://www.elpalomar.es/;https://www.elpalomar.es/;true;verificada;
+Valencia;Pinet;https://www.pinet.es/;https://www.pinet.es/;true;verificada;
+Valencia;Pobla del Duc, la;https://www.lapobladelduc.es/;https://www.lapobladelduc.es/;true;verificada;
+Valencia;Ràfol de Salem;https://www.rafoldesalem.org/;https://rafoldesalem.es/;true;web corregida;Antes: https://www.rafoldesalem.org/ (dudoso)
+Valencia;Rugat;https://www.rugat.es/;https://www.rugat.es/;true;verificada;
+Valencia;Salem;https://www.salem.es/;https://www.salem.es/;true;verificada;
+Valencia;Sempere;https://www.sempere.es/;https://www.sempere.es/;true;verificada;
+Valencia;Terrateig;https://www.ajuntamentdeterrateig.org/;https://www.terrateig.es/;true;web corregida;Antes: https://www.ajuntamentdeterrateig.org/ (dudoso)
+Valencia;Ayora;https://www.ayora.es/;https://www.ayora.es/;true;verificada;
+Valencia;Cortes de Pallás;https://www.cortesdepallas.es/;https://www.cortesdepallas.es/;true;verificada;
+Valencia;Jalance;https://www.jalance.es/;https://www.jalance.es/;true;verificada;
+Valencia;Jarafuel;https://www.jarafuel.es/;https://www.jarafuel.es/;true;verificada;
+Valencia;Teresa de Cofrentes;https://www.teresadecofrentes.es/;https://www.teresadecofrentes.es/;true;verificada;
+Valencia;Zarra;https://www.zarra.org/;https://www.zarra.es/;true;web corregida;Antes: https://www.zarra.org/ (no era la web municipal)

@@ -1,0 +1,542 @@
+﻿Provincia;Municipio;web;valenciano;motivo;lang_pagina;evidencia
+Alicante;Agost;https://www.agost.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Alicante;Aigües;https://www.aigues.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Alicante;https://www.alicante.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Busot;https://www.busot.es/;true;botón de valenciano (tras ejecutar JS);es;a:Català || a:ca
+Alicante;Campello, el;https://www.elcampello.es/;false;selector de idioma sin valenciano (tras ejecutar JS);es;a:Castellano || a:English
+Alicante;Jijona;https://www.xixona.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Mutxamel;https://ayto.mutxamel.org/;true;botón de valenciano;es-ES;a:Cambiar a VAL || a:VAL
+Alicante;Sant Joan d'Alacant;https://www.santjoandalacant.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;San Vicente del Raspeig;https://raspeig.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Torremanzanas;https://www.torremanzanas.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Alcoy;https://www.alcoi.org/;true;botón de valenciano;ca;a:Valencià
+Alicante;Banyeres de Mariola;https://www.portademariola.com/;true;botón de valenciano;va;a:Valencià
+Alicante;Benifallim;https://www.benifallim.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Castalla;https://www.castalla.org/;true;botón de valenciano;es;a:Val
+Alicante;Ibi;https://www.ibi.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Alicante;Onil;https://www.onil.es/;true;botón de valenciano;ca-es;a:Valencià
+Alicante;Penàguila;https://www.penaguila.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Tibi;https://www.tibi.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Beneixama;https://www.beneixama.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Alicante;Biar;https://www.biar.es/;true;botón de valenciano;va-VA;a:Switch to Valencià || a:Valencià
+Alicante;Campo de Mirra;https://www.elcampdemirra.es/;null;no se encuentra selector de idioma;es-ES;
+Alicante;Cañada;https://www.canyada.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Salinas;https://www.salinas.es/;null;no se encuentra selector de idioma;es;
+Alicante;Sax;https://www.sax.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Villena;https://www.villena.es/;false;selector de idioma sin valenciano (tras ejecutar JS);es;a:English || a:Spanish || option:English
+Alicante;Albatera;https://albatera.es/;null;no se encuentra selector de idioma;es;
+Alicante;Algorfa;https://www.algorfa.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Almoradí;https://www.almoradi.es/;null;no se encuentra selector de idioma;es;
+Alicante;Benejúzar;https://www.benejuzar.es/;null;no se encuentra selector de idioma;es-ES;
+Alicante;Benferri;https://www.benferri.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià || a@href
+Alicante;Benijófar;https://www.benijofar.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Bigastro;https://bigastro.es/;null;no se encuentra selector de idioma;es;
+Alicante;Callosa de Segura;https://www.callosadesegura.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Catral;https://www.catral.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Alicante;Cox;https://www.cox.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Daya Nueva;https://www.dayanueva.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Daya Vieja;https://www.dayavieja.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Dolores;https://www.dolores.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Formentera del Segura;https://www.formenteradelsegura.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Granja de Rocamora;https://www.granjaderocamora.es/;true;botón etiquetado como Català/Catalan (tras ejecutar JS);en-US;a:Catalan || a:ca Catalan
+Alicante;Guardamar del Segura;https://www.guardamardelsegura.es/;true;botón etiquetado como Català/Catalan (tras ejecutar JS);es-ES;option:Catalan
+Alicante;Jacarilla;https://www.jacarilla.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Orihuela;https://www.orihuela.es/;true;botón de valenciano (tras ejecutar JS);es;a:Valenciano
+Alicante;Rafal;https://rafal.es/;null;no se encuentra selector de idioma;es;
+Alicante;Redován;https://www.redovan.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Rojales;https://www.rojales.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valenciano
+Alicante;San Fulgencio;https://www.sanfulgencio.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;San Miguel de Salinas;https://www.sanmigueldesalinas.es/;null;no se encuentra selector de idioma;es-ES;
+Alicante;Torrevieja;https://torrevieja.es/;true;botón de valenciano;es;a:ca
+Alicante;Pilar de la Horadada;https://www.pilardelahoradada.org/;null;no se encuentra selector de idioma;es;
+Alicante;Montesinos, los;https://www.losmontesinos.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;San Isidro;https://sanisidro.es/;null;no se encuentra selector de idioma;es;
+Alicante;Crevillent;https://crevillent.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Elche;https://www.elche.es/;true;botón de valenciano;es-ES;a:Valencià
+Alicante;Santa Pola;https://santapola.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano (Valencià || a:Valencià (Valenciano )
+Alicante;Agres;https://www.agres.es/;true;botón de valenciano;ca;a:Switch to Valencià || a:Valencià
+Alicante;Alcosser;https://www.alcocerdeplanes.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Alcoleja;https://www.alcoleja.es/;true;botón de valenciano;es-ES;a:Valencià
+Alicante;Alfafara;https://www.alfafara.es/;true;botón de valenciano;ca;a:Valencià
+Alicante;Almudaina;https://www.almudaina.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Alqueria d'Asnar, l';https://www.lalqueriadasnar.es/;null;no se encuentra selector de idioma;es;
+Alicante;Balones;https://www.balones.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Benasau;https://www.benasau.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Beniarrés;https://www.beniarres.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Benilloba;https://www.benilloba.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Benillup;https://www.benillup.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Benimarfull;https://www.benimarfull.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Benimassot;https://www.benimassot.es/;true;botón de valenciano;es-ES;a:Valencià
+Alicante;Cocentaina;https://www.cocentaina.es/;true;botón de valenciano;ca;a@href
+Alicante;Quatretondeta;https://www.quatretondeta.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Fageca;https://www.fageca.es/;true;botón de valenciano;ca;a:Valenciano
+Alicante;Famorca;https://www.famorca.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Gaianes;https://www.gaianes.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Alicante;Gorga;https://www.gorga.es/;true;botón de valenciano;en-US;a:Valenciano
+Alicante;Lorcha;https://www.lorcha.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Millena;https://www.millena.es/;false;selector de idioma sin valenciano (tras ejecutar JS);es-ES;a:English || a:Spanish || option:español
+Alicante;Muro de Alcoy;https://www.vilademuro.net/;true;botón de valenciano;ca;a:Valencià
+Alicante;Planes;https://www.planes.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Tollos;https://www.tollos.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Alcalalí;https://www.alcalali.es/;true;botón de valenciano;va;a:Switch to VA || a:VA
+Alicante;Beniarbeig;https://www.beniarbeig.es/;true;botón de valenciano;ca;a:Valencià
+Alicante;Benigembla;https://www.benigembla.es/;null;no se encuentra selector de idioma;es;
+Alicante;Benidoleig;https://www.benidoleig.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Benimeli;https://www.benimeli.es/;true;botón de valenciano;es;a:Catalan || a@href || option:Catalan
+Alicante;Benissa;https://www.ajbenissa.es/;true;botón de valenciano;es-ES;a:Valencià Valencià
+Alicante;Benitachell;https://elpoblenoudebenitatxell.com/;true;botón de valenciano;es-va;a:Valencià || a@href || a@href
+Alicante;Calp;https://www.calp.es/;true;botón de valenciano;es;option:Valenciano (VA)
+Alicante;Castell de Castells;https://www.castelldecastells.es/;true;botón de valenciano;es;a:Catalan || a@href || option:Catalan
+Alicante;Dénia;https://www.ayto-denia.es/;true;"valenciano es el idioma activo; el selector ofrece otros";ca;a:Cambiar a castellano || a:Castellano
+Alicante;Gata de Gorgos;https://www.gatadegorgos.org/;true;botón de valenciano;ca;a:Valenciano
+Alicante;Xaló;https://www.xalo.org/;true;botón de valenciano;va-VA;a:Valencià (va) || a:Valencià
+Alicante;Jávea;https://www.ajxabia.com/;true;botón de valenciano (tras ejecutar JS);es;a:Valencià
+Alicante;Llíber;https://www.lliber.org/;true;botón de valenciano;ca;a:Valencià
+Alicante;Murla;https://www.murla.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Ondara;https://www.ondara.org/;true;botón de valenciano;ca;a:Switch to Valencià || a:Valencià
+Alicante;Orba;https://www.orba.es/;null;no se encuentra selector de idioma;ca;
+Alicante;Parcent;https://www.parcent.es/;true;botón etiquetado como Català/Catalan;es;a:Catalan
+Alicante;Pedreguer;https://www.pedreguer.es/;true;botón de valenciano;ca;option:Valencià
+Alicante;Pego;https://pego.org/;true;botón de valenciano;ca;a:VL
+Alicante;Ràfol d'Almúnia, el;https://www.elrafoldalmunia.es/;true;"valenciano es el idioma activo; el selector ofrece otros";;li:English || li:Español
+Alicante;Sagra;https://www.sagra.es/;true;botón de valenciano;ca;a:Valencià
+Alicante;Sanet y Negrals;https://www.sanetynegrals.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Senija;https://www.senija.es/;true;botón de valenciano;ca;a:Valencià
+Alicante;Teulada;https://www.teuladamoraira.com.es/;true;botón de valenciano (tras ejecutar JS);es-ES;a:Val || option:Valenciano
+Alicante;Tormos;https://www.tormos.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Vall d'Alcalà, la;https://www.lavalldalcala.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Vall d'Ebo, la;https://www.valldebo.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Vall de Gallinera, la;https://www.lavalldegallinera.org/;true;botón de valenciano;va;a:Valencià
+Alicante;Vall de Laguar, la;https://www.lavalldelaguar.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Verger, el;https://www.elverger.es/;true;botón de valenciano;ca;a:Valenciano
+Alicante;Poblets, els;https://www.elspoblets.es/;true;botón etiquetado como Català/Catalan;es;a:Catalan
+Alicante;Alfàs del Pi, l';https://www.lalfas.es/;true;botón etiquetado como Català/Catalan (tras ejecutar JS);es;a:Català || a:ca Català
+Alicante;Altea;https://www.altea.es/;null;no se encuentra selector de idioma;es;
+Alicante;Beniardá;https://www.beniarda.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Benidorm;https://benidorm.org/es;true;botón de valenciano;es;a:Valencià
+Alicante;Benifato;https://www.benifato.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Benimantell;https://www.benimantell.es/es;true;botón de valenciano;es;a:Valencià
+Alicante;Bolulla;https://www.bolulla.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Callosa d'en Sarrià;https://www.callosa.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Alicante;Confrides;https://www.confrides.es/;true;botón de valenciano (tras ejecutar JS);es-ES;a:Valencià || option:catalán
+Alicante;Finestrat;https://ayto-finestrat.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Castell de Guadalest, el;https://www.guadalest.es/;true;botón de valenciano;es;a:Valencià
+Alicante;Nucia, la;https://www.lanucia.es/;null;no se encuentra selector de idioma;zxx;
+Alicante;Orxeta;https://www.orxeta.es/;true;botón etiquetado como Català/Catalan (tras ejecutar JS);es;a:Català
+Alicante;Polop;https://www.polop.org/;true;botón de valenciano;es;a:Valencià Valencià || a:Valencià
+Alicante;Relleu;https://www.relleu.es/;true;botón de valenciano (tras ejecutar JS);es-ES;a:Catalan || a:ca
+Alicante;Sella;https://www.sella.es/;true;botón de valenciano;ca;a:Valencià
+Alicante;Tàrbena;https://www.tarbena.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Villajoyosa;https://www.villajoyosa.com/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Algueña;https://www.alguenya.es/;true;botón de valenciano;es;a:Valenciano
+Alicante;Aspe;https://aspe.es/;null;no se encuentra selector de idioma;es;
+Alicante;Elda;https://www.elda.es/;null;no se encuentra selector de idioma;es;
+Alicante;Hondón de las Nieves;https://www.fondoneus.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Alicante;Hondón de los Frailes;https://www.hondondelosfrailes.es/;false;selector de idioma sin valenciano (tras ejecutar JS);es-ES;option:inglés
+Alicante;Monforte del Cid;https://www.monfortedelcid.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Alicante;Monóvar;https://www.monovar.es/;true;botón etiquetado como Català/Catalan;es;a:Catalan
+Alicante;Novelda;https://www.novelda.es/;true;botón de valenciano;es-ES;a:Valenciano
+Alicante;Petrer;https://www.petrer.es/;true;botón de valenciano;es-ES;a:Cambiar a Valenciano || a:Valenciano
+Alicante;Pinoso;https://www.pinoso.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià
+Alicante;Romana, la;https://aytolaromana.es/;true;botón de valenciano;es-ES;a:Valenciano
+Castellón;Alcora, l';https://lalcora.es/;true;botón de valenciano;ca;a:VA
+Castellón;Costur;https://www.costur.es/;true;botón de valenciano;es;a:VA
+Castellón;Chodos;https://www.xodos.es/;true;botón de valenciano;es;a:VA
+Castellón;Figueroles;https://www.figueroles.es/;true;botón de valenciano;es;a:VA
+Castellón;Lucena del Cid;https://www.lucenadelcid.es/;true;botón de valenciano;es;a:VA
+Castellón;Useras;https://www.lesuseres.es/;true;botón de valenciano;es;a:VA
+Castellón;Atzeneta del Maestrat;https://www.atzenetadelmaestrat.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Albocàsser;https://www.albocasser.es/;true;botón de valenciano;es;a:VA
+Castellón;Ares del Maestrat;https://www.aresdelmaestrat.es/;true;botón de valenciano;es;a:VA
+Castellón;Benafigos;https://www.benafigos.es/;true;botón de valenciano;es;a:VA
+Castellón;Benassal;https://www.benassal.es/;true;botón de valenciano;es;a:VA
+Castellón;Catí;https://www.cati.es/;null;web no accesible al comprobar (HTTP 503);;
+Castellón;Culla;https://www.culla.es/;true;botón de valenciano;es;a:VA
+Castellón;Serratella, la;https://www.laserratella.es/;true;botón de valenciano;es;a:VA
+Castellón;Tírig;https://www.tirig.es/;null;no se encuentra selector de idioma;es;
+Castellón;Torre d'En Besora, la;https://www.latorredenbesora.es/;true;botón de valenciano;es;a:VA
+Castellón;Vilar de Canes;https://www.vilardecanes.es/;true;botón de valenciano;es;a:VA
+Castellón;Vistabella del Maestrat;https://www.vistabelladelmaestrat.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Arañuel;https://www.aranuel.es/;true;botón de valenciano;es;a:VA
+Castellón;Argelita;https://www.argelita.es/;true;botón de valenciano;es;a:VA
+Castellón;Ayódar;https://www.ayodar.es/;true;botón de valenciano;es;a:VA
+Castellón;Castillo de Villamalefa;https://www.castillodevillamalefa.es/;true;botón de valenciano;es;a:VA
+Castellón;Cirat;https://www.cirat.es/;true;botón de valenciano;es;a:VA
+Castellón;Cortes de Arenoso;https://www.cortesdearenoso.es/;true;botón de valenciano;es;a:VA
+Castellón;Espadilla;https://www.espadilla.es/;true;botón de valenciano;es;a:VA
+Castellón;Fanzara;https://www.fanzara.es/;true;botón de valenciano;es;a:VA
+Castellón;Fuente la Reina;https://www.fuentelareina.es/;true;botón de valenciano;es;a:VA
+Castellón;Fuentes de Ayódar;https://www.fuentesdeayodar.es/;true;botón de valenciano;es;a:VA
+Castellón;Ludiente;https://www.ludiente.es/;true;botón de valenciano;es;a:VA
+Castellón;Montán;https://www.montan.es/;true;botón de valenciano;es;a:VA
+Castellón;Montanejos;https://www.montanejos.es/;true;botón de valenciano;es;a:VA
+Castellón;Puebla de Arenoso;https://www.puebladearenoso.es/;true;botón de valenciano;es;a:VA
+Castellón;Toga;https://www.toga.es/;true;botón de valenciano;es;a:VA
+Castellón;Torralba del Pinar;https://www.torralbadelpinar.es/;true;botón de valenciano;es;a:VA
+Castellón;Torrechiva;https://www.torrechiva.es/;true;botón de valenciano;es;a:VA
+Castellón;Vallat;https://www.vallat.es/;true;botón de valenciano;es;a:VA
+Castellón;Villahermosa del Río;https://www.villahermosadelrio.es/;null;no se encuentra selector de idioma;es;
+Castellón;Villamalur;https://www.villamalur.es/;true;botón de valenciano;es;a:VA
+Castellón;Villanueva de Viver;https://www.villanuevadeviver.es/;null;no se encuentra selector de idioma;es;
+Castellón;Zucaina;https://www.zucaina.es/;true;botón de valenciano;es;a:VA
+Castellón;Algimia de Almonacid;https://www.algimiadealmonacid.es/;true;botón de valenciano;es;a:VA
+Castellón;Almedíjar;https://www.almedijar.es/;true;botón de valenciano;es;a:VA
+Castellón;Altura;https://www.altura.es/;true;botón de valenciano;es;a:VA
+Castellón;Azuébar;https://www.azuebar.es/;null;no se encuentra selector de idioma;es;
+Castellón;Barracas;https://www.barracas.es/;null;"no se encuentra selector de idioma (el enlace /es era el logo; revisado a mano)";es;
+Castellón;Bejís;https://www.bejis.es/;true;botón de valenciano;es;a:VA
+Castellón;Benafer;https://www.benafer.es/;true;botón de valenciano;es;a:VA
+Castellón;Castellnovo;https://www.castellnovo.es/;true;botón de valenciano;es;a:VA
+Castellón;Caudiel;https://www.caudiel.es/;true;botón de valenciano;es;a:VA
+Castellón;Chóvar;https://www.chovar.es/;true;botón de valenciano;es;a:VA
+Castellón;Gaibiel;https://www.gaibiel.es/;true;botón de valenciano;es;a:VA
+Castellón;Geldo;https://www.geldo.es/;true;botón de valenciano;es;a:VA
+Castellón;Higueras;https://www.higueras.es/;true;botón de valenciano;es;a:VA
+Castellón;Jérica;https://www.jerica.es/;null;no se encuentra selector de idioma;es-es;
+Castellón;Matet;https://www.matet.es/;true;botón de valenciano;es;a:VA
+Castellón;Navajas;https://www.navajas.es/;true;botón de valenciano;es;a:VA
+Castellón;Pavías;https://www.pavias.es/;true;botón de valenciano;es;a:VA
+Castellón;Pina de Montalgrao;https://www.pinademontalgrao.es/;true;botón de valenciano;es;a:VA
+Castellón;Sacañet;https://www.sacanet.es/;true;botón de valenciano;es;a:VA
+Castellón;Segorbe;https://www.segorbe.es/;null;no se encuentra selector de idioma;;
+Castellón;Soneja;https://www.soneja.es/;true;botón de valenciano;es;a:VA
+Castellón;Sot de Ferrer;https://www.sotdeferrer.es/;true;botón de valenciano;es;a:VA
+Castellón;Teresa;https://www.teresa.es/;true;botón de valenciano;es;a:VA
+Castellón;Torás;https://www.toras.es/;true;botón de valenciano;es;a:VA
+Castellón;Toro, el;https://www.eltoro.es/;true;botón de valenciano;es;a:VA
+Castellón;Vall de Almonacid;https://www.valldealmonacid.es/;true;botón de valenciano;es;a:VA
+Castellón;Viver;https://www.viver.es/;null;no se encuentra selector de idioma;es;
+Castellón;Alcalà de Xivert;https://www.alcaladexivert.es/;true;botón de valenciano;es;a:VA
+Castellón;Benicarló;https://www.ajuntamentdebenicarlo.org/;true;botón de valenciano;ca-valencia;a:VAL
+Castellón;Càlig;https://www.calig.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Canet lo Roig;https://www.canetloroig.es/;true;botón de valenciano;es;a:VA
+Castellón;Castell de Cabres;https://www.castelldecabres.es/;true;botón de valenciano;es;a:VA
+Castellón;Cervera del Maestre;https://www.cerveradelmaestre.es/;false;selector de idioma sin valenciano (tras ejecutar JS);es-ES;a:Alemán || a:Cambiar a Deutsch || a:Cambiar a English
+Castellón;Xert;https://www.xert.es/;true;botón de valenciano;es;a:VA
+Castellón;Jana, la;https://www.lajana.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Peñíscola;https://www.peniscola.org/;true;botón de valenciano (tras ejecutar JS);es;a:valencia va
+Castellón;Pobla de Benifassà, la;https://www.lapobladebenifassa.es/;true;botón de valenciano;es;a:VA
+Castellón;Rossell;https://rossell.es/web/;true;botón de valenciano;ca-es;option:Valencià
+Castellón;Salzadella, la;https://www.lasalzadella.es/;true;botón de valenciano;es;a:VA
+Castellón;San Jorge;https://www.santjordi.es/;true;botón de valenciano;es;a:VA
+Castellón;Sant Mateu;https://www.santmateu.com/;true;botón de valenciano;ca;a:Valencià
+Castellón;San Rafael del Río;https://www.sanrafaeldelrio.es/;true;botón de valenciano;es;a:VA
+Castellón;Santa Magdalena de Pulpis;https://www.santamagdalena.es/;true;botón de valenciano;es-ES;a:VAL
+Castellón;Traiguera;https://www.traiguera.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Vinaròs;https://www.vinaros.es/;true;botón de valenciano;es;a:Valencià
+Castellón;Almassora;https://www.almassora.es/;true;botón de valenciano (tras ejecutar JS);ca;a:Cambiar idioma a valenciano || a:VA
+Castellón;Benicasim;https://ayto.benicassim.es/;true;botón de valenciano;es-ES;a:Cambiar a VAL || a:VAL
+Castellón;Benlloc;https://benlloc.es/;true;botón etiquetado como Català/Catalan;ca;a:Catalan
+Castellón;Borriol;https://www.borriol.es/;true;botón de valenciano;es-ES;a:VAL
+Castellón;Cabanes;https://www.cabanes.es/;true;botón de valenciano;es;a:VA
+Castellón;Castellón de la Plana;https://www.castello.es/;true;botón de valenciano;ca-ES;a:Valencià
+Castellón;Coves de Vinromà, les;https://www.lescovesdevinroma.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Oropesa del Mar;https://www.oropesadelmar.es/;true;botón de valenciano;es;a:VA
+Castellón;Pobla de Tornesa, la;https://www.lapoblatornesa.es/;null;no se encuentra selector de idioma;ca;
+Castellón;Sierra Engarcerán;https://www.sierraengarceran.es/;true;botón de valenciano;es;a:VA
+Castellón;Torreblanca;https://www.torreblanca.es/;true;botón de valenciano;es;a:VA
+Castellón;Torre d'en Doménec, la;https://www.latorredendomenec.es/;true;botón de valenciano;es;a:VA
+Castellón;Vall d'Alba;https://www.valldalba.es/;true;botón de valenciano;es;a:VA
+Castellón;Vilanova d'Alcolea;https://www.vilanovadalcolea.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Sant Joan de Moró;https://www.santjoandemoro.es/;true;botón de valenciano;es;a:VA
+Castellón;Aín;https://www.ajuntamentdain.es/;true;botón de valenciano;es;a:VA
+Castellón;Alcudia de Veo;https://www.alcudiadeveo.es/;true;botón de valenciano;es;a:VA
+Castellón;Alfondeguilla;https://www.alfondeguilla.es/;true;botón de valenciano;es;a:VA
+Castellón;Almenara;https://www.almenara.es/;true;botón de valenciano;es;a:VA
+Castellón;Artana;https://www.artana.es/;null;no se encuentra selector de idioma;es;
+Castellón;Betxí;https://www.betxi.es/;true;botón de valenciano;ca;a:Valencià
+Castellón;Burriana;https://burriana.es/;true;botón de valenciano;es-ES;a:VA
+Castellón;Chilches;https://www.xilxes.es/;true;botón de valenciano;es-ES;a:ca
+Castellón;Eslida;https://www.eslida.es/;true;botón de valenciano;es;a:VA
+Castellón;Llosa, la;https://www.lallosa.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Moncofa;https://moncofa.com/;true;botón etiquetado como Català/Catalan;ca;a:Català
+Castellón;Nules;https://nules.org/;true;botón de valenciano;es-ES;a:Valencià
+Castellón;Onda;https://www.onda.es/;true;botón de valenciano (tras ejecutar JS);es;a:Valencià
+Castellón;Ribesalbes;https://www.ribesalbes.es/;true;botón de valenciano;es;a:VA
+Castellón;Sueras;https://www.suera.es/;true;botón de valenciano;es;a:VA
+Castellón;Tales;https://www.tales.es/;true;botón de valenciano;es;a:VA
+Castellón;Vall d'Uixó, la;https://www.lavallduixo.es/;true;botón de valenciano;es;a:VA
+Castellón;Vila-real;https://www.vila-real.es/;true;"valenciano es el idioma activo; el selector ofrece otros";ca;a:Castellano
+Castellón;Vilavella, la;https://www.lavilavella.com/;true;botón etiquetado como Català/Catalan;ca;a:Català Català
+Castellón;Alquerías del Niño Perdido;https://www.lesalqueries.es/;true;botón de valenciano;es;a:VA
+Castellón;Castellfort;https://www.castellfort.es/;true;botón de valenciano;es;a:VA
+Castellón;Cinctorres;https://www.cinctorres.es/;true;botón de valenciano;es;a:VA
+Castellón;Forcall;https://www.forcall.es/;true;botón de valenciano;es;a:VA
+Castellón;Herbers;https://www.ajuntamentdherbers.es/;true;botón de valenciano;es;a:VA
+Castellón;Mata, la;https://www.ajuntamentdelamata.es/;true;botón de valenciano;es;a:VA
+Castellón;Morella;https://www.morella.net/;true;botón de valenciano;ca;a:Valencià
+Castellón;Olocau del Rey;https://www.olocaudelrey.es/;true;botón de valenciano;es;a:VA
+Castellón;Palanques;https://www.palanques.es/;true;botón de valenciano;es;a:VA
+Castellón;Portell de Morella;https://www.portelldemorella.es/;true;botón de valenciano;es;a:VA
+Castellón;Todolella;https://www.todolella.es/;true;botón de valenciano;es;a:VA
+Castellón;Vallibona;https://www.vallibona.es/es;true;botón de valenciano;es;a:VA
+Castellón;Vilafamés;https://vilafames.org/;true;botón de valenciano;ca;a:Valencià (ca) || a:Valencià
+Castellón;Vilafranca;https://www.ajuntamentdevilafranca.es/;true;botón de valenciano;vl;a:Valencià
+Castellón;Villores;https://www.villores.es/;true;botón de valenciano;ca;a:VA || a@href
+Castellón;Zorita del Maestrazgo;https://www.zoritadelmaestrazgo.es/;true;botón de valenciano;es;a:VA
+Valencia;Albalat dels Tarongers;https://www.albalatdelstarongers.es/;true;"valenciano es el idioma activo; el selector ofrece otros";va-VA;a:Español || a:Switch to Español
+Valencia;Alfara de la Baronia;https://www.alfaradelabaronia.es/;true;botón de valenciano;es;a:VA
+Valencia;Algar de Palancia;https://www.algardepalancia.es/;true;botón de valenciano;ca;a:VA
+Valencia;Algímia d'Alfara;https://www.algimiadealfara.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Benavites;https://www.benavites.es/;true;botón de valenciano;ca;a:VA
+Valencia;Benifairó de les Valls;https://www.benifairovalls.com/;null;no se encuentra selector de idioma;es;
+Valencia;Canet d'En Berenguer;https://www.canetdenberenguer.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Quart de les Valls;https://www.quartdelesvalls.es/;true;botón de valenciano;es;a:VA
+Valencia;Quartell;https://www.quartell.es/;true;botón de valenciano;ca;a:VA
+Valencia;Estivella;https://www.aytoestivella.com/;true;botón de valenciano (tras ejecutar JS);ca;a:VA
+Valencia;Faura;https://www.fauraweb.net/;null;no se encuentra selector de idioma;;
+Valencia;Gilet;https://www.gilet.es/;true;botón de valenciano;es;a:VA
+Valencia;Petrés;https://www.petres.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Sagunto;https://aytosagunto.es/;true;botón de valenciano;es;a:Valencià Valencià || a:Valencià
+Valencia;Segart;https://segart.sede.dival.es/;true;botón de valenciano;es;a:Canvia a Valencià || a:Valencià
+Valencia;Torres Torres;https://www.torrestorres.es/;null;no se encuentra selector de idioma;es;
+Valencia;Benaguasil;https://www.benaguasil.es/;null;no se encuentra selector de idioma;es;
+Valencia;Benissanó;https://ajuntamentbenissano.es/;true;botón de valenciano;va;a:Valencià
+Valencia;Bétera;https://www.betera.es/;true;botón de valenciano;ca;a:VA
+Valencia;Casinos;https://www.casinos.es/;true;botón de valenciano (en https://www.casinos.es/portada, enlazada desde la portada);ca;a:VA
+Valencia;Domeño;https://www.domeno.es/;null;no se encuentra selector de idioma;es;
+Valencia;Eliana, l';https://www.leliana.es/;true;botón de valenciano;ca;a:VA
+Valencia;Llíria;https://www.lliria.es/;true;botón de valenciano;es;a:VA
+Valencia;Loriguilla;https://www.loriguilla.com/;null;no se encuentra selector de idioma;;
+Valencia;Marines;https://www.marines.es/;null;no se encuentra selector de idioma;es;
+Valencia;Náquera;https://www.naquera.es/;true;botón de valenciano;ca;a:Va
+Valencia;Olocau;https://www.olocau.es/v2/;true;botón de valenciano;val;a:VAL
+Valencia;Pobla de Vallbona, la;https://www.lapobladevallbona.es/;true;"valenciano es el idioma activo; el selector ofrece otros";ca;a:CAS || a:Castellano
+Valencia;Riba-roja de Túria;https://www.ribarroja.es/;true;botón de valenciano;es;a:VA
+Valencia;Serra;https://www.serra.es/;true;botón de valenciano;ca-ES;a:Switch to Valencià || a:Valencià
+Valencia;Vilamarxant;https://www.vilamarxant.es/;true;botón de valenciano;ca;a:Va
+Valencia;Gátova;https://www.gatova.es/;true;botón de valenciano;es;a:VA
+Valencia;San Antonio de Benagéber;https://www.sanantoniodebenageber.es/;true;botón de valenciano;es;a:Va
+Valencia;Anna;https://www.ayuntamientoanna.es/;null;no se encuentra selector de idioma (web corregida);es;
+Valencia;Bicorp;https://www.bicorp.es/;null;no se encuentra selector de idioma;es;
+Valencia;Bolbaite;https://www.bolbaite.es/;null;no se encuentra selector de idioma;es;
+Valencia;Chella;https://www.chella.es/;null;no se encuentra selector de idioma;es;
+Valencia;Enguera;https://www.enguera.es/;null;no se encuentra selector de idioma;es;
+Valencia;Millares;https://millares.sede.dival.es/;true;botón de valenciano;es;a:Canvia a Valencià || a:Valencià
+Valencia;Navarrés;https://www.navarres.es/;null;no se encuentra selector de idioma;es;
+Valencia;Quesa;https://www.quesa.es/;null;no se encuentra selector de idioma;es;
+Valencia;Alcúdia de Crespins, l';https://www.lalcudiadecrespins.es/;true;botón de valenciano;ca;a:VA
+Valencia;Barxeta;https://www.barxeta.es/;true;botón de valenciano;ca;a:VA
+Valencia;Canals;https://www.canals.es/;true;botón de valenciano;ca;button:Canviar idioma a valencià || button:VAL || button:ca
+Valencia;Cerdà;https://www.cerda.es/;null;no se encuentra selector de idioma (web corregida);es;
+Valencia;Estubeny;https://www.estubeny.es/;true;botón de valenciano;es;a:VA
+Valencia;Font de la Figuera, la;https://www.lafontdelafiguera.es/;true;botón de valenciano;ca;a:VA
+Valencia;Genovés;https://www.genoves.es/;true;botón de valenciano;ca;a:VA
+Valencia;Granja de la Costera, la;https://www.lagranjadelacostera.es/;true;botón de valenciano;es;a:VA
+Valencia;Xàtiva;https://www.xativa.es/;true;botón de valenciano;ca;a:VA
+Valencia;Llocnou d'En Fenollet;https://www.llocnoudenfenollet.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Llanera de Ranes;https://www.llaneraderanes.es/;true;botón de valenciano;ca;a:VA
+Valencia;Llosa de Ranes, la;https://www.lallosaderanes.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Mogente;https://www.moixent.es/;true;botón de valenciano;ca;a:VA
+Valencia;Montesa;https://www.montesa.es/;true;botón de valenciano;ca;a:VA
+Valencia;Novetlè;https://www.novetle.es/;true;botón de valenciano;ca;a:VA
+Valencia;Rotglà i Corberà;https://www.rotglaicorbera.es/;true;botón de valenciano;ca;a:VA
+Valencia;Torrella;https://www.torrella.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Vallada;https://www.vallada.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Vallés;https://www.valles.es/;true;botón de valenciano;es;a:VA
+Valencia;Albalat dels Sorells;https://www.albalatdelssorells.net/;true;botón de valenciano;ca;a:VA
+Valencia;Alboraya;https://www.alboraya.es/;true;botón de valenciano;ca;a:VA
+Valencia;Albuixech;https://www.albuixech.es/;true;botón de valenciano;es-ES;a:Valenciano
+Valencia;Alfara del Patriarca;https://www.alfaradelpatriarca.es/;true;botón de valenciano;ca;a:VA
+Valencia;Almàssera;https://www.almassera.es/;true;botón de valenciano;ca;a:VA
+Valencia;Bonrepòs i Mirambell;https://www.bonreposimirambell.es/;true;botón de valenciano;ca;a:VA
+Valencia;Burjassot;https://www.burjassot.org/;true;botón de valenciano;es-ES;a:Val
+Valencia;Emperador;https://www.emperador.es/;null;no se encuentra selector de idioma;es;
+Valencia;Foios;https://www.foios.es/;true;botón de valenciano;ca;a:VA
+Valencia;Godella;https://www.godella.es/;true;botón de valenciano;es;a:VA
+Valencia;Massalfassar;https://www.massalfassar.es/;true;botón de valenciano;ca;a:VA
+Valencia;Massamagrell;https://www.massamagrell.es/;true;botón de valenciano;ca;a:VA
+Valencia;Meliana;https://www.meliana.es/;true;botón de valenciano;ca;a:VA
+Valencia;Moncada;https://www.moncada.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Museros;https://museros.org/inici/;true;botón de valenciano;es-ES;a:Valencià
+Valencia;Paterna;https://www.paterna.es/;true;botón de valenciano;es;a:VA
+Valencia;Pobla de Farnals, la;https://www.lapobladefarnals.es/;true;botón de valenciano;ca;a:VA
+Valencia;Puig de Santa Maria, el;https://www.elpuig.es/;true;botón de valenciano;ca;a:VA
+Valencia;Puçol;https://www.pucol.es/;true;botón de valenciano;es;a:Va
+Valencia;Rafelbunyol;https://www.rafelbunyol.es/;true;botón de valenciano;ca;a:VA
+Valencia;Rocafort;https://www.rocafort.es/;true;botón de valenciano;es;a:VAL
+Valencia;Tavernes Blanques;https://www.tavernesblanques.es/;true;botón de valenciano;ca;a:VA
+Valencia;Vinalesa;https://www.vinalesa.es/;true;botón de valenciano;ca;a:VA
+Valencia;Alaquàs;https://www.alaquas.org/;true;botón de valenciano;es;a:Valencià || a:Valencià
+Valencia;Albal;https://albal.es/;true;botón de valenciano;ca;a:Valencià
+Valencia;Alcàsser;https://www.alcasser.es/;true;botón de valenciano;ca;a:VA
+Valencia;Aldaia;https://aldaia.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Alfafar;https://www.alfafar.es/;true;botón de valenciano;es;a:VA
+Valencia;Benetússer;https://www.benetusser.es/;true;botón de valenciano;es;a:VA
+Valencia;Beniparrell;https://www.beniparrell.es/;true;botón de valenciano;es;a:VA
+Valencia;Catarroja;https://www.catarroja.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Quart de Poblet;https://www.quartdepoblet.es/;true;botón de valenciano;es;a:VA
+Valencia;Xirivella;https://www.xirivella.es/;true;botón de valenciano;ca;a:Va
+Valencia;Llocnou de la Corona;https://llocnoudelacorona.sede.dival.es/;true;botón de valenciano;es;a:Canvia a Valencià || a:Valencià
+Valencia;Manises;https://www.manises.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Massanassa;https://www.massanassa.es/;true;botón de valenciano;ca;a:VA
+Valencia;Mislata;https://www.mislata.es/;true;botón de valenciano;es;a:Valencià
+Valencia;Paiporta;https://www.paiporta.es/;true;botón de valenciano;ca;a:VA
+Valencia;Picanya;https://www.picanya.org/;null;no se encuentra selector de idioma;ca;
+Valencia;Picassent;https://www.picassent.es/;true;botón de valenciano;ca;a:VA
+Valencia;Sedaví;https://www.sedavi.es/;true;botón de valenciano;ca;a:VA
+Valencia;Silla;https://www.silla.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Torrent;https://torrent.es/;true;botón de valenciano;es-ES;a:Va
+Valencia;Alborache;https://www.alborache.es/;null;no se encuentra selector de idioma;es;
+Valencia;Buñol;https://www.bunyol.es/;null;no se encuentra selector de idioma;es;
+Valencia;Cheste;https://www.cheste.es/;null;no se encuentra selector de idioma;es;
+Valencia;Chiva;https://www.chiva.es/;null;no se encuentra selector de idioma;es;
+Valencia;Dos Aguas;https://www.dosaguas.es/;true;botón de valenciano;es;a:VA
+Valencia;Godelleta;https://www.godelleta.es/;true;botón de valenciano;es;a:VA
+Valencia;Macastre;https://www.macastre.es/;null;no se encuentra selector de idioma;es;
+Valencia;Siete Aguas;https://www.sieteaguas.es/;null;no se encuentra selector de idioma;es;
+Valencia;Yátova;https://www.yatova.es/;null;no se encuentra selector de idioma;es;
+Valencia;Camporrobles;https://www.camporrobles.es/;null;no se encuentra selector de idioma;es;
+Valencia;Caudete de las Fuentes;https://www.caudetedelasfuentes.es/;null;no se encuentra selector de idioma;es;
+Valencia;Chera;https://www.chera.es/;null;no se encuentra selector de idioma;es;
+Valencia;Fuenterrobles;https://www.fuenterrobles.es/;null;no se encuentra selector de idioma;es;
+Valencia;Requena;https://www.requena.es/;null;no se encuentra selector de idioma;es;
+Valencia;Sinarcas;https://www.sinarcas.es/;null;no se encuentra selector de idioma;es;
+Valencia;Utiel;https://www.utiel.es/;null;no se encuentra selector de idioma;es;
+Valencia;Venta del Moro;https://www.ventadelmoro.es/;null;no se encuentra selector de idioma;es;
+Valencia;Villargordo del Cabriel;https://www.villargordodelcabriel.es/;null;no se encuentra selector de idioma;es;
+Valencia;Alberic;https://www.alberic.es/;true;botón de valenciano;ca;a:VA
+Valencia;Alcàntera de Xúquer;https://www.alcanteradexuquer.es/;true;botón de valenciano;es;a:VA
+Valencia;Alzira;https://alzira.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Alcúdia, l';https://www.lalcudia.com/web/;true;botón de valenciano;ca-es;option:Valencià
+Valencia;Alfarb;https://alfarb.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Algemesí;https://www.algemesi.es/;true;botón de valenciano;ca;a:VA
+Valencia;Alginet;https://www.alginet.es/;true;botón de valenciano;ca;a:VA
+Valencia;Antella;https://www.antella.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Beneixida;https://www.beneixida.es/;true;botón de valenciano;ca;a:VA
+Valencia;Benifaió;https://www.benifaio.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Benimodo;https://www.benimodo.es/;null;no se encuentra selector de idioma;es;
+Valencia;Benimuslem;https://benimuslem.sede.dival.es/;true;botón de valenciano;es;a:Canvia a Valencià || a:Valencià
+Valencia;Carcaixent;https://www.carcaixent.es/;true;botón de valenciano;ca;a:VA
+Valencia;Càrcer;https://carcer.es/;true;"valenciano es el idioma activo; el selector ofrece otros";ca;a:Spanish
+Valencia;Carlet;https://www.carlet.es/;true;botón de valenciano;ca;a:Va
+Valencia;Catadau;https://www.catadau.es/;true;botón de valenciano;ca;a:VA
+Valencia;Cotes;https://www.cotes.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Énova, l';https://www.lenova.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Gavarda;https://www.gavarda.es/;true;botón de valenciano;ca;a:VA
+Valencia;Guadassuar;https://www.guadassuar.es/;null;no se encuentra selector de idioma;es;
+Valencia;Llombai;https://www.llombai.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Manuel;https://www.manuel.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Massalavés;https://massalaves.es/;true;botón de valenciano;va-VA;a:Valencià
+Valencia;Montserrat;https://www.montserrat.es/;true;botón de valenciano (tras ejecutar JS);en-US;a:Catalan || a:ca
+Valencia;Montroy;https://www.montroy.es/;true;botón de valenciano;es;a:Va
+Valencia;Pobla Llarga, la;https://www.lapoblallarga.es/;true;botón de valenciano;ca;a:VA
+Valencia;Rafelguaraf;https://www.rafelguaraf.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Real;https://www.ajuntamentdereal.es/;true;botón de valenciano;es;a:VA
+Valencia;Sant Joanet;https://www.santjoanet.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Sellent;https://www.sellent.es/;true;botón de valenciano;ca;a:Valenciano
+Valencia;Senyera;https://www.senyera.es/;true;botón de valenciano;ca;a:VA
+Valencia;Sumacàrcer;https://www.sumacarcer.es/;true;botón de valenciano;es;a:VA
+Valencia;Tous;https://ayuntamientotous.es/;true;botón de valenciano;es-ES;a:Valencià
+Valencia;Turís;https://www.turis.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Castelló;https://www.castellosom.es/;true;botón de valenciano;ca;a:VA
+Valencia;Albalat de la Ribera;https://www.albalatdelaribera.es/;true;botón de valenciano;ca;a:VA
+Valencia;Almussafes;https://almussafes.net/;true;botón etiquetado como Català/Catalan;es;button:Catalan - ca
+Valencia;Corbera;https://www.corbera.es/;true;botón de valenciano;ca;a:VA
+Valencia;Cullera;https://www.cullera.es/;true;botón de valenciano;ca;a:VA
+Valencia;Favara;https://www.favara.es/;true;botón de valenciano;ca;a:VA
+Valencia;Fortaleny;https://www.fortaleny.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Llaurí;https://www.llauri.org/;true;botón de valenciano;ca;a:Valencià || a:cat 1
+Valencia;Polinyà de Xúquer;https://www.polinyadexuquer.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Riola;https://ajuntamentderiola.es/ajuntament/;null;no se encuentra selector de idioma;es;
+Valencia;Sollana;https://www.sollana.es/;true;botón de valenciano;ca;a:VA
+Valencia;Sueca;https://www.sueca.es/;true;botón de valenciano;ca;a:VAL
+Valencia;Benicull de Xúquer;https://www.beniculldexuquer.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Ademuz;https://www.ademuz.es/;null;no se encuentra selector de idioma;es;
+Valencia;Casas Altas;https://www.casasaltas.es/;null;no se encuentra selector de idioma;es;
+Valencia;Casas Bajas;https://www.casasbajas.es/;null;no se encuentra selector de idioma;es;
+Valencia;Castielfabib;https://www.castielfabib.es/;true;botón de valenciano;es;a:VA
+Valencia;Puebla de San Miguel;https://www.puebladesanmiguel.es/;null;no se encuentra selector de idioma;es;
+Valencia;Torrebaja;https://www.torrebaja.es/;true;botón de valenciano;es;a:Va
+Valencia;Vallanca;https://www.vallanca.es/;null;no se encuentra selector de idioma;es;
+Valencia;Ador;https://www.ador.es/;true;botón de valenciano;ca;a:VA
+Valencia;Alfauir;https://www.alfauir.es/;true;botón de valenciano;es;a:VA
+Valencia;Almiserà;https://www.almisera.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Almoines;https://www.almoines.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Alqueria de la Comtessa, l';https://www.lalqueriadelacomtessa.com/;null;no se encuentra selector de idioma;ca;
+Valencia;Barx;https://www.barx.es/;true;botón de valenciano;ca;a:VA
+Valencia;Bellreguard;https://www.bellreguard.net/;true;botón etiquetado como Català/Catalan (en https://web.bellreguard.net, enlazada desde la portada);ca;a:Catalan || option:Catalan
+Valencia;Beniarjó;https://www.beniarjo.es/;true;botón de valenciano;ca;a:VA
+Valencia;Benifairó de la Valldigna;https://www.benifairo.org/;true;botón de valenciano;ca;a:VA
+Valencia;Beniflá;https://www.benifla.es/;true;botón de valenciano;es;a:VA
+Valencia;Benirredrà;https://www.benirredraparticipa.es/;null;no se encuentra selector de idioma;;
+Valencia;Castellonet de la Conquesta;https://castellonetdelaconquesta.sede.dival.es/;true;botón de valenciano;es;a:Canvia a Valencià || a:Valencià
+Valencia;Daimús;https://www.ajuntamentdaimus.com/;true;botón etiquetado como Català/Catalan;ca;a:ca Català
+Valencia;Font d'En Carròs, la;https://www.lafontdencarros.es/;true;botón de valenciano;ca-ES;a:Switch to VAL || a:VAL
+Valencia;Gandia;https://www.gandia.es/;true;botón de valenciano;en;a:Val
+Valencia;Guardamar de la Safor;https://www.guardamardelasafor.org/;true;botón de valenciano;ca;a:ca
+Valencia;Xeraco;https://www.xeraco.eu/;true;botón de valenciano;es-ES;a:Valencià
+Valencia;Xeresa;https://www.ajuntamentxeresa.org/;true;botón etiquetado como Català/Catalan (tras ejecutar JS);es;a:Catalan || a:ca Catalan
+Valencia;Llocnou de Sant Jeroni;https://www.llocnoudesantjeroni.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Miramar;https://ajumiramar.org/;true;"valenciano es el idioma activo; el selector ofrece otros (tras ejecutar JS)";ca;option:alemán || option:español || option:francés
+Valencia;Oliva;https://www.oliva.es/;true;botón de valenciano;es;a:Va
+Valencia;Palma de Gandía;https://www.palmadegandia.es/;true;botón de valenciano;ca;a:VA
+Valencia;Palmera;https://www.palmera.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Piles;https://www.piles.es/;true;botón de valenciano;ca;a:VA
+Valencia;Potries;https://www.potries.org/;true;botón de valenciano;ca;a:Valencià
+Valencia;Rafelcofer;https://www.rafelcofer.es/;true;botón de valenciano;ca;a:VA
+Valencia;Real de Gandía;https://www.realdegandia.es/;true;botón de valenciano;ca;a:VA
+Valencia;Ròtova;https://www.rotova.es/;true;botón de valenciano;ca;a:Va
+Valencia;Simat de la Valldigna;https://www.simat.org/;null;no se encuentra selector de idioma;;
+Valencia;Tavernes de la Valldigna;https://www.tavernes.es/;true;botón de valenciano;ca;a:VA
+Valencia;Villalonga;https://www.villalonga.es/;true;botón de valenciano;ca;a:Valencià VA
+Valencia;Alcublas;https://www.alcublas.es/;true;botón de valenciano;es;a:VA
+Valencia;Alpuente;https://www.alpuente.es/;null;no se encuentra selector de idioma;es;
+Valencia;Andilla;https://www.andilla.es/;null;no se encuentra selector de idioma;es;
+Valencia;Aras de los Olmos;https://www.arasdelosolmos.es/;true;botón de valenciano;es;a:Va
+Valencia;Benagéber;https://www.benageber.es/;null;no se encuentra selector de idioma;es;
+Valencia;Bugarra;https://www.bugarra.es/;null;no se encuentra selector de idioma;es;
+Valencia;Calles;https://www.calles.es/;null;no se encuentra selector de idioma;es;
+Valencia;Chelva;https://www.chelva.es/;null;no se encuentra selector de idioma;es;
+Valencia;Chulilla;https://www.chulilla.es/;true;botón de valenciano;es;a:VA
+Valencia;Gestalgar;https://www.gestalgar.es/;null;no se encuentra selector de idioma;es;
+Valencia;Higueruelas;https://www.higueruelas.es/;null;no se encuentra selector de idioma;es;
+Valencia;Losa del Obispo;https://www.losadelobispo.es/;null;no se encuentra selector de idioma;es;
+Valencia;Pedralba;https://www.pedralba.es/;null;no se encuentra selector de idioma;es;
+Valencia;Sot de Chera;https://www.sotdechera.es/;true;botón de valenciano;es;a:VA
+Valencia;Titaguas;https://www.titaguas.es/;null;no se encuentra selector de idioma;es;
+Valencia;Tuéjar;https://www.tuejar.es/;true;botón de valenciano;es;a:VA
+Valencia;Villar del Arzobispo;https://www.villardelarzobispo.es/;true;botón de valenciano;es;a:VA
+Valencia;Yesa, la;https://www.layesa.es/;null;no se encuentra selector de idioma;es;
+Valencia;València;https://www.valencia.es/;true;botón de valenciano;es-ES;a:Val
+Valencia;Atzeneta d'Albaida;https://www.atzenetadalbaida.es/;true;botón de valenciano;es;a:Va
+Valencia;Agullent;https://www.agullent.es/;true;botón de valenciano;ca;a:VA
+Valencia;Albaida;https://www.albaida.es/;true;botón de valenciano;ca;a:VA
+Valencia;Alfarrasí;https://www.alfarrasi.es/;true;botón de valenciano;ca;a:VA
+Valencia;Aielo de Malferit;https://www.aielodemalferit.es/;null;no se encuentra selector de idioma;;
+Valencia;Aielo de Rugat;https://www.aieloderugat.es/;null;no se encuentra selector de idioma;es;
+Valencia;Bèlgida;https://www.belgida.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Bellús;https://www.bellus.es/;true;botón de valenciano;es-ES;a:Cambiar a Valencià || a:Valencià
+Valencia;Beniatjar;https://www.beniatjar.es/;true;botón de valenciano;es;a:VA
+Valencia;Benicolet;https://www.benicolet.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Benigànim;https://www.beniganim.es/;true;botón de valenciano;ca;a:VA
+Valencia;Benissoda;https://www.benissoda.es/;null;no se encuentra selector de idioma;es;
+Valencia;Benissuera;https://www.benisuera.es/;true;botón de valenciano;es;a:VA
+Valencia;Bocairent;https://www.bocairent.es/;true;botón de valenciano;ca;a:VA
+Valencia;Bufali;https://www.bufali.es/;true;botón de valenciano;es;a:VA
+Valencia;Carrícola;https://www.carricola.es/;true;botón de valenciano;ca;a:VA
+Valencia;Castelló de Rugat;https://www.castelloderugat.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Quatretonda;https://quatretonda.es/;true;botón de valenciano;ca;a:ca
+Valencia;Fontanars dels Alforins;https://www.fontanarsdelsalforins.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Guadasséquies;https://www.guadassequies.es/;true;botón de valenciano;es;a:VA
+Valencia;Llutxent;https://www.llutxent.es/;true;botón de valenciano;ca;a:VA
+Valencia;Montaverner;https://www.montaverner.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Montichelvo;https://www.montitxelvo.es/;true;botón de valenciano;ca;a:VA
+Valencia;Olleria, l';https://www.lolleria.org/;true;botón de valenciano;es;a:Va
+Valencia;Ontinyent;https://www.ontinyent.es/;true;botón de valenciano;ca;a:VA
+Valencia;Otos;https://www.otos.es/;true;botón de valenciano;ca;a:VA
+Valencia;Palomar, el;https://www.elpalomar.es/;true;botón de valenciano;es;a:VA
+Valencia;Pinet;https://www.pinet.es/;true;botón de valenciano;es;a:VA
+Valencia;Pobla del Duc, la;https://www.lapobladelduc.es/;true;botón de valenciano;ca;a:VA
+Valencia;Ràfol de Salem;https://rafoldesalem.es/;true;"valenciano es el idioma activo; el selector ofrece otros";ca;a:Castellano || a:Switch to Castellano
+Valencia;Rugat;https://www.rugat.es/;true;botón de valenciano;es;a:Va
+Valencia;Salem;https://www.salem.es/;null;no se encuentra selector de idioma;ca;
+Valencia;Sempere;https://www.sempere.es/;true;botón de valenciano;es;a:VA
+Valencia;Terrateig;https://www.terrateig.es/;null;no se encuentra selector de idioma;es;
+Valencia;Ayora;https://www.ayora.es/;true;botón de valenciano;es;a:Va
+Valencia;Cofrentes;https://www.cofrentes.es/;null;no se encuentra selector de idioma;;
+Valencia;Cortes de Pallás;https://www.cortesdepallas.es/;true;botón de valenciano;es;a:Va
+Valencia;Jalance;https://www.jalance.es/;null;no se encuentra selector de idioma;es;
+Valencia;Jarafuel;https://www.jarafuel.es/;true;botón de valenciano;es;a:VA
+Valencia;Teresa de Cofrentes;https://www.teresadecofrentes.es/;null;no se encuentra selector de idioma;es;
+Valencia;Zarra;https://www.zarra.es/;true;botón de valenciano;es;a:VA
