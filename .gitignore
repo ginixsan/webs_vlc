@@ -1,6 +1,8 @@
 node_modules/
-webs/
-output/
+webs/*
+!webs/LICENSE.md
+output/*
+!output/LICENSE.md
 .DS_Store
 .env
 .env.*

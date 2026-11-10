@@ -1,14 +1,146 @@
-# Municipality homepage screenshots
+# Research code: Official on request
 
-Reads the semicolon-separated CSV in order, visits each `web` address with
-Playwright Chromium, and saves a full-page PNG in `webs/`.
+Research software accompanying Ginés Sanz Sanchis’s article, “Official on request:
+Technical defaults and the unequal standing of Valencian speakers on municipal
+websites.” The study covers the websites of all 542 municipalities in the Valencian
+Country (Valencian Community, Spain).
+
+The scripts read a semicolon-separated CSV, visit municipal websites with
+Playwright Chromium, capture screenshots, detect language controls and default
+languages, and compare responses to different browser-language preferences.
+Automated observations require the manual checks described below.
+
+## Software versions used in the study
+
+| Software | Study version |
+|---|---|
+| Node.js | 24.13.0 |
+| Playwright | 1.64.1 |
+| Chrome Headless Shell | 156.0.8078.4 (Playwright revision 1248) |
+| cld3-asm | 4.0.0 |
+| csv-parse | 7.0.3 |
+
+These are the versions recorded for the main study crawl. The article reports
+that the follow-up checks of Xaló and Xeraco on 7 November 2026 used Google
+Chrome 155.0.8059.85 and Node.js 26.3.0 instead. Later executions should record
+their own environment rather than assume they use the historical versions.
+
+Use Node.js 24.13.0 and `npm ci` to install the JavaScript dependencies recorded
+in `package-lock.json`. Unlike `npm install`, this preserves the locked dependency
+versions. Install the associated browser with `npx playwright install chromium`.
+Check the installed environment before collecting data:
+
+```sh
+node --version
+npm ls playwright cld3-asm csv-parse
+node --input-type=module -e 'import { chromium } from "playwright"; const browser = await chromium.launch(); console.log(browser.version()); await browser.close();'
+```
+
+## Repeating the procedure
+
+1. Prepare a UTF-8, semicolon-separated CSV with one row per municipality and
+   the exact headers `Municipio` (municipality name) and `web` (website address).
+   Other columns are retained. Use the study’s archived address list when
+   repeating its coverage; for a new collection, validate the addresses and
+   document replacements. The scripts do not obtain a complete municipal census
+   or independently verify that each address belongs to the intended authority.
+2. Install the dependencies and browser as described above. Keep the input CSV,
+   software versions, collection dates, commands and code version with the results.
+3. Capture the landing pages with Spanish as the browser language. For example,
+   from the repository directory, with `municipalities.csv` as the input:
+
+   ```sh
+   npm run capture -- municipalities.csv --csv-output observations.csv --output webs
+   ```
+
+   This captures full pages and records detected language controls and default
+   language. Review failed rows in `webs/capture-results.json`; retry selected
+   ranges with `--start-row` and `--limit`, using `--timeout 60000` and, where
+   needed, `--viewport-only`. Archive each run’s JSON report before another run
+   in the same output folder replaces it. Record retry settings and dates.
+4. If language detection needs a separate pass without screenshots, run:
+
+   ```sh
+   npm run capture -- observations.csv --no-screenshots
+   ```
+
+5. Compare the landing pages under the three browser-language preferences:
+
+   ```sh
+   npm run default-language -- observations.csv --results output/default-language/visits.jsonl
+   ```
+
+   Each homepage is visited with `es-ES`, `ca-ES-valencia` and `en-US`, using a
+   fresh browser context for each visit. The script records redirects, HTML
+   `lang`, alternative-language `hreflang` annotations and CLD3 text-language
+   results. Visits run sequentially. See the output definitions below.
+6. Review `revisar`, `sin_datos`, failed requests and mixed-language pages against
+   the screenshots and visit evidence. Manually check language selectors in fresh
+   browser sessions: activate the option, record the destination and language of
+   the main content, and distinguish mixed content and machine-translation
+   widgets from an available version in the other language. Repeat the check in
+   the opposite direction. The scripts detect controls but do not establish that
+   those controls lead to usable content in the other language.
+7. Preserve the CSV, screenshots, request logs and manual-check records together.
+   Raw `visits.jsonl` includes visible page text; the article’s deposited request
+   log excludes that text. Prepare a separate export without page text for that
+   deposit and exclude personal contact fields from source datasets as described
+   in the article.
+
+The optional `--inner-pages` procedure documented below follows links beyond the
+landing page. Those observations were not used in the article: use the homepage
+columns for its landing-page analysis. `resultado_idioma` can incorporate inner-page
+results and must not replace the homepage observations when reproducing that analysis.
+The scripts do not reproduce the article’s manual platform/layout checks, population
+and political-data joins, or statistical tables automatically.
+
+Municipal websites change over time. A new crawl repeats the measurement procedure;
+it need not return the historical observations collected in October–November 2026.
+
+## Applying the code to another territory
+
+There is no hard-coded limit of 542 municipalities. Supply a different CSV path to
+both commands; this avoids the study-specific default filename in Downloads.
+Keep the required `Municipio` and `web` headers to reuse the code unchanged.
+For a study of the same languages, the address list may be the only necessary
+change. For other languages or website conventions, review these code locations:
+
+| File / setting | Adaptation |
+|---|---|
+| `capture-webs.mjs`: `browser.newContext` | Change the initial `locale: 'es-ES'` to the baseline browser language for the new study. |
+| `language.mjs`: `LANGUAGES`, `LABEL_WORDS`, `LABEL_FILLER`, `TEXT_MARKERS` | Replace language names, selector labels and abbreviations, and text markers with those appropriate to the languages studied. |
+| `language.mjs`: `languageFromCode`, `VALENCIAN_LINK`, `LANG_PATH`, `LANG_QUERY` | Adapt recognized language codes and language-specific URL patterns; review other language-specific matching rules in the same file. |
+| `default-language-core.mjs`: `LOCALES` | Set the browser locales and request-header values to compare. Its keys also define output-column prefixes. |
+| `default-language-core.mjs`: `LANGUAGE_NAMES`, `STUDY_LANGUAGES`, `declaredLanguage` | Update expected CLD3 codes, output labels and normalization of HTML language declarations. CLD3 reports Valencian/Catalan as `ca`; check support for the new languages. |
+| `default-language-core.mjs`: `PORTADA_PATH`, `MUNICIPAL_SITE_TEXT`, `GATEWAY_TEXT` | Adapt the optional inner-page link recognition to local words and URL conventions. |
+| `default-language-core.mjs`: `finalResult` | This function currently reads `es_idioma_texto` for fixed-language results. If the `es` locale key is removed or renamed, update that reference for homepage and inner-page results. |
+| `csv-output.mjs`, `capture-webs.mjs`, `default-language.mjs` | If changing input headers, update both the required-column validation and every `record.Municipio` / `record.web` access. Adapt CSV parsing and serialization together if changing the delimiter. |
+| Tests and README | Update expected language labels, locales, headers, examples and output descriptions to match the adapted protocol. Run `npm test` before collecting data. |
+
+Validate the adapted heuristics against manually checked pages in the target
+languages, including short and mixed-language pages. Define local territorial,
+population and institutional categories separately: these are study inputs and
+interpretive choices, not settings supplied by the crawler.
+
+## License
+
+The original source code and this README are licensed under the MIT License;
+see [LICENSE](LICENSE). Copyright (c) 2026 Ginés Sanz Sanchis.
+Research data and the screenshot collection are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), to the extent of the
+author’s rights. See [webs/LICENSE.md](webs/LICENSE.md) and
+[output/LICENSE.md](output/LICENSE.md) for scope, attribution and third-party
+exclusions. Municipal website content and externally sourced materials retain
+their respective rights and applicable original licenses. Third-party software
+dependencies retain their own licenses. The accompanying article is not covered
+by these repository licenses.
 
 ## Setup
 
 Requires Node.js 20 or newer.
 
 ```sh
-npm install
+npm ci
 npx playwright install chromium
 ```
 
