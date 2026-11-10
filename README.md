@@ -10,6 +10,12 @@ Playwright Chromium, capture screenshots, detect language controls and default
 languages, and compare responses to different browser-language preferences.
 Automated observations require the manual checks described below.
 
+## Research archive
+
+The research archive for this study is identified by Zenodo DOI
+[10.5281/zenodo.24093416](https://doi.org/10.5281/zenodo.24093416).
+Use this persistent identifier when citing the deposited research materials.
+
 ## Software versions used in the study
 
 | Software | Study version |

@@ -16,8 +16,8 @@ Retain supplied attribution and notices. The linked legal terms govern use.
 
 Suggested attribution: Ginés Sanz Sanchis (2026), research data and screenshot
 collection accompanying “Official on request: Technical defaults and the unequal
-standing of Valencian speakers on municipal websites,” CC BY 4.0. Include the
-Zenodo record DOI or URL when available.
+standing of Valencian speakers on municipal websites,” CC BY 4.0.
+Zenodo DOI: https://doi.org/10.5281/zenodo.24093416.
 
 ## Third-party material
 
