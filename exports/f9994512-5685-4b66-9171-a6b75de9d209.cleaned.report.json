@@ -1,0 +1,26 @@
+{
+  "source": "/Users/ginixsan/.claude/projects/-Users-ginixsan-REPOS-webs-vlc/f9994512-5685-4b66-9171-a6b75de9d209.jsonl",
+  "output": "/Users/ginixsan/REPOS/webs_vlc/exports/f9994512-5685-4b66-9171-a6b75de9d209.cleaned.jsonl",
+  "source_sha256": "7e7df394ed7beee4cb44c343671611ff0de132584ef71566fb238504799f688b",
+  "total_records": 5775,
+  "redacted_records": 1738,
+  "unchanged_records": 4037,
+  "redacted_by_type": {
+    "attachment": 918,
+    "api-request-blob": 109,
+    "queue-operation": 26,
+    "user": 284,
+    "last-prompt": 81,
+    "assistant": 291,
+    "file-history-delta": 23,
+    "file-history-snapshot": 6
+  },
+  "output_bytes": 10780663,
+  "validation": {
+    "all_lines_valid_json": true,
+    "record_count_preserved": true,
+    "target_pattern_matches_remaining": 0,
+    "original_unchanged": true
+  },
+  "scope": "Whole-record redaction of explicit framework mentions, .mjs scripts and related package/readme paths, browser API markers, and linked tool results. Mixed-content records are also redacted. Not verified for session replay; encoded or indirect references may remain."
+}

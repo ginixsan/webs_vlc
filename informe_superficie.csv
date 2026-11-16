@@ -1,0 +1,543 @@
+﻿Provincia;Municipio;INE;Nombre IGN;Valor Excel;Superficie (km²);Wikidata;Wikipedia;Decimales
+Alicante;Agost;03002;Agost;6664;66,64;66,64;66,64;2 decimales
+Alicante;Aigües;03004;Aigües;1847;18,47;18,47;18,47;2 decimales
+Alicante;Alicante;03014;Alacant/Alicante;20258;202,58;201,27;201,27;2 decimales
+Alicante;Busot;03046;Busot;3361;33,61;34;33,84;2 decimales
+Alicante;Campello, el;03050;el Campello;553;55,30;55,27;55,27;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Jijona;03083;Xixona/Jijona;16373;163,73;163,76;163,76;2 decimales
+Alicante;Mutxamel;03090;Mutxamel;4765;47,65;47,65;47,67;2 decimales
+Alicante;Sant Joan d'Alacant;03119;Sant Joan d'Alacant;964;9,64;9,64;9,64;2 decimales
+Alicante;San Vicente del Raspeig;03122;Sant Vicent del Raspeig/San Vicente del Raspeig;4055;40,55;40,55;40,55;2 decimales
+Alicante;Torremanzanas;03132;la Torre de les Maçanes/Torremanzanas;3648;36,48;36,48;36,48;2 decimales
+Alicante;Alcoy;03009;Alcoi/Alcoy;12996;129,96;129,86;129,86;2 decimales
+Alicante;Banyeres de Mariola;03021;Banyeres de Mariola;5028;50,28;50,28;50,28;2 decimales
+Alicante;Benifallim;03032;Benifallim;1369;13,69;13,7;13,7;2 decimales
+Alicante;Castalla;03053;Castalla;11467;114,67;114,6;114,6;2 decimales
+Alicante;Ibi;03079;Ibi;6241;62,41;62,52;62,52;2 decimales
+Alicante;Onil;03096;Onil;4835;48,35;48,41;48,41;2 decimales
+Alicante;Penàguila;03103;Penàguila;4992;49,92;49,92;49,93;2 decimales
+Alicante;Tibi;03129;Tibi;7038;70,38;70,38;70,38;2 decimales
+Alicante;Beneixama;03023;Beneixama;3489;34,89;34,89;34,89;2 decimales
+Alicante;Biar;03043;Biar;9817;98,17;98;98,17;2 decimales
+Alicante;Campo de Mirra;03051;el Camp de Mirra/Campo de Mirra;2182;21,82;21,8;21,8;2 decimales
+Alicante;Cañada;03052;Cañada;1932;19,32;19,32;19,32;2 decimales
+Alicante;Salinas;03116;Salinas;6202;62,02;61,7;61,7;2 decimales
+Alicante;Sax;03123;Sax;6347;63,47;63,5;63,5;2 decimales
+Alicante;Villena;03140;Villena;34505;345,05;345,6;345,6;2 decimales
+Alicante;Albatera;03005;Albatera;6188;61,88;66,327;66,33;2 decimales
+Alicante;Algorfa;03012;Algorfa;1847;18,47;18,47 / 18,36;18,4;2 decimales
+Alicante;Almoradí;03015;Almoradí;4265;42,65;42,72;42,72;2 decimales
+Alicante;Benejúzar;03024;Benejúzar;933;9,33;34,89;9328;2 decimales (revisado a mano: las referencias están mal o redondean)
+Alicante;Benferri;03025;Benferri;1237;12,37;12,4;12,4;2 decimales
+Alicante;Benijófar;03034;Benijófar;436;4,36;4,4;4,4;2 decimales
+Alicante;Bigastro;03044;Bigastro;41;4,10;4;4,1;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Callosa de Segura;03049;Callosa de Segura;2492;24,92;25;24,8;2 decimales
+Alicante;Catral;03055;Catral;2002;20,02;20;20,01;2 decimales
+Alicante;Cox;03058;Cox;1676;16,76;16,6;16,6;2 decimales
+Alicante;Daya Nueva;03061;Daya Nueva;717;7,17;7;7,09;2 decimales
+Alicante;Daya Vieja;03062;Daya Vieja;314;3,14;3,1;2,98;2 decimales
+Alicante;Dolores;03064;Dolores;1865;18,65;18,25;18,25;2 decimales
+Alicante;Formentera del Segura;03070;Formentera del Segura;435;4,35;4;4,3;2 decimales
+Alicante;Granja de Rocamora;03074;Granja de Rocamora;705;7,05;7,17;7,2;2 decimales
+Alicante;Guardamar del Segura;03076;Guardamar del Segura;3394;33,94;35,58;35,58;2 decimales
+Alicante;Jacarilla;03080;Jacarilla;122;12,20;12,2;12,2;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Orihuela;03099;Orihuela;36554;365,54;365,44;;2 decimales
+Alicante;Rafal;03109;Rafal;156;1,56;2;1,6;2 decimales
+Alicante;Redován;03111;Redován;945;9,45;9,4;9,45;2 decimales
+Alicante;Rojales;03113;Rojales;2773;27,73;27,56;27,6;2 decimales
+Alicante;San Fulgencio;03118;San Fulgencio;207;20,70;19,75;19,75;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;San Miguel de Salinas;03120;San Miguel de Salinas;5485;54,85;54,9;54,9;2 decimales
+Alicante;Torrevieja;03133;Torrevieja;7176;71,76;71,76;71,76;2 decimales
+Alicante;Pilar de la Horadada;03902;Pilar de la Horadada;7782;77,82;78;78,1;2 decimales
+Alicante;Montesinos, los;03903;Los Montesinos;1499;14,99;15;15,05;2 decimales
+Alicante;San Isidro;03904;San Isidro;1142;11,42;11,7;11,69;2 decimales
+Alicante;Crevillent;03059;Crevillent;10455;104,55;104,5;103,3;2 decimales
+Alicante;Elche;03065;Elx/Elche;3265;326,50;326,1;326,07;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Santa Pola;03121;Santa Pola;5816;58,16;58,6;58,6;2 decimales
+Alicante;Agres;03003;Agres;2584;25,84;25,8;25,84;2 decimales
+Alicante;Alcosser;03007;Alcosser;439;4,39;4,39;4,39;2 decimales
+Alicante;Alcoleja;03008;Alcoleja;1456;14,56;14,56;14,56;2 decimales
+Alicante;Alfafara;03010;Alfafara;1978;19,78;19,78;19,78;2 decimales
+Alicante;Almudaina;03016;Almudaina;882;8,82;8,82;8,82;2 decimales
+Alicante;Alqueria d'Asnar, l';03017;l'Alqueria d'Asnar;108;1,08;1,08;1,08;2 decimales
+Alicante;Balones;03020;Balones;1125;11,25;11,2;11,2;2 decimales
+Alicante;Benasau;03022;Benasau;904;9,04;9;9,04;2 decimales
+Alicante;Beniarrés;03028;Beniarrés;2021;20,21;20,2;20,2;2 decimales
+Alicante;Benilloba;03035;Benilloba;954;9,54;9,5;9,5;2 decimales
+Alicante;Benillup;03036;Benillup;338;3,38;3,4;3,4;2 decimales
+Alicante;Benimarfull;03038;Benimarfull;556;5,56;6;5,6;2 decimales
+Alicante;Benimassot;03039;Benimassot;951;9,51;9,5;9,5;2 decimales
+Alicante;Cocentaina;03056;Cocentaina;5294;52,94;52,94;52,94;2 decimales
+Alicante;Quatretondeta;03060;Quatretondeta;167;16,70;16,7;16,7;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Fageca;03067;Fageca;1017;10,17;10;10,17;2 decimales
+Alicante;Famorca;03068;Famorca;972;9,72;9,72;9,72;2 decimales
+Alicante;Gaianes;03072;Gaianes;957;9,57;9,6;9,6;2 decimales
+Alicante;Gorga;03073;Gorga;911;9,11;9;9,11;2 decimales
+Alicante;Lorcha;03084;l'Orxa/Lorcha;3177;31,77;31,8;31,8;2 decimales
+Alicante;Millena;03086;Millena;977;9,77;9,8;9,8;2 decimales
+Alicante;Muro de Alcoy;03092;Muro de Alcoy;3024;30,24;129,86;;2 decimales (revisado a mano: las referencias están mal o redondean)
+Alicante;Planes;03106;Planes;3887;38,87;38,9;38,9;2 decimales
+Alicante;Tollos;03130;Tollos;1597;15,97;14,6;15,97;2 decimales
+Alicante;Atzúbia, l';03001;l'Atzúbia;1467;14,67;14,73;14,67;2 decimales
+Alicante;Alcalalí;03006;Alcalalí;1438;14,38;14,4;14,4;2 decimales
+Alicante;Beniarbeig;03026;Beniarbeig;74;7,40;7;7,4;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Benigembla;03029;Benigembla;1845;18,45;18,4;18,45;2 decimales
+Alicante;Benidoleig;03030;Benidoleig;748;7,48;8;7,48;2 decimales
+Alicante;Benimeli;03040;Benimeli;346;3,46;4;;2 decimales
+Alicante;Benissa;03041;Benissa;6973;69,73;69,71;69,71;2 decimales
+Alicante;Benitachell;03042;el Poble Nou de Benitatxell/Benitachell;1269;12,69;12,65;12,65;2 decimales
+Alicante;Calp;03047;Calp;2359;23,59;23,51;23,51;2 decimales
+Alicante;Castell de Castells;03054;Castell de Castells;4593;45,93;46;45,9;2 decimales
+Alicante;Dénia;03063;Dénia;664;66,40;66,2;66,18;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Gata de Gorgos;03071;Gata de Gorgos;2034;20,34;20,33;20,33;2 decimales
+Alicante;Xaló;03081;Xaló;346;34,60;34,59;34,59;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Jávea;03082;Xàbia/Jávea;6891;68,91;68,59;68,59;2 decimales
+Alicante;Llíber;03085;Llíber;2198;21,98;21,93;21,93;2 decimales
+Alicante;Murla;03091;Murla;581;5,81;6;5,81;2 decimales
+Alicante;Ondara;03095;Ondara;1035;10,35;10,41;10,41;2 decimales
+Alicante;Orba;03097;Orba;1773;17,73;17,73;17,73;2 decimales
+Alicante;Parcent;03100;Parcent;1177;11,77;11,8;11,8;2 decimales
+Alicante;Pedreguer;03101;Pedreguer;2957;29,57;29,57;30,3;2 decimales
+Alicante;Pego;03102;Pego;5285;52,85;52,85;52,85;2 decimales
+Alicante;Ràfol d'Almúnia, el;03110;el Ràfol d'Almúnia;489;4,89;4,9;4,9;2 decimales
+Alicante;Sagra;03115;Sagra;562;5,62;6;5,62;2 decimales
+Alicante;Sanet y Negrals;03117;Sanet y Negrals;394;3,94;4;11;2 decimales
+Alicante;Senija;03125;Senija;479;4,79;5;4,8;2 decimales
+Alicante;Teulada;03128;Teulada;3232;32,32;32,24;32,24;2 decimales
+Alicante;Tormos;03131;Tormos;536;5,36;5,36;5,3;2 decimales
+Alicante;Vall d'Alcalà, la;03134;la Vall d'Alcalà;2285;22,85;24,4;24,4;2 decimales
+Alicante;Vall d'Ebo, la;03135;la Vall d'Ebo;3243;32,43;32,4;32,4;2 decimales
+Alicante;Vall de Gallinera, la;03136;la Vall de Gallinera;5363;53,63;53,6;53,6;2 decimales
+Alicante;Vall de Laguar, la;03137;la Vall de Laguar;2305;23,05;23;22,96;2 decimales
+Alicante;Verger, el;03138;el Verger;81;8,10;8;8,16;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Poblets, els;03901;els Poblets;368;3,68;3,62;3,62;2 decimales
+Alicante;Alfàs del Pi, l';03011;l'Alfàs del Pi;1926;19,26;19,36;19,26;2 decimales
+Alicante;Altea;03018;Altea;3465;34,65;34,43;34,43;2 decimales
+Alicante;Beniardá;03027;Beniardà;1574;15,74;15,74;15,74;2 decimales
+Alicante;Benidorm;03031;Benidorm;3851;38,51;38,51;38,51;2 decimales
+Alicante;Benifato;03033;Benifato;1188;11,88;12;11,9;2 decimales
+Alicante;Benimantell;03037;Benimantell;3793;37,93;38;37,9;2 decimales
+Alicante;Bolulla;03045;Bolulla;1357;13,57;13,57;13,6;2 decimales
+Alicante;Callosa d'en Sarrià;03048;Callosa d'en Sarrià;3466;34,66;34,66;34,66;2 decimales
+Alicante;Confrides;03057;Confrides;3998;39,98;40;45;2 decimales
+Alicante;Finestrat;03069;Finestrat;4226;42,26;42,25;42,25;2 decimales
+Alicante;Castell de Guadalest, el;03075;el Castell de Guadalest;1596;15,96;15,97;15,97;2 decimales
+Alicante;Nucia, la;03094;la Nucia;2136;21,36;21,36;21,36;2 decimales
+Alicante;Orxeta;03098;Orxeta;2406;24,06;24,06;24,06;2 decimales
+Alicante;Polop;03107;Polop;2256;22,56;22,58;22,58;2 decimales
+Alicante;Relleu;03112;Relleu;7679;76,79;76,87;76,87;2 decimales
+Alicante;Sella;03124;Sella;3883;38,83;38,72;38,72;2 decimales
+Alicante;Tàrbena;03127;Tàrbena;3167;31,67;31,67;31,67;2 decimales
+Alicante;Villajoyosa;03139;la Vila Joiosa/Villajoyosa;5889;58,89;20,45;59,25;2 decimales
+Alicante;Algueña;03013;Algueña;1866;18,66;18,43;18,66;2 decimales
+Alicante;Aspe;03019;Aspe;7057;70,57;69,79;69,79;2 decimales
+Alicante;Elda;03066;Elda;456;45,60;44,86;45,79;"1 decimal(es); confirmado por 2 referencia(s)"
+Alicante;Hondón de las Nieves;03077;el Fondó de les Neus/Hondón de las Nieves;6888;68,88;68,85;;2 decimales
+Alicante;Hondón de los Frailes;03078;Hondón de los Frailes;1255;12,55;12,55;12,55;2 decimales
+Alicante;Monforte del Cid;03088;Monforte del Cid;7952;79,52;79,5;79,52;2 decimales
+Alicante;Monóvar;03089;Monòver/Monóvar;15229;152,29;152;152;2 decimales
+Alicante;Novelda;03093;Novelda;7572;75,72;75,7;75,7;2 decimales
+Alicante;Petrer;03104;Petrer;10428;104,28;104,26;104,26;2 decimales
+Alicante;Pinoso;03105;el Pinós/Pinoso;12643;126,43;127;126,48;2 decimales
+Alicante;Romana, la;03114;la Romana;4323;43,23;43,3;43,3;2 decimales
+Castellón;Alcora, l';12005;l'Alcora;9518;95,18;94,9;94,9;2 decimales
+Castellón;Costur;12049;Costur;2193;21,93;21,9;21,9;2 decimales
+Castellón;Chodos;12055;Xodos/Chodos;4427;44,27;44,3;44,3;2 decimales
+Castellón;Figueroles;12060;Figueroles;1209;12,09;12,1;12,1;2 decimales
+Castellón;Lucena del Cid;12072;Llucena/Lucena del Cid;13704;137,04;137;137,04;2 decimales
+Castellón;Useras;12122;les Useres/Useras;8069;80,69;80,7;80,7;2 decimales
+Castellón;Atzeneta del Maestrat;12001;Atzeneta del Maestrat;7116;71,16;71,16;71,16;2 decimales
+Castellón;Albocàsser;12003;Albocàsser;8229;82,29;82,3;82,29;2 decimales
+Castellón;Ares del Maestrat;12014;Ares del Maestrat;11867;118,67;118,67;118,7;2 decimales
+Castellón;Benafigos;12025;Benafigos;356;35,60;35,6;35,6;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Benassal;12026;Benassal;7958;79,58;79,58;79,6;2 decimales
+Castellón;Catí;12042;Catí;10235;102,35;102,3;102,3;2 decimales
+Castellón;Culla;12051;Culla;11586;115,86;116,3;116,3;2 decimales
+Castellón;Serratella, la;12103;la Serratella;1881;18,81;18,8;18,8;2 decimales
+Castellón;Tírig;12111;Tírig;4234;42,34;42,3;42,3;2 decimales
+Castellón;Torre d'En Besora, la;12119;la Torre d'en Besora;1231;12,31;12;11,87;2 decimales
+Castellón;Vilar de Canes;12134;Vilar de Canes;1591;15,91;15,91;15,9;2 decimales
+Castellón;Vistabella del Maestrat;12139;Vistabella del Maestrat;15061;150,61;151;151;2 decimales
+Castellón;Arañuel;12013;Arañuel;1916;19,16;19,16;19,2;2 decimales
+Castellón;Argelita;12015;Argelita;1547;15,47;15,47;15,5;2 decimales
+Castellón;Ayódar;12017;Ayódar;2436;24,36;24,36;24,4;2 decimales
+Castellón;Castillo de Villamalefa;12041;Castillo de Villamalefa;3774;37,74;37,7;37,7;2 decimales
+Castellón;Cirat;12046;Cirat;411;41,10;41,1;41,1;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Cortes de Arenoso;12048;Cortes de Arenoso;8044;80,44;80,6;80,6;2 decimales
+Castellón;Espadilla;12058;Espadilla;1196;11,96;12;12;2 decimales
+Castellón;Fanzara;12059;Fanzara;3498;34,98;34,98;35;2 decimales
+Castellón;Fuente la Reina;12063;Fuente la Reina;742;7,42;8;7,5;2 decimales
+Castellón;Fuentes de Ayódar;12064;Fuentes de Ayódar;1098;10,98;11;10,9;2 decimales
+Castellón;Ludiente;12073;Ludiente;3135;31,35;31,35;31,4;2 decimales
+Castellón;Montán;12078;Montán;341;34,10;34,1;34,1;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Montanejos;12079;Montanejos;378;37,80;37,8;37,8;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Puebla de Arenoso;12092;Puebla de Arenoso;4253;42,53;42,7;42,7;2 decimales
+Castellón;Toga;12113;Toga;1352;13,52;13,52;13,5;2 decimales
+Castellón;Torralba del Pinar;12116;Torralba del Pinar;2119;21,19;21,2;21,2;2 decimales
+Castellón;Torrechiva;12118;Torrechiva;1185;11,85;11,85;11,8;2 decimales
+Castellón;Vallat;12123;Vallat;501;5,01;5,01;5;2 decimales
+Castellón;Villahermosa del Río;12130;Villahermosa del Río;10885;108,85;108,9;108,9;2 decimales
+Castellón;Villamalur;12131;Villamalur;1947;19,47;19,5;19,5;2 decimales
+Castellón;Villanueva de Viver;12133;Villanueva de Viver;587;5,87;5,95;6;2 decimales
+Castellón;Zucaina;12142;Zucaina;5157;51,57;51,6;51,57;2 decimales
+Castellón;Algimia de Almonacid;12008;Algimia de Almonacid;2033;20,33;20,33;20,3;2 decimales
+Castellón;Almedíjar;12010;Almedíjar;209;20,90;20,9;20,9;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Altura;12012;Altura;12947;129,47;129,56;129,47;2 decimales
+Castellón;Azuébar;12018;Azuébar;234;23,40;23,4;23,4;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Barracas;12020;Barracas;4215;42,15;42,15;42,1;2 decimales
+Castellón;Bejís;12022;Bejís;4235;42,35;42,4;42,4;2 decimales
+Castellón;Benafer;12024;Benafer;1703;17,03;17;17;2 decimales
+Castellón;Castellnovo;12039;Castellnovo;192;19,20;19,2;19,2;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Caudiel;12043;Caudiel;6236;62,36;62,4;62,4;2 decimales
+Castellón;Chóvar;12056;Chóvar;1831;18,31;18,31;18,2;2 decimales
+Castellón;Gaibiel;12065;Gaibiel;1808;18,08;18,08;18,1;2 decimales
+Castellón;Geldo;12067;Geldo;56;0,56;0,56;0,56;2 decimales
+Castellón;Higueras;12069;Higueras;1184;11,84;11,8;11,8;2 decimales
+Castellón;Jérica;12071;Jérica;7827;78,27;78,3;78,3;2 decimales
+Castellón;Matet;12076;Matet;1489;14,89;14,89;14,89;2 decimales
+Castellón;Navajas;12081;Navajas;789;7,89;7,89;7,9;2 decimales
+Castellón;Pavías;12088;Pavías;1441;14,41;14,4;14,4;2 decimales
+Castellón;Pina de Montalgrao;12090;Pina de Montalgrao;3176;31,76;31,6;31,6;2 decimales
+Castellón;Sacañet;12097;Sacañet;305;30,50;30,5;30,5;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Segorbe;12104;Segorbe;1062;106,20;107,52;106,08;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Soneja;12106;Soneja;2897;28,97;29,1;29,1;2 decimales
+Castellón;Sot de Ferrer;12107;Sot de Ferrer;863;8,63;8,64;8,6;2 decimales
+Castellón;Teresa;12110;Teresa;1989;19,89;19,89;19,9;2 decimales
+Castellón;Torás;12114;Torás;1678;16,78;16,8;16,8;2 decimales
+Castellón;Toro, el;12115;El Toro;11004;110,04;109,95;110;2 decimales
+Castellón;Vall de Almonacid;12125;Vall de Almonacid;2112;21,12;21,12;21,1;2 decimales
+Castellón;Viver;12140;Viver;4993;49,93;49,93;44,9;2 decimales
+Castellón;Alcalà de Xivert;12004;Alcalà de Xivert;16756;167,56;167,5;167,56;2 decimales
+Castellón;Benicarló;12027;Benicarló;4786;47,86;47,9;47,9;2 decimales
+Castellón;Càlig;12034;Càlig;2747;27,47;27,5;27,5;2 decimales
+Castellón;Canet lo Roig;12036;Canet lo Roig;6868;68,68;687;68,7;2 decimales
+Castellón;Castell de Cabres;12037;Castell de Cabres;3071;30,71;30,7;30,7;2 decimales
+Castellón;Cervera del Maestre;12044;Cervera del Maestre;9325;93,25;93,2;93,2;2 decimales
+Castellón;Xert;12052;Xert;8252;82,52;82,51;82,51;2 decimales
+Castellón;Jana, la;12070;la Jana;195;19,50;19,5;19,5;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Peñíscola;12089;Peníscola/Peñíscola;7897;78,97;79;78,97;2 decimales
+Castellón;Pobla de Benifassà, la;12093;la Pobla de Benifassà;13614;136,14;136;136;2 decimales
+Castellón;Rossell;12096;Rossell;7488;74,88;74,9;74,9;2 decimales
+Castellón;Salzadella, la;12098;la Salzadella;4975;49,75;49,9;49,9;2 decimales
+Castellón;San Jorge;12099;Sant Jordi/San Jorge;3649;36,49;36,5;36,5;2 decimales
+Castellón;Sant Mateu;12100;Sant Mateu;6477;64,77;64,6;64,6;2 decimales
+Castellón;San Rafael del Río;12101;San Rafael del Río;2115;21,15;21,1;21,1;2 decimales
+Castellón;Santa Magdalena de Pulpis;12102;Santa Magdalena de Pulpis;6649;66,49;66,5;66,5;2 decimales
+Castellón;Traiguera;12121;Traiguera;5976;59,76;59,8;59,8;2 decimales
+Castellón;Vinaròs;12138;Vinaròs;9539;95,39;95,5;95,46;2 decimales
+Castellón;Almassora;12009;Almassora;3317;33,17;33;33;2 decimales
+Castellón;Benicasim;12028;Benicàssim/Benicasim;3629;36,29;36,1;36,1;2 decimales
+Castellón;Benlloc;12029;Benlloc;4352;43,52;43,5;43,5;2 decimales
+Castellón;Borriol;12031;Borriol;6156;61,56;62,07;60,95;2 decimales
+Castellón;Cabanes;12033;Cabanes;13156;131,56;131,6;131,6;2 decimales
+Castellón;Castellón de la Plana;12040;Castelló de la Plana/Castellón de la Plana;11133;111,33;111,33;111,33;2 decimales
+Castellón;Coves de Vinromà, les;12050;les Coves de Vinromà;13644;136,44;136,4;136,4;2 decimales
+Castellón;Oropesa del Mar;12085;Orpesa/Oropesa del Mar;2655;26,55;26,4;26,4;2 decimales
+Castellón;Pobla de Tornesa, la;12094;la Pobla Tornesa;2591;25,91;25,8;25,8;2 decimales
+Castellón;Sierra Engarcerán;12105;Sierra Engarcerán;8198;81,98;82;81,98;2 decimales
+Castellón;Torreblanca;12117;Torreblanca;2981;29,81;29,8;29,8;2 decimales
+Castellón;Torre d'en Doménec, la;12120;la Torre d'en Doménec;319;3,19;3;3,6;2 decimales
+Castellón;Vall d'Alba;12124;Vall d'Alba;5292;52,92;53;52,9;2 decimales
+Castellón;Vilanova d'Alcolea;12132;Vilanova d'Alcolea;6841;68,41;68,4;68,4;2 decimales
+Castellón;Sant Joan de Moró;12902;Sant Joan de Moró;2866;28,66;29;29,1;2 decimales
+Castellón;Aín;12002;Aín;1229;12,29;12,3;12,29;2 decimales
+Castellón;Alcudia de Veo;12006;Alcudia de Veo;3066;30,66;30,7;30,7;2 decimales
+Castellón;Alfondeguilla;12007;Alfondeguilla;2833;28,33;28,3;28,3;2 decimales
+Castellón;Almenara;12011;Almenara;2763;27,63;27,6;27,6;2 decimales
+Castellón;Artana;12016;Artana;3633;36,33;36,3;36,3;2 decimales
+Castellón;Betxí;12021;Betxí;2139;21,39;21,4;21,4;2 decimales
+Castellón;Burriana;12032;Borriana/Burriana;4685;46,85;47,2;47;2 decimales
+Castellón;Chilches;12053;Chilches/Xilxes;1358;13,58;13,6;13,6;2 decimales
+Castellón;Eslida;12057;Eslida;1813;18,13;18;18,1;2 decimales
+Castellón;Llosa, la;12074;la Llosa;1003;10,03;10;10;2 decimales
+Castellón;Moncofa;12077;Moncofa;1434;14,34;14,53;14,53;2 decimales
+Castellón;Nules;12082;Nules;4985;49,85;50;50,5;2 decimales
+Castellón;Onda;12084;Onda;10823;108,23;108,42;108,42;2 decimales
+Castellón;Ribesalbes;12095;Ribesalbes;854;8,54;9;8,6;2 decimales
+Castellón;Sueras;12108;Suera/Sueras;2222;22,22;22,2;22,2;2 decimales
+Castellón;Tales;12109;Tales;1453;14,53;15;14,53;2 decimales
+Castellón;Vall d'Uixó, la;12126;la Vall d'Uixó;6708;67,08;67,1;67,1;2 decimales
+Castellón;Vila-real;12135;Vila-real;551;55,10;55,12;55,12;"1 decimal(es); confirmado por 2 referencia(s)"
+Castellón;Vilavella, la;12136;la Vilavella;615;6,15;6;6,2;2 decimales
+Castellón;Alquerías del Niño Perdido;12901;les Alqueries/Alquerías del Niño Perdido;1299;12,99;12,6;12,6;2 decimales
+Castellón;Castellfort;12038;Castellfort;6674;66,74;66,7;66,7;2 decimales
+Castellón;Cinctorres;12045;Cinctorres;3506;35,06;34,9;34,9;2 decimales
+Castellón;Forcall;12061;Forcall;3921;39,21;39,2;39,2;2 decimales
+Castellón;Herbers;12068;Herbers;2712;27,12;27,1;27,12;2 decimales
+Castellón;Mata, la;12075;la Mata de Morella;1516;15,16;15,2;15,16;2 decimales
+Castellón;Morella;12080;Morella;41354;413,54;413,5;413,5;2 decimales
+Castellón;Olocau del Rey;12083;Olocau del Rey;4398;43,98;44;44;2 decimales
+Castellón;Palanques;12087;Palanques;1432;14,32;14,3;14,3;2 decimales
+Castellón;Portell de Morella;12091;Portell de Morella;4968;49,68;49,4;49,4;2 decimales
+Castellón;Todolella;12112;Todolella;3403;34,03;34;34;2 decimales
+Castellón;Vallibona;12127;Vallibona;9137;91,37;91,4;91,4;2 decimales
+Castellón;Vilafamés;12128;Vilafamés;7055;70,55;70,4;70,4;2 decimales
+Castellón;Vilafranca;12129;Vilafranca/Villafranca del Cid;9356;93,56;93,8;93,8;2 decimales
+Castellón;Villores;12137;Villores;531;5,31;5;5,3;2 decimales
+Castellón;Zorita del Maestrazgo;12141;Zorita del Maestrazgo;6883;68,83;68,8;68,8;2 decimales
+Valencia;Albalat dels Tarongers;46010;Albalat dels Tarongers;2134;21,34;21,35;21,35;2 decimales
+Valencia;Alfara de la Baronia;46024;Alfara de la Baronia;1171;11,71;11,7;11,7;2 decimales
+Valencia;Algar de Palancia;46028;Algar de Palància;1328;13,28;13,2;13,2;2 decimales
+Valencia;Algímia d'Alfara;46030;Algímia d'Alfara;1445;14,45;14,4;14,45;2 decimales
+Valencia;Benavites;46052;Benavites;427;4,27;4,3;4,3;2 decimales
+Valencia;Benifairó de les Valls;46058;Benifairó de les Valls;435;4,35;4;4,35;2 decimales
+Valencia;Canet d'En Berenguer;46082;Canet d'En Berenguer;395;3,95;3,8;3,84;2 decimales
+Valencia;Quart de les Valls;46101;Quart de les Valls;843;8,43;8,4;8,4;2 decimales
+Valencia;Quartell;46103;Quartell;318;3,18;3,2;3,2;2 decimales
+Valencia;Estivella;46120;Estivella;2092;20,92;20,9;20,9;2 decimales
+Valencia;Faura;46122;Faura;164;1,64;1,6;1,64;2 decimales
+Valencia;Gilet;46134;Gilet;1128;11,28;11,3;11,28;2 decimales
+Valencia;Petrés;46192;Petrés;187;1,87;1,9;1,9;2 decimales
+Valencia;Sagunto;46220;Sagunt/Sagunto;13393;133,93;132;133,93;2 decimales
+Valencia;Segart;46224;Segart;664;6,64;6,6;6,6;2 decimales
+Valencia;Torres Torres;46245;Torres Torres;1177;11,77;11,8;11,8;2 decimales
+Valencia;Benaguasil;46051;Benaguasil;2521;25,21;25,4;25,4;2 decimales
+Valencia;Benissanó;46067;Benissanó;225;2,25;2,3;2,3;2 decimales
+Valencia;Bétera;46070;Bétera;7512;75,12;75,7;75,67;2 decimales
+Valencia;Casinos;46089;Casinos;4164;41,64;41,48;41,5;2 decimales
+Valencia;Domeño;46114;Domeño;687;68,70;68,8;68,8;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Eliana, l';46116;l'Eliana;871;8,71;8,77;8,77;2 decimales
+Valencia;Llíria;46147;Llíria;22785;227,85;228;227,85;2 decimales
+Valencia;Loriguilla;46148;Loriguilla;7242;72,42;72,4;72,4;2 decimales
+Valencia;Marines;46161;Marines;3567;35,67;35,7;35,72;2 decimales
+Valencia;Náquera;46178;Nàquera/Náquera;3871;38,71;38,71;38,7;2 decimales
+Valencia;Olocau;46182;Olocau;3734;37,34;37,4;37,4;2 decimales
+Valencia;Pobla de Vallbona, la;46202;la Pobla de Vallbona;3325;33,25;33,1;33,1;2 decimales
+Valencia;Riba-roja de Túria;46214;Riba-roja de Túria;5758;57,58;57,5;57,49;2 decimales
+Valencia;Serra;46228;Serra;5736;57,36;57,3;57,3;2 decimales
+Valencia;Vilamarxant;46256;Vilamarxant;7147;71,47;71,1;71,08;2 decimales
+Valencia;Gátova;46902;Gátova;3042;30,42;30,4;30,41;2 decimales
+Valencia;San Antonio de Benagéber;46903;San Antonio de Benagéber;879;8,79;8,74;8,74;2 decimales
+Valencia;Anna;46039;Anna;2145;21,45;21,4;21,4;2 decimales
+Valencia;Bicorp;46071;Bicorp;13661;136,61;136,5;136,5;2 decimales
+Valencia;Bolbaite;46073;Bolbaite;4039;40,39;40,4;40,4;2 decimales
+Valencia;Chella;46107;Chella;4349;43,49;43,5;43,5;2 decimales
+Valencia;Enguera;46118;Enguera;24197;241,97;241,8;241,7;2 decimales
+Valencia;Millares;46167;Millares;10551;105,51;105,5;105,5;2 decimales
+Valencia;Navarrés;46179;Navarrés;4704;47,04;47;47;2 decimales
+Valencia;Quesa;46206;Quesa;7321;73,21;73,2;73,2;2 decimales
+Valencia;Alcúdia de Crespins, l';46020;l'Alcúdia de Crespins;517;5,17;5,2;5,17;2 decimales
+Valencia;Barxeta;46045;Barxeta;2852;28,52;28,5;28,5;2 decimales
+Valencia;Canals;46081;Canals;2188;21,88;21,9;21,86;2 decimales
+Valencia;Cerdà;46096;Cerdà;148;1,48;2;1,52;2 decimales
+Valencia;Estubeny;46121;Estubeny;642;6,42;6,4;6,4;2 decimales
+Valencia;Font de la Figuera, la;46128;la Font de la Figuera;8471;84,71;84,34;84,34;2 decimales
+Valencia;Genovés;46132;el Genovés;1516;15,16;15,2;15,16;2 decimales
+Valencia;Granja de la Costera, la;46137;la Granja de la Costera;84;0,84;1;0,83;2 decimales
+Valencia;Xàtiva;46145;Xàtiva;7653;76,53;76,56;76,56;2 decimales
+Valencia;Llocnou d'En Fenollet;46151;Llocnou d'En Fenollet;153;1,53;1,5;1,53;2 decimales
+Valencia;Llanera de Ranes;46154;Llanera de Ranes;927;9,27;9,3;9,3;2 decimales
+Valencia;Llosa de Ranes, la;46157;la Llosa de Ranes;713;7,13;7,1;7,1;2 decimales
+Valencia;Mogente;46170;Moixent/Mogente;1496;149,60;150,23;170,23;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Montesa;46174;Montesa;4811;48,11;48,1;48,1;2 decimales
+Valencia;Novetlè;46180;Novetlè;147;1,47;1,5;1,47;2 decimales
+Valencia;Rotglà i Corberà;46217;Rotglà i Corberà;626;6,26;6,2;6,2;2 decimales
+Valencia;Torrella;46243;Torrella;116;1,16;1,1;1,14;2 decimales
+Valencia;Vallada;46251;Vallada;615;61,50;61,5;1600;"1 decimal(es); confirmado por 1 referencia(s)"
+Valencia;Vallés;46253;Vallés;124;1,24;1,2;1,24;2 decimales
+Valencia;Albalat dels Sorells;46009;Albalat dels Sorells;462;4,62;4,62;4,6;2 decimales
+Valencia;Alboraya;46013;Alboraia/Alboraya;835;8,35;8,3;8,3;2 decimales
+Valencia;Albuixech;46014;Albuixech;436;4,36;4,4;4,4;2 decimales
+Valencia;Alfara del Patriarca;46025;Alfara del Patriarca;198;1,98;1,98;2;2 decimales
+Valencia;Almàssera;46032;Almàssera;269;2,69;2,7;2,7;2 decimales
+Valencia;Bonrepòs i Mirambell;46074;Bonrepòs i Mirambell;106;1,06;1,05;1,05;2 decimales
+Valencia;Burjassot;46078;Burjassot;346;3,46;3,4;3,4;2 decimales
+Valencia;Emperador;46117;Emperador;3;0,03;0,03;0,028;2 decimales
+Valencia;Foios;46126;Foios;648;6,48;6,5;6,5;2 decimales
+Valencia;Godella;46135;Godella;839;8,39;8,3;8,4;2 decimales
+Valencia;Massalfassar;46163;Massalfassar;254;2,54;2,5;2,5;2 decimales
+Valencia;Massamagrell;46164;Massamagrell;616;6,16;6,2;6,2;2 decimales
+Valencia;Meliana;46166;Meliana;471;4,71;4,7;4,7;2 decimales
+Valencia;Moncada;46171;Montcada/Moncada;1583;15,83;15,6;15,6;2 decimales
+Valencia;Museros;46177;Museros;1246;12,46;12,4;12,45;2 decimales
+Valencia;Paterna;46190;Paterna;3582;35,82;44;35,85;2 decimales
+Valencia;Pobla de Farnals, la;46199;la Pobla de Farnals;362;3,62;4;3,61;2 decimales
+Valencia;Puig de Santa Maria, el;46204;el Puig de Santa Maria;268;26,80;26,8;26,8;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Puçol;46205;Puçol;181;18,10;18,06;18,06;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Rafelbunyol;46207;Rafelbunyol;42;4,20;42;4,2;"1 decimal(es); confirmado por 1 referencia(s)"
+Valencia;Rocafort;46216;Rocafort;23;2,30;2,3;2,3;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Tavernes Blanques;46237;Tavernes Blanques;78;0,78;0,7;0,74;2 decimales
+Valencia;Vinalesa;46260;Vinalesa;153;1,53;1,53;1,53;2 decimales
+Valencia;Alaquàs;46005;Alaquàs;386;3,86;3,9;3,9;2 decimales
+Valencia;Albal;46007;Albal;733;7,33;7,37;7,4;2 decimales
+Valencia;Alcàsser;46015;Alcàsser;894;8,94;9,01;9,01;2 decimales
+Valencia;Aldaia;46021;Aldaia;1605;16,05;16;16,06;2 decimales
+Valencia;Alfafar;46022;Alfafar;1009;10,09;10,1;9,92;2 decimales
+Valencia;Benetússer;46054;Benetússer;78;0,78;0,76;0,772;2 decimales
+Valencia;Beniparrell;46065;Beniparrell;362;3,62;4;3,7;2 decimales
+Valencia;Catarroja;46094;Catarroja;1306;13,06;13;13,16;2 decimales
+Valencia;Quart de Poblet;46102;Quart de Poblet;1979;19,79;19,6;19,6;2 decimales
+Valencia;Xirivella;46110;Xirivella;512;5,12;5,2;5,2;2 decimales
+Valencia;Llocnou de la Corona;46152;Llocnou de la Corona;1;0,01;0,0128;0,0128;2 decimales (revisado a mano: las referencias están mal o redondean)
+Valencia;Manises;46159;Manises;1938;19,38;19,6;19,65;2 decimales
+Valencia;Massanassa;46165;Massanassa;56;5,60;5,6;5,6;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Mislata;46169;Mislata;203;2,03;2,1;2,06;2 decimales
+Valencia;Paiporta;46186;Paiporta;399;3,99;3,9;3,9;2 decimales
+Valencia;Picanya;46193;Picanya;724;7,24;7,1;7,1;2 decimales
+Valencia;Picassent;46194;Picassent;8571;85,71;85,78;85,71;2 decimales
+Valencia;Sedaví;46223;Sedaví;182;1,82;2;1,83;2 decimales
+Valencia;Silla;46230;Silla;2505;25,05;25;25,01;2 decimales
+Valencia;Torrent;46244;Torrent;6929;69,29;69,26;69,32;2 decimales
+Valencia;Alborache;46012;Alborache;2733;27,33;27,33;27,3;2 decimales
+Valencia;Buñol;46077;Buñol;11254;112,54;112,4;112,4;2 decimales
+Valencia;Cheste;46109;Cheste;7153;71,53;71,4;71,4;2 decimales
+Valencia;Chiva;46111;Chiva;17802;178,02;178,7;178,7;2 decimales
+Valencia;Dos Aguas;46115;Dos Aguas;12151;121,51;121,5;121,5;2 decimales
+Valencia;Godelleta;46136;Godelleta;3745;37,45;37,5;37,5;2 decimales
+Valencia;Macastre;46158;Macastre;3766;37,66;37,7;37,66;2 decimales
+Valencia;Siete Aguas;46229;Siete Aguas;11045;110,45;110,6;110,59;2 decimales
+Valencia;Yátova;46261;Yátova;12016;120,16;120,24;120,3;2 decimales
+Valencia;Camporrobles;46080;Camporrobles;895;89,50;89,5;89,5;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Caudete de las Fuentes;46095;Caudete de las Fuentes;346;34,60;34,6;34,6;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Chera;46108;Chera;497;49,70;49,7;49,7;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Fuenterrobles;46129;Fuenterrobles;4945;49,45;50;49,45;2 decimales
+Valencia;Requena;46213;Requena;8144;814,40;814,2;814,46;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Sinarcas;46232;Sinarcas;10246;102,46;102,5;102,5;2 decimales
+Valencia;Utiel;46249;Utiel;23691;236,91;237;236,9;2 decimales
+Valencia;Venta del Moro;46254;Venta del Moro;27216;272,16;272,6;272,59;2 decimales
+Valencia;Villargordo del Cabriel;46259;Villargordo del Cabriel;7168;71,68;71,6;72,2;2 decimales
+Valencia;Alberic;46011;Alberic;2679;26,79;26,7;26,7;2 decimales
+Valencia;Alcàntera de Xúquer;46016;Alcàntera de Xúquer;343;3,43;3,3;3,3;2 decimales
+Valencia;Alzira;46017;Alzira;11058;110,58;110,4;110,46;2 decimales
+Valencia;Alcúdia, l';46019;l'Alcúdia;2367;23,67;23,7;23,67;2 decimales
+Valencia;Alfarb;46026;Alfarb;2058;20,58;20,6;20,6;2 decimales
+Valencia;Algemesí;46029;Algemesí;413;41,30;41,5;41,5;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Alginet;46031;Alginet;2407;24,07;24,07;24,1;2 decimales
+Valencia;Antella;46040;Antella;1758;17,58;17,6;17,6;2 decimales
+Valencia;Beneixida;46053;Beneixida;32;3,20;3,2;3,2;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Benifaió;46060;Benifaió;2015;20,15;20,1;20,1;2 decimales
+Valencia;Benimodo;46063;Benimodo;1252;12,52;12,5;12,5;2 decimales
+Valencia;Benimuslem;46064;Benimuslem;417;4,17;4,2;4,2;2 decimales
+Valencia;Carcaixent;46083;Carcaixent;5925;59,25;59,25;59,3;2 decimales
+Valencia;Càrcer;46084;Càrcer;734;7,34;8;7,4;2 decimales
+Valencia;Carlet;46085;Carlet;4562;45,62;45,6;45,6;2 decimales
+Valencia;Catadau;46093;Catadau;3546;35,46;35,5;35,5;2 decimales
+Valencia;Cotes;46100;Cotes;633;6,33;6,3;6,3;2 decimales
+Valencia;Énova, l';46119;l'Énova;767;7,67;8;7,7;2 decimales
+Valencia;Gavarda;46130;Gavarda;799;7,99;7,79;7,83;2 decimales
+Valencia;Guadassuar;46139;Guadassuar;3525;35,25;35,3;35,3;2 decimales
+Valencia;Llombai;46156;Llombai;5558;55,58;55,6;55,6;2 decimales
+Valencia;Manuel;46160;Manuel;605;6,05;6;6;2 decimales
+Valencia;Massalavés;46162;Massalavés;748;7,48;7,5;7,5;2 decimales
+Valencia;Montserrat;46172;Montserrat;4586;45,86;45,6;45,6;2 decimales
+Valencia;Montroy;46176;Montroi/Montroy;3133;31,33;31,4;31,4;2 decimales
+Valencia;Pobla Llarga, la;46203;la Pobla Llarga;1009;10,09;10,1;10,1;2 decimales
+Valencia;Rafelguaraf;46209;Rafelguaraf;1626;16,26;16,3;16,3;2 decimales
+Valencia;Real;46212;Real;1831;18,31;18,3 / 18,32;18,3;2 decimales
+Valencia;Sant Joanet;46222;Sant Joanet;186;1,86;1,9;1,9;2 decimales
+Valencia;Sellent;46225;Sellent;1401;14,01;14;14;2 decimales
+Valencia;Senyera;46227;Senyera;203;2,03;2;2,05;2 decimales
+Valencia;Sumacàrcer;46236;Sumacàrcer;2009;20,09;20,1;20,1;2 decimales
+Valencia;Tous;46246;Tous;12752;127,52;127,5;127,5;2 decimales
+Valencia;Turís;46248;Turís;8041;80,41;80,5;80,5;2 decimales
+Valencia;Castelló;46257;Castelló;203;20,30;20,3;20,3;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Albalat de la Ribera;46008;Albalat de la Ribera;1443;14,43;14,29;14,3;2 decimales
+Valencia;Almussafes;46035;Almussafes;1077;10,77;10,77;10,76;2 decimales
+Valencia;Corbera;46098;Corbera;2027;20,27;20,3;20,3;2 decimales
+Valencia;Cullera;46105;Cullera;5382;53,82;53,8;53,8;2 decimales
+Valencia;Favara;46123;Favara;945;9,45;9;9,4;2 decimales
+Valencia;Fortaleny;46125;Fortaleny;457;4,57;4,57;4,6;2 decimales
+Valencia;Llaurí;46155;Llaurí;1363;13,63;13,6;13,63;2 decimales
+Valencia;Polinyà de Xúquer;46197;Polinyà de Xúquer;918;9,18;9,18;9,18;2 decimales
+Valencia;Riola;46215;Riola;559;5,59;6;5,6;2 decimales
+Valencia;Sollana;46233;Sollana;392;39,20;39,2;37,3;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Sueca;46235;Sueca;9241;92,41;92,5;92,5;2 decimales
+Valencia;Benicull de Xúquer;46904;Benicull de Xúquer;35;3,50;3,56;3,56;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Ademuz;46001;Ademuz;10031;100,31;100,42;100,4;2 decimales
+Valencia;Casas Altas;46087;Casas Altas;1595;15,95;16;15,9;2 decimales
+Valencia;Casas Bajas;46088;Casas Bajas;2265;22,65;22,6;22,6;2 decimales
+Valencia;Castielfabib;46092;Castielfabib;10626;106,26;106,3;106,3;2 decimales
+Valencia;Puebla de San Miguel;46201;Puebla de San Miguel;6361;63,61;63,6;63,6;2 decimales
+Valencia;Torrebaja;46242;Torrebaja;472;4,72;4,7;4,7;2 decimales
+Valencia;Vallanca;46252;Vallanca;5661;56,61;56,6;56,6;2 decimales
+Valencia;Ador;46002;Ador;1383;13,83;13,81;13,8;2 decimales
+Valencia;Alfauir;46023;Alfauir;622;6,22;6,2;6,2;2 decimales
+Valencia;Almiserà;46033;Almiserà;747;7,47;7,4;7,4;2 decimales
+Valencia;Almoines;46034;Almoines;212;2,12;2,1;2,1;2 decimales
+Valencia;Alqueria de la Comtessa, l';46037;l'Alqueria de la Comtessa;215;2,15;2,15;2,1;2 decimales
+Valencia;Barx;46046;Barx;1611;16,11;16,1;16,1;2 decimales
+Valencia;Bellreguard;46048;Bellreguard;285;2,85;2,9;2,9;2 decimales
+Valencia;Beniarjó;46055;Beniarjó;277;2,77;3;2,8;2 decimales
+Valencia;Benifairó de la Valldigna;46059;Benifairó de la Valldigna;202;20,20;20,2;20,2;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Beniflá;46061;Beniflá;63;0,63;0,62;0,62;2 decimales
+Valencia;Benirredrà;46066;Benirredrà;39;0,39;0,4;0,4;2 decimales
+Valencia;Castellonet de la Conquesta;46091;Castellonet de la Conquesta;544;5,44;5,4;5,4;2 decimales
+Valencia;Daimús;46113;Daimús;315;3,15;3,1;3,1;2 decimales
+Valencia;Font d'En Carròs, la;46127;la Font d'en Carròs;99;9,90;10;9,9;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Gandia;46131;Gandia;6105;61,05;60,8;60,8;2 decimales
+Valencia;Guardamar de la Safor;46140;Guardamar de la Safor;11;1,10;1;1,1;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Xeraco;46143;Xeraco;2032;20,32;20,2;20,2;2 decimales
+Valencia;Xeresa;46146;Xeresa;1693;16,93;17;16,9;2 decimales
+Valencia;Llocnou de Sant Jeroni;46153;Llocnou de Sant Jeroni;647;6,47;6,5;6,5;2 decimales
+Valencia;Miramar;46168;Miramar;256;2,56;3;2,6;2 decimales
+Valencia;Oliva;46181;Oliva;6016;60,16;59,93;59,93;2 decimales
+Valencia;Palma de Gandía;46187;Palma de Gandía;1391;13,91;14;14;2 decimales
+Valencia;Palmera;46188;Palmera;98;0,98;1;0,98;2 decimales
+Valencia;Piles;46195;Piles;394;3,94;4;3,9;2 decimales
+Valencia;Potries;46198;Potries;307;3,07;3;3,07;2 decimales
+Valencia;Rafelcofer;46208;Rafelcofer;203;2,03;2;3,5;2 decimales
+Valencia;Real de Gandía;46211;el Real de Gandia;607;6,07;6;6,1;2 decimales
+Valencia;Ròtova;46218;Ròtova;765;7,65;7,65;7,5;2 decimales
+Valencia;Simat de la Valldigna;46231;Simat de la Valldigna;3847;38,47;38,5;38,5;2 decimales
+Valencia;Tavernes de la Valldigna;46238;Tavernes de la Valldigna;4923;49,23;49,2;49,2;2 decimales
+Valencia;Villalonga;46255;Vilallonga/Villalonga;4329;43,29;43,3;43,32;2 decimales
+Valencia;Alcublas;46018;Alcublas;4346;43,46;43,5;43,5;2 decimales
+Valencia;Alpuente;46036;Alpuente;13833;138,33;138,3;138,3;2 decimales
+Valencia;Andilla;46038;Andilla;14265;142,65;142,8;142,8;2 decimales
+Valencia;Aras de los Olmos;46041;Aras de los Olmos;7604;76,04;76;76,04;2 decimales
+Valencia;Benagéber;46050;Benagéber;6982;69,82;69,8;69,8;2 decimales
+Valencia;Bugarra;46076;Bugarra;4034;40,34;40,3;40,3;2 decimales
+Valencia;Calles;46079;Calles;6492;64,92;64,5;64,5;2 decimales
+Valencia;Chelva;46106;Chelva;19038;190,38;190,6;190,6;2 decimales
+Valencia;Chulilla;46112;Chulilla;6178;61,78;61,8;61,8;2 decimales
+Valencia;Gestalgar;46133;Gestalgar;7014;70,14;69,7;69,7;2 decimales
+Valencia;Higueruelas;46141;Higueruelas;1899;18,99;18,8;18,8;2 decimales
+Valencia;Losa del Obispo;46149;Losa del Obispo;1217;12,17;12,2;12,2;2 decimales
+Valencia;Pedralba;46191;Pedralba;5904;59,04;59;58,9;2 decimales
+Valencia;Sot de Chera;46234;Sot de Chera;3875;38,75;38,8;38,8;2 decimales
+Valencia;Titaguas;46241;Titaguas;6321;63,21;63,21;83,2;2 decimales
+Valencia;Tuéjar;46247;Tuéjar;12192;121,92;122;;2 decimales
+Valencia;Villar del Arzobispo;46258;Villar del Arzobispo;4054;40,54;40,7;40,7;2 decimales
+Valencia;Yesa, la;46262;La Yesa;8468;84,68;84,7;84,68;2 decimales
+Valencia;València;46250;València;13932;139,32;134,65;134,65;2 decimales
+Valencia;Atzeneta d'Albaida;46003;Atzeneta d'Albaida;618;6,18;6,1;6,1;2 decimales
+Valencia;Agullent;46004;Agullent;1624;16,24;16,2;16,2;2 decimales
+Valencia;Albaida;46006;Albaida;353;35,30;35,41;35,41;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Alfarrasí;46027;Alfarrasí;64;6,40;6,4;6,4;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Aielo de Malferit;46042;Aielo de Malferit;2674;26,74;27;27;2 decimales
+Valencia;Aielo de Rugat;46043;Aielo de Rugat;772;7,72;7,66;7,66;2 decimales
+Valencia;Bèlgida;46047;Bèlgida;1726;17,26;17,3;17,3;2 decimales
+Valencia;Bellús;46049;Bellús;954;9,54;9,5;9,5;2 decimales
+Valencia;Beniatjar;46056;Beniatjar;1137;11,37;11,4;11,4;2 decimales
+Valencia;Benicolet;46057;Benicolet;1133;11,33;11,3;11,3;2 decimales
+Valencia;Benigànim;46062;Benigànim;3344;33,44;33,4;33,44;2 decimales
+Valencia;Benissoda;46068;Benissoda;404;4,04;4;4;2 decimales
+Valencia;Benissuera;46069;Benissuera;213;2,13;2;2,1;2 decimales
+Valencia;Bocairent;46072;Bocairent;9698;96,98;97;97;2 decimales
+Valencia;Bufali;46075;Bufali;319;3,19;3,19;3,2;2 decimales
+Valencia;Carrícola;46086;Carrícola;46;4,60;5;4,6;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Castelló de Rugat;46090;Castelló de Rugat;1902;19,02;19,1;19,1;2 decimales
+Valencia;Quatretonda;46104;Quatretonda;4357;43,57;43,5;43,55;2 decimales
+Valencia;Fontanars dels Alforins;46124;Fontanars dels Alforins;7468;74,68;74,7;74,7;2 decimales
+Valencia;Guadasséquies;46138;Guadasséquies;326;3,26;3;3,3;2 decimales
+Valencia;Llutxent;46150;Llutxent;401;40,10;40;42,1;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Montaverner;46173;Montaverner;738;7,38;7;7,4;2 decimales
+Valencia;Montichelvo;46175;Montitxelvo/Montichelvo;824;8,24;8;8,2;2 decimales
+Valencia;Olleria, l';46183;l'Olleria;3222;32,22;32,2;32,2;2 decimales
+Valencia;Ontinyent;46184;Ontinyent;12543;125,43;125,4;125,43;2 decimales
+Valencia;Otos;46185;Otos;1108;11,08;11,1;11,1;2 decimales
+Valencia;Palomar, el;46189;el Palomar;776;7,76;8;7,8;2 decimales
+Valencia;Pinet;46196;Pinet;1189;11,89;12;11,9;2 decimales
+Valencia;Pobla del Duc, la;46200;la Pobla del Duc;1887;18,87;18,87;18,9;2 decimales
+Valencia;Ràfol de Salem;46210;Ráfol de Salem;433;4,33;4;4,3;2 decimales
+Valencia;Rugat;46219;Rugat;324;3,24;3,1;3,1;2 decimales
+Valencia;Salem;46221;Salem;861;8,61;9;8,6;2 decimales
+Valencia;Sempere;46226;Sempere;381;3,81;3,8;3,8;2 decimales
+Valencia;Terrateig;46240;Terrateig;628;6,28;6;6,3;2 decimales
+Valencia;Ayora;46044;Ayora;44647;446,47;446,6;446,6;2 decimales
+Valencia;Cofrentes;46097;Cofrentes;10318;103,18;103,2;103,2;2 decimales
+Valencia;Cortes de Pallás;46099;Cortes de Pallás;23301;233,01;234,63;234,63;2 decimales
+Valencia;Jalance;46142;Jalance;9478;94,78;94,8;94,8;2 decimales
+Valencia;Jarafuel;46144;Jarafuel;10309;103,09;103,1;103,1;2 decimales
+Valencia;Teresa de Cofrentes;46239;Teresa de Cofrentes;1108;110,80;110,8;110,8;"1 decimal(es); confirmado por 2 referencia(s)"
+Valencia;Zarra;46263;Zarra;4972;49,72;49,7;49,7;2 decimales

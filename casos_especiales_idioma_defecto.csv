@@ -1,0 +1,513 @@
+﻿tipo;fila;Provincia;Municipio;web;es;va;en;comportamiento;detalle
+adaptativo;223;Castellón;Sant Mateu;https://www.santmateu.com/;es;ca;ca;adaptativo;"distingue español y valenciano; inglés cae en ca; URLs: https://santmateu.com/?lang=es | https://santmateu.com/ | https://santmateu.com/"
+adaptativo;231;Castellón;Borriol;https://www.borriol.es/;es;ca;ca;adaptativo;"distingue español y valenciano; inglés cae en ca; URLs: https://www.borriol.es/es/inicio/ | https://www.borriol.es/ | https://www.borriol.es/"
+adaptativo;254;Castellón;Nules;https://nules.org/;es;ca;ca;adaptativo;"distingue español y valenciano; inglés cae en ca; URLs: https://nules.es/es/home-1/ | https://nules.es/ | https://nules.es/"
+adaptativo;292;Valencia;Segart;https://segart.sede.dival.es/;es;ca;es;adaptativo;"distingue español y valenciano; inglés cae en es; URLs: https://segart.sede.dival.es/ | https://segart.sede.dival.es/ | https://segart.sede.dival.es/"
+adaptativo;316;Valencia;Millares;https://millares.sede.dival.es/;es;ca;es;adaptativo;"distingue español y valenciano; inglés cae en es; URLs: https://millares.sede.dival.es/ | https://millares.sede.dival.es/ | https://millares.sede.dival.es/"
+adaptativo;321;Valencia;Canals;https://www.canals.es/;es;ca;ca;adaptativo;"distingue español y valenciano; inglés cae en ca; URLs: https://www.canals.es/ | https://www.canals.es/ | https://www.canals.es/"
+adaptativo;352;Valencia;Museros;https://museros.org/inici/;es;ca;ca;adaptativo;"distingue español y valenciano; inglés cae en ca; URLs: https://museros.org/inici/es/inicio/ | https://museros.org/inici/ | https://museros.org/inici/"
+adaptativo;371;Valencia;Llocnou de la Corona;https://llocnoudelacorona.sede.dival.es/;es;ca;es;adaptativo;"distingue español y valenciano; inglés cae en es; URLs: https://llocnoudelacorona.sede.dival.es/ | https://llocnoudelacorona.sede.dival.es/ | https://llocnoudelacorona.sede.dival.es/"
+adaptativo;374;Valencia;Mislata;https://www.mislata.es/;es;ca;es;adaptativo;"distingue español y valenciano; inglés cae en es; URLs: https://www.mislata.es/ | https://www.mislata.es/ | https://www.mislata.es/"
+adaptativo;403;Valencia;Alfarb;https://alfarb.es/;es;ca;ca;adaptativo;"distingue español y valenciano; inglés cae en ca; URLs: https://alfarb.es/es/inicio-2/ | https://alfarb.es/ | https://alfarb.es/"
+adaptativo;410;Valencia;Benimuslem;https://benimuslem.sede.dival.es/;es;ca;es;adaptativo;"distingue español y valenciano; inglés cae en es; URLs: https://benimuslem.sede.dival.es/ | https://benimuslem.sede.dival.es/ | https://benimuslem.sede.dival.es/"
+adaptativo;464;Valencia;Castellonet de la Conquesta;https://castellonetdelaconquesta.sede.dival.es/;es;ca;es;adaptativo;"distingue español y valenciano; inglés cae en es; URLs: https://castellonetdelaconquesta.sede.dival.es/ | https://castellonetdelaconquesta.sede.dival.es/ | https://castellonetdelaconquesta.sede.dival.es/"
+adaptativo;469;Valencia;Xeraco;https://www.xeraco.eu/;es;es;ca;adaptativo;"valenciano recibe español; inglés recibe ca; URLs: https://www.xeraco.eu/es/ | https://www.xeraco.eu/es/ | https://www.xeraco.eu/"
+baja confianza del detector;34;Alicante;Callosa de Segura;https://www.callosadesegura.es/;es;ca;es;revisar;va: 0.51 (7885 car.)
+baja confianza del detector;93;Alicante;Xaló;https://www.xalo.org/;ca;ca;ca;revisar;es: 0.73 (1158 car.)
+baja confianza del detector;138;Alicante;Monóvar;https://www.monovar.es/;ca;ca;ca;revisar;"es: 0.57 (1601 car.); va: 0.57 (1601 car.); en: 0.57 (1601 car.)"
+baja confianza del detector;153;Castellón;Benassal;https://www.benassal.es/;ca;ca;ca;fijo;"es: 0.77 (2839 car.); va: 0.77 (2839 car.); en: 0.77 (2839 car.)"
+baja confianza del detector;157;Castellón;Tírig;https://www.tirig.es/;ca;ca;ca;fijo;"es: 0.81 (1116 car.); va: 0.87 (1119 car.)"
+baja confianza del detector;282;Valencia;Benavites;https://www.benavites.es/;ca;ca;ca;revisar;"es: 0.67 (72 car.); va: 0.67 (72 car.); en: 0.67 (72 car.)"
+baja confianza del detector;284;Valencia;Canet d'En Berenguer;https://www.canetdenberenguer.es/;ca;ca;ca;fijo;"es: 0.86 (191 car.); va: 0.86 (191 car.); en: 0.86 (191 car.)"
+baja confianza del detector;286;Valencia;Quartell;https://www.quartell.es/;ca;ca;ca;revisar;"es: 0.44 (79 car.); va: 0.44 (79 car.); en: 0.44 (79 car.)"
+baja confianza del detector;287;Valencia;Estivella;https://www.aytoestivella.com/;ca;ca;ca;fijo;"es: 0.72 (68 car.); va: 0.72 (68 car.); en: 0.72 (68 car.)"
+baja confianza del detector;297;Valencia;Casinos;https://www.casinos.es/;ca;ca;ca;revisar;"es: 0.47 (36 car.); va: 0.47 (36 car.); en: 0.47 (36 car.)"
+baja confianza del detector;310;Valencia;San Antonio de Benagéber;https://www.sanantoniodebenageber.es/;es;es;es;fijo;"es: 0.86 (153 car.); va: 0.86 (153 car.); en: 0.86 (153 car.)"
+baja confianza del detector;320;Valencia;Barxeta;https://www.barxeta.es/;ca;ca;ca;revisar;"es: 0.55 (78 car.); va: 0.55 (78 car.); en: 0.55 (78 car.)"
+baja confianza del detector;327;Valencia;Xàtiva;https://www.xativa.es/;ca;ca;ca;fijo;"es: 0.87 (201 car.); va: 0.87 (201 car.); en: 0.87 (201 car.)"
+baja confianza del detector;330;Valencia;Llosa de Ranes, la;https://www.lallosaderanes.es/;ro;ro;ro;revisar;"es: 0.32 (53 car.); va: 0.32 (53 car.); en: 0.32 (53 car.)"
+baja confianza del detector;332;Valencia;Montesa;https://www.montesa.es/;el-Latn;el-Latn;el-Latn;revisar;"es: 0.33 (109 car.); va: 0.33 (109 car.); en: 0.33 (109 car.)"
+baja confianza del detector;334;Valencia;Rotglà i Corberà;https://www.rotglaicorbera.es/;es;es;es;revisar;"es: 0.59 (65 car.); va: 0.59 (65 car.); en: 0.59 (65 car.)"
+baja confianza del detector;339;Valencia;Alboraya;https://www.alboraya.es/;lb;lb;lb;revisar;"es: 0.42 (112 car.); va: 0.42 (112 car.); en: 0.42 (112 car.)"
+baja confianza del detector;341;Valencia;Alfara del Patriarca;https://www.alfaradelpatriarca.es/;ca;ca;ca;fijo;"es: 0.85 (88 car.); va: 0.85 (88 car.); en: 0.85 (88 car.)"
+baja confianza del detector;346;Valencia;Foios;https://www.foios.es/;ca;ca;ca;fijo;"es: 0.86 (102 car.); va: 0.86 (102 car.); en: 0.86 (102 car.)"
+baja confianza del detector;348;Valencia;Massalfassar;https://www.massalfassar.es/;ca;ca;ca;fijo;"es: 0.87 (37 car.); va: 0.87 (37 car.); en: 0.87 (37 car.)"
+baja confianza del detector;349;Valencia;Massamagrell;https://www.massamagrell.es/;ca;ca;ca;fijo;"es: 0.81 (98 car.); va: 0.81 (98 car.); en: 0.81 (98 car.)"
+baja confianza del detector;350;Valencia;Meliana;https://www.meliana.es/;ca;ca;ca;revisar;"es: 0.55 (78 car.); va: 0.55 (78 car.); en: 0.55 (78 car.)"
+baja confianza del detector;351;Valencia;Moncada;https://www.moncada.es/;ca;ca;ca;revisar;"es: 0.60 (103 car.); va: 0.60 (103 car.); en: 0.60 (103 car.)"
+baja confianza del detector;354;Valencia;Pobla de Farnals, la;https://www.lapobladefarnals.es/;co;co;co;revisar;"es: 0.46 (63 car.); va: 0.46 (63 car.); en: 0.46 (63 car.)"
+baja confianza del detector;355;Valencia;Puig de Santa Maria, el;https://www.elpuig.es/;ca;ca;ca;revisar;"es: 0.55 (137 car.); va: 0.55 (137 car.); en: 0.55 (137 car.)"
+baja confianza del detector;356;Valencia;Puçol;https://www.pucol.es/;es;es;es;fijo;"es: 0.87 (114 car.); va: 0.87 (114 car.); en: 0.87 (114 car.)"
+baja confianza del detector;357;Valencia;Rafelbunyol;https://www.rafelbunyol.es/;eu;eu;eu;revisar;"es: 0.51 (60 car.); va: 0.51 (60 car.); en: 0.51 (60 car.)"
+baja confianza del detector;358;Valencia;Rocafort;https://www.rocafort.es/;ca;ca;ca;revisar;"es: 0.66 (77 car.); va: 0.66 (77 car.); en: 0.66 (77 car.)"
+baja confianza del detector;359;Valencia;Tavernes Blanques;https://www.tavernesblanques.es/;ca;ca;ca;fijo;"es: 0.84 (70 car.); va: 0.84 (70 car.); en: 0.84 (70 car.)"
+baja confianza del detector;360;Valencia;Vinalesa;https://www.vinalesa.es/;ro;ro;ro;revisar;"es: 0.42 (78 car.); va: 0.42 (78 car.); en: 0.42 (78 car.)"
+baja confianza del detector;366;Valencia;Benetússer;https://www.benetusser.es/;ca;ca;ca;revisar;"es: 0.69 (143 car.); va: 0.69 (143 car.); en: 0.69 (143 car.)"
+baja confianza del detector;373;Valencia;Massanassa;https://www.massanassa.es/;ca;ca;ca;fijo;"es: 0.87 (158 car.); va: 0.87 (158 car.); en: 0.87 (158 car.)"
+baja confianza del detector;386;Valencia;Godelleta;https://www.godelleta.es/;es;es;es;revisar;"es: 0.48 (55 car.); va: 0.48 (55 car.); en: 0.48 (55 car.)"
+baja confianza del detector;390;Valencia;Camporrobles;https://www.camporrobles.es/;es;es;es;fijo;"es: 0.88 (79 car.); va: 0.88 (79 car.); en: 0.88 (79 car.)"
+baja confianza del detector;399;Valencia;Alberic;https://www.alberic.es/;co;co;co;revisar;"es: 0.31 (127 car.); va: 0.31 (127 car.); en: 0.31 (127 car.)"
+baja confianza del detector;405;Valencia;Alginet;https://www.alginet.es/;ca;ca;ca;fijo;"es: 0.76 (71 car.); va: 0.76 (71 car.); en: 0.76 (71 car.)"
+baja confianza del detector;413;Valencia;Carlet;https://www.carlet.es/;es;es;es;fijo;"es: 0.79 (187 car.); va: 0.79 (187 car.); en: 0.79 (187 car.)"
+baja confianza del detector;416;Valencia;Énova, l';https://www.lenova.es/;ro;ro;ro;revisar;"es: 0.54 (55 car.); va: 0.54 (55 car.); en: 0.54 (55 car.)"
+baja confianza del detector;424;Valencia;Pobla Llarga, la;https://www.lapoblallarga.es/;ca;ca;ca;revisar;"es: 0.49 (87 car.); va: 0.49 (87 car.); en: 0.49 (87 car.)"
+baja confianza del detector;427;Valencia;Sant Joanet;https://www.santjoanet.es/;ca;ca;ca;revisar;"es: 0.53 (70 car.); va: 0.53 (70 car.); en: 0.53 (70 car.)"
+baja confianza del detector;432;Valencia;Turís;https://www.turis.es/;ca;ca;ca;fijo;"es: 0.84 (70 car.); va: 0.84 (70 car.); en: 0.84 (70 car.)"
+baja confianza del detector;436;Valencia;Corbera;https://www.corbera.es/;co;co;co;revisar;"es: 0.69 (124 car.); va: 0.69 (124 car.); en: 0.69 (124 car.)"
+baja confianza del detector;437;Valencia;Cullera;https://www.cullera.es/;pt;pt;pt;revisar;"es: 0.50 (109 car.); va: 0.50 (109 car.); en: 0.50 (109 car.)"
+baja confianza del detector;438;Valencia;Favara;https://www.favara.es/;ca;ca;ca;revisar;"es: 0.54 (79 car.); va: 0.54 (79 car.); en: 0.54 (79 car.)"
+baja confianza del detector;439;Valencia;Fortaleny;https://www.fortaleny.es/;ro;ro;ro;revisar;"es: 0.32 (70 car.); va: 0.32 (70 car.); en: 0.32 (70 car.)"
+baja confianza del detector;441;Valencia;Polinyà de Xúquer;https://www.polinyadexuquer.es/;ca;ca;ca;fijo;"es: 0.87 (37 car.); va: 0.87 (37 car.); en: 0.87 (37 car.)"
+baja confianza del detector;443;Valencia;Sollana;https://www.sollana.es/;eu;eu;eu;revisar;"es: 0.72 (72 car.); va: 0.72 (72 car.); en: 0.72 (72 car.)"
+baja confianza del detector;453;Valencia;Ador;https://www.ador.es/;ca;ca;ca;fijo;"es: 0.72 (58 car.); va: 0.72 (58 car.); en: 0.72 (58 car.)"
+baja confianza del detector;458;Valencia;Barx;https://www.barx.es/;ca;ca;ca;fijo;"es: 0.78 (81 car.); va: 0.78 (81 car.); en: 0.78 (81 car.)"
+baja confianza del detector;460;Valencia;Beniarjó;https://www.beniarjo.es/;ca;ca;ca;revisar;"es: 0.64 (133 car.); va: 0.64 (133 car.); en: 0.64 (133 car.)"
+baja confianza del detector;461;Valencia;Benifairó de la Valldigna;https://www.benifairo.org/;ca;ca;ca;revisar;"es: 0.69 (71 car.); va: 0.69 (71 car.); en: 0.69 (71 car.)"
+baja confianza del detector;475;Valencia;Palmera;https://www.palmera.es/;ca;ca;ca;fijo;"es: 0.89 (369 car.); va: 0.89 (369 car.); en: 0.89 (369 car.)"
+baja confianza del detector;479;Valencia;Real de Gandía;https://www.realdegandia.es/;ca;ca;ca;revisar;"es: 0.70 (68 car.); va: 0.70 (68 car.); en: 0.70 (68 car.)"
+baja confianza del detector;482;Valencia;Tavernes de la Valldigna;https://www.tavernes.es/;pt;pt;pt;revisar;"es: 0.54 (34 car.); va: 0.54 (34 car.); en: 0.54 (34 car.)"
+baja confianza del detector;503;Valencia;Atzeneta d'Albaida;https://www.atzenetadalbaida.es/;ca;ca;ca;revisar;"es: 0.62 (142 car.); va: 0.62 (142 car.); en: 0.62 (142 car.)"
+baja confianza del detector;511;Valencia;Beniatjar;https://www.beniatjar.es/;ca;ca;ca;fijo;"es: 0.89 (4826 car.); va: 0.89 (4826 car.); en: 0.89 (4826 car.)"
+baja confianza del detector;523;Valencia;Llutxent;https://www.llutxent.es/;co;co;co;revisar;"es: 0.38 (78 car.); va: 0.38 (78 car.); en: 0.38 (78 car.)"
+baja confianza del detector;524;Valencia;Montaverner;https://www.montaverner.es/;ca;ca;ca;revisar;"es: 0.67 (88 car.); va: 0.67 (88 car.); en: 0.67 (88 car.)"
+baja confianza del detector;525;Valencia;Montichelvo;https://www.montitxelvo.es/;ca;ca;ca;fijo;"es: 0.76 (60 car.); va: 0.76 (60 car.); en: 0.76 (60 car.)"
+baja confianza del detector;526;Valencia;Olleria, l';https://www.lolleria.org/;co;co;co;revisar;"es: 0.43 (103 car.); va: 0.43 (103 car.); en: 0.43 (103 car.)"
+baja confianza del detector;529;Valencia;Palomar, el;https://www.elpalomar.es/;es;es;es;revisar;"es: 0.66 (90 car.); va: 0.66 (90 car.); en: 0.66 (90 car.)"
+baja confianza del detector;531;Valencia;Pobla del Duc, la;https://www.lapobladelduc.es/;en;en;en;revisar;"es: 0.24 (77 car.); va: 0.24 (77 car.); en: 0.24 (77 car.)"
+detector da otro idioma;330;Valencia;Llosa de Ranes, la;https://www.lallosaderanes.es/;ro;ro;ro;revisar;ro
+detector da otro idioma;332;Valencia;Montesa;https://www.montesa.es/;el-Latn;el-Latn;el-Latn;revisar;el-Latn
+detector da otro idioma;339;Valencia;Alboraya;https://www.alboraya.es/;lb;lb;lb;revisar;lb
+detector da otro idioma;354;Valencia;Pobla de Farnals, la;https://www.lapobladefarnals.es/;co;co;co;revisar;co
+detector da otro idioma;357;Valencia;Rafelbunyol;https://www.rafelbunyol.es/;eu;eu;eu;revisar;eu
+detector da otro idioma;360;Valencia;Vinalesa;https://www.vinalesa.es/;ro;ro;ro;revisar;ro
+detector da otro idioma;399;Valencia;Alberic;https://www.alberic.es/;co;co;co;revisar;co
+detector da otro idioma;416;Valencia;Énova, l';https://www.lenova.es/;ro;ro;ro;revisar;ro
+detector da otro idioma;436;Valencia;Corbera;https://www.corbera.es/;co;co;co;revisar;co
+detector da otro idioma;437;Valencia;Cullera;https://www.cullera.es/;pt;pt;pt;revisar;pt
+detector da otro idioma;439;Valencia;Fortaleny;https://www.fortaleny.es/;ro;ro;ro;revisar;ro
+detector da otro idioma;443;Valencia;Sollana;https://www.sollana.es/;eu;eu;eu;revisar;eu
+detector da otro idioma;482;Valencia;Tavernes de la Valldigna;https://www.tavernes.es/;pt;pt;pt;revisar;pt
+detector da otro idioma;523;Valencia;Llutxent;https://www.llutxent.es/;co;co;co;revisar;co
+detector da otro idioma;526;Valencia;Olleria, l';https://www.lolleria.org/;co;co;co;revisar;co
+etiqueta de portada corregida por el interior;379;Valencia;Silla;https://www.silla.es/;es;es;es;fijo;"portada es -> interior ca; lang ca"
+etiqueta de portada corregida por el interior;400;Valencia;Alcàntera de Xúquer;https://www.alcanteradexuquer.es/;ca;ca;ca;fijo;"portada ca -> interior es; lang es"
+etiqueta de portada corregida por el interior;413;Valencia;Carlet;https://www.carlet.es/;es;es;es;fijo;"portada es -> interior ca; lang ca"
+etiqueta de portada corregida por el interior;497;Valencia;Sot de Chera;https://www.sotdechera.es/;ca;ca;ca;fijo;"portada ca -> interior es; lang es"
+fallo en las tres visitas;81;Alicante;Atzúbia, l';https://www.atzubia.org/;;;;sin_datos;"es: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.atzubia.org/; va: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.atzubia.org/; en: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.atzubia.org/"
+fallo en las tres visitas;154;Castellón;Catí;https://www.cati.es/;;;;sin_datos;"es: HTTP 503 at https://www.cati.es/; va: HTTP 503 at https://www.cati.es/; en: HTTP 503 at https://www.cati.es/"
+fallo en las tres visitas;233;Castellón;Castellón de la Plana;https://www.castello.es/;;;;sin_datos;"es: HTTP 403 at https://www.castello.es/?__cf_chl_rt_tk=fNjaIVCn737DnrivIXanpByWLyR13PuMebm_5P; va: HTTP 403 at https://www.castello.es/?__cf_chl_rt_tk=XYixR6qBWKeGJUg_gtdcMGbtPw68DUBbdZVAN2; en: HTTP 403 at https://www.castello.es/?__cf_chl_rt_tk=V4.WQOP0rq.rRXpr7d0.0GetByeAfexp7pteJz"
+fallo en las tres visitas;322;Valencia;Cerdà;https://www.cerda.es/;;;;sin_datos;"es: page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.cerda.es/; va: page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.cerda.es/; en: page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.cerda.es/"
+fallo en las tres visitas;412;Valencia;Càrcer;https://carcer.es/;;;;sin_datos;"es: Site unavailable: ""Account Suspended"" at https://carcer.es/cgi-sys/suspendedpage.cgi; va: Site unavailable: ""Account Suspended"" at https://carcer.es/cgi-sys/suspendedpage.cgi; en: Site unavailable: ""Account Suspended"" at https://carcer.es/cgi-sys/suspendedpage.cgi"
+fallo en las tres visitas;419;Valencia;Llombai;https://www.llombai.es/;;;;sin_datos;"es: Site unavailable: ""Account Suspended"" at https://www.llombai.es/cgi-sys/suspendedpage.cgi; va: Site unavailable: ""Account Suspended"" at https://www.llombai.es/cgi-sys/suspendedpage.cgi; en: Site unavailable: ""Account Suspended"" at https://www.llombai.es/cgi-sys/suspendedpage.cgi"
+fijo por el texto pero cambia lang;106;Alicante;Teulada;https://www.teuladamoraira.com.es/;es;es;es;fijo;es | es-ES | es-ES
+hreflang anuncia inglés pero en-US no lo recibe;15;Alicante;Castalla;https://www.castalla.org/;es;es;es;fijo;ca|en-US|es-ES
+hreflang anuncia inglés pero en-US no lo recibe;35;Alicante;Catral;https://www.catral.es/;es;es;es;fijo;ca|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;39;Alicante;Dolores;https://www.dolores.es/;es;es;es;fijo;ca|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;46;Alicante;Redován;https://www.redovan.es/;es;es;es;fijo;ca|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;48;Alicante;San Fulgencio;https://www.sanfulgencio.es/;es;es;es;fijo;ca|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;50;Alicante;Torrevieja;https://torrevieja.es/;es;es;es;fijo;ca|en|es|ru
+hreflang anuncia inglés pero en-US no lo recibe;67;Alicante;Benillup;https://www.benillup.es/;es;es;es;fijo;ca|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;74;Alicante;Gaianes;https://www.gaianes.es/;es;es;es;fijo;ca|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;82;Alicante;Alcalalí;https://www.alcalali.es/;ca;ca;ca;fijo;ca|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;86;Alicante;Benimeli;https://www.benimeli.es/;es;es;es;fijo;ca|de|en|es|fr
+hreflang anuncia inglés pero en-US no lo recibe;88;Alicante;Benitachell;https://elpoblenoudebenitatxell.com/;ca;ca;ca;fijo;en|en-GB|es|es-ES|es-va
+hreflang anuncia inglés pero en-US no lo recibe;90;Alicante;Castell de Castells;https://www.castelldecastells.es/;es;es;es;fijo;ca|de|en|es|fr
+hreflang anuncia inglés pero en-US no lo recibe;93;Alicante;Xaló;https://www.xalo.org/;ca;ca;ca;revisar;en|es|va|x-default
+hreflang anuncia inglés pero en-US no lo recibe;95;Alicante;Llíber;https://www.lliber.org/;ca;ca;ca;fijo;ca|en|es
+hreflang anuncia inglés pero en-US no lo recibe;98;Alicante;Orba;https://www.orba.es/;ca;ca;ca;fijo;ca|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;106;Alicante;Teulada;https://www.teuladamoraira.com.es/;es;es;es;fijo;ca-es|de|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;108;Alicante;Vall d'Alcalà, la;https://www.lavalldalcala.es/;es;es;es;fijo;en|es|va|x-default
+hreflang anuncia inglés pero en-US no lo recibe;123;Alicante;Finestrat;https://ayto-finestrat.es/;es;es;es;fijo;en|es|va|x-default
+hreflang anuncia inglés pero en-US no lo recibe;143;Castellón;Alcora, l';https://lalcora.es/;ca;ca;ca;fijo;en|es|fr|va|x-default
+hreflang anuncia inglés pero en-US no lo recibe;215;Castellón;Cervera del Maestre;https://www.cerveradelmaestre.es/;es;es;es;fijo;de|en|es|fr|x-default
+hreflang anuncia inglés pero en-US no lo recibe;465;Valencia;Daimús;https://www.ajuntamentdaimus.com/;ca;ca;ca;fijo;ca|en|es|fr
+hreflang anuncia inglés pero en-US no lo recibe;466;Valencia;Font d'En Carròs, la;https://www.lafontdencarros.es/;ca;ca;ca;fijo;ca-es|en|es|x-default
+hreflang anuncia inglés pero en-US no lo recibe;468;Valencia;Guardamar de la Safor;https://www.guardamardelasafor.org/;ca;ca;ca;fijo;ca|en|en-GB|es|es-ES
+hreflang anuncia inglés pero en-US no lo recibe;477;Valencia;Potries;https://www.potries.org/;ca;ca;ca;fijo;ca|en|es
+hreflang anuncia inglés pero en-US no lo recibe;483;Valencia;Villalonga;https://www.villalonga.es/;ca;ca;ca;fijo;ca|en|en-GB|es|es-ES
+hreflang incorrecto;13;Alicante;Banyeres de Mariola;https://www.portademariola.com/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;18;Alicante;Penàguila;https://www.penaguila.es/;es;es;es;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;21;Alicante;Biar;https://www.biar.es/;ca;ca;ca;fijo;va-va: idioma va inexistente, región Vaticano
+hreflang incorrecto;55;Alicante;Elche;https://www.elche.es/;es;es;es;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;87;Alicante;Benissa;https://www.ajbenissa.es/;es;es;es;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;88;Alicante;Benitachell;https://elpoblenoudebenitatxell.com/;ca;ca;ca;fijo;es-va: español del Vaticano
+hreflang incorrecto;93;Alicante;Xaló;https://www.xalo.org/;ca;ca;ca;revisar;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;108;Alicante;Vall d'Alcalà, la;https://www.lavalldalcala.es/;es;es;es;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;110;Alicante;Vall de Gallinera, la;https://www.lavalldegallinera.org/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;123;Alicante;Finestrat;https://ayto-finestrat.es/;es;es;es;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;142;Alicante;Romana, la;https://aytolaromana.es/;es;es;es;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;143;Castellón;Alcora, l';https://lalcora.es/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;153;Castellón;Benassal;https://www.benassal.es/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;275;Castellón;Vilafranca;https://www.ajuntamentdevilafranca.es/;ca;ca;ca;fijo;vl: vl no es un código de idioma
+hreflang incorrecto;278;Valencia;Albalat dels Tarongers;https://www.albalatdelstarongers.es/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;295;Valencia;Benissanó;https://ajuntamentbenissano.es/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;340;Valencia;Albuixech;https://www.albuixech.es/;es;es;es;fijo;vl: vl no es un código de idioma
+hreflang incorrecto;344;Valencia;Burjassot;https://www.burjassot.org/;es;es;es;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;380;Valencia;Torrent;https://torrent.es/;es;es;es;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang incorrecto;421;Valencia;Massalavés;https://massalaves.es/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+hreflang sin valenciano aunque hay botón;31;Alicante;Benferri;https://www.benferri.es/;es;es;es;fijo;es|x-default
+hreflang sin valenciano aunque hay botón;88;Alicante;Benitachell;https://elpoblenoudebenitatxell.com/;ca;ca;ca;fijo;en|en-GB|es|es-ES|es-va
+hreflang sin valenciano aunque hay botón;122;Alicante;Confrides;https://www.confrides.es/;es;es;es;fijo;es|x-default
+idioma_defecto anterior no coincide;153;Castellón;Benassal;https://www.benassal.es/;ca;ca;ca;fijo;antes español, texto ca
+idioma_defecto anterior no coincide;227;Castellón;Vinaròs;https://www.vinaros.es/;ca;ca;ca;fijo;antes español, texto ca
+idioma_defecto anterior no coincide;379;Valencia;Silla;https://www.silla.es/;es;es;es;fijo;antes español, texto ca
+idioma_defecto anterior no coincide;430;Valencia;Sumacàrcer;https://www.sumacarcer.es/;ca;ca;ca;fijo;antes español, texto ca
+idioma_defecto anterior no coincide;470;Valencia;Xeresa;https://www.ajuntamentxeresa.org/;ca;ca;ca;fijo;antes español, texto ca
+idioma_defecto anterior no coincide;511;Valencia;Beniatjar;https://www.beniatjar.es/;ca;ca;ca;fijo;antes español, texto ca
+idioma_defecto anterior no coincide;514;Valencia;Benissoda;https://www.benissoda.es/;es;es;es;fijo;antes valenciano, texto es
+lang no coincide con el texto;34;Alicante;Callosa de Segura;https://www.callosadesegura.es/;es;ca;es;revisar;en: lang=en texto=es
+lang no coincide con el texto;41;Alicante;Granja de Rocamora;https://www.granjaderocamora.es/;es;es;es;fijo;es: lang=en-US texto=es
+lang no coincide con el texto;75;Alicante;Gorga;https://www.gorga.es/;es;es;es;fijo;es: lang=en-US texto=es
+lang no coincide con el texto;88;Alicante;Benitachell;https://elpoblenoudebenitatxell.com/;ca;ca;ca;fijo;es: lang=es-va texto=ca
+lang no coincide con el texto;93;Alicante;Xaló;https://www.xalo.org/;ca;ca;ca;revisar;es: lang=es texto=ca
+lang no coincide con el texto;113;Alicante;Poblets, els;https://www.elspoblets.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;115;Alicante;Altea;https://www.altea.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;125;Alicante;Nucia, la;https://www.lanucia.es/;es;es;es;fijo;es: lang=zxx texto=es
+lang no coincide con el texto;138;Alicante;Monóvar;https://www.monovar.es/;ca;ca;ca;revisar;es: lang=es texto=ca
+lang no coincide con el texto;153;Castellón;Benassal;https://www.benassal.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;157;Castellón;Tírig;https://www.tirig.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;283;Valencia;Benifairó de les Valls;https://www.benifairovalls.com/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;330;Valencia;Llosa de Ranes, la;https://www.lallosaderanes.es/;ro;ro;ro;revisar;es: lang=ca texto=ro
+lang no coincide con el texto;332;Valencia;Montesa;https://www.montesa.es/;el-Latn;el-Latn;el-Latn;revisar;es: lang=ca texto=el-Latn
+lang no coincide con el texto;334;Valencia;Rotglà i Corberà;https://www.rotglaicorbera.es/;es;es;es;revisar;es: lang=ca texto=es
+lang no coincide con el texto;339;Valencia;Alboraya;https://www.alboraya.es/;lb;lb;lb;revisar;es: lang=x-VA texto=lb
+lang no coincide con el texto;354;Valencia;Pobla de Farnals, la;https://www.lapobladefarnals.es/;co;co;co;revisar;es: lang=ca texto=co
+lang no coincide con el texto;357;Valencia;Rafelbunyol;https://www.rafelbunyol.es/;eu;eu;eu;revisar;es: lang=ca texto=eu
+lang no coincide con el texto;358;Valencia;Rocafort;https://www.rocafort.es/;ca;ca;ca;revisar;es: lang=es texto=ca
+lang no coincide con el texto;360;Valencia;Vinalesa;https://www.vinalesa.es/;ro;ro;ro;revisar;es: lang=ca texto=ro
+lang no coincide con el texto;361;Valencia;Alaquàs;https://www.alaquas.org/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;366;Valencia;Benetússer;https://www.benetusser.es/;ca;ca;ca;revisar;es: lang=es texto=ca
+lang no coincide con el texto;369;Valencia;Quart de Poblet;https://www.quartdepoblet.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;379;Valencia;Silla;https://www.silla.es/;es;es;es;fijo;es: lang=ca texto=es
+lang no coincide con el texto;399;Valencia;Alberic;https://www.alberic.es/;co;co;co;revisar;es: lang=ca texto=co
+lang no coincide con el texto;400;Valencia;Alcàntera de Xúquer;https://www.alcanteradexuquer.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;409;Valencia;Benimodo;https://www.benimodo.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;413;Valencia;Carlet;https://www.carlet.es/;es;es;es;fijo;es: lang=ca texto=es
+lang no coincide con el texto;416;Valencia;Énova, l';https://www.lenova.es/;ro;ro;ro;revisar;es: lang=ca texto=ro
+lang no coincide con el texto;418;Valencia;Guadassuar;https://www.guadassuar.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;422;Valencia;Montserrat;https://www.montserrat.es/;ca;ca;ca;fijo;es: lang=en-US texto=ca
+lang no coincide con el texto;430;Valencia;Sumacàrcer;https://www.sumacarcer.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;435;Valencia;Almussafes;https://almussafes.net/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;436;Valencia;Corbera;https://www.corbera.es/;co;co;co;revisar;es: lang=ca texto=co
+lang no coincide con el texto;437;Valencia;Cullera;https://www.cullera.es/;pt;pt;pt;revisar;es: lang=ca texto=pt
+lang no coincide con el texto;439;Valencia;Fortaleny;https://www.fortaleny.es/;ro;ro;ro;revisar;es: lang=ca texto=ro
+lang no coincide con el texto;442;Valencia;Riola;https://ajuntamentderiola.es/ajuntament/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;443;Valencia;Sollana;https://www.sollana.es/;eu;eu;eu;revisar;es: lang=ca texto=eu
+lang no coincide con el texto;467;Valencia;Gandia;https://www.gandia.es/;ca;ca;ca;fijo;es: lang=en texto=ca
+lang no coincide con el texto;470;Valencia;Xeresa;https://www.ajuntamentxeresa.org/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;482;Valencia;Tavernes de la Valldigna;https://www.tavernes.es/;pt;pt;pt;revisar;es: lang=ca texto=pt
+lang no coincide con el texto;497;Valencia;Sot de Chera;https://www.sotdechera.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;503;Valencia;Atzeneta d'Albaida;https://www.atzenetadalbaida.es/;ca;ca;ca;revisar;es: lang=es texto=ca
+lang no coincide con el texto;511;Valencia;Beniatjar;https://www.beniatjar.es/;ca;ca;ca;fijo;es: lang=es texto=ca
+lang no coincide con el texto;523;Valencia;Llutxent;https://www.llutxent.es/;co;co;co;revisar;es: lang=ca texto=co
+lang no coincide con el texto;526;Valencia;Olleria, l';https://www.lolleria.org/;co;co;co;revisar;es: lang=es texto=co
+lang no coincide con el texto;531;Valencia;Pobla del Duc, la;https://www.lapobladelduc.es/;en;en;en;revisar;es: lang=ca texto=en
+muy poco texto;280;Valencia;Algar de Palancia;https://www.algardepalancia.es/;ca;ca;ca;fijo;"es: 130 car.; va: 130 car.; en: 130 car."
+muy poco texto;282;Valencia;Benavites;https://www.benavites.es/;ca;ca;ca;revisar;"es: 72 car.; va: 72 car.; en: 72 car."
+muy poco texto;283;Valencia;Benifairó de les Valls;https://www.benifairovalls.com/;ca;ca;ca;fijo;"es: 146 car.; va: 146 car.; en: 146 car."
+muy poco texto;284;Valencia;Canet d'En Berenguer;https://www.canetdenberenguer.es/;ca;ca;ca;fijo;"es: 191 car.; va: 191 car.; en: 191 car."
+muy poco texto;286;Valencia;Quartell;https://www.quartell.es/;ca;ca;ca;revisar;"es: 79 car.; va: 79 car.; en: 79 car."
+muy poco texto;287;Valencia;Estivella;https://www.aytoestivella.com/;ca;ca;ca;fijo;"es: 68 car.; va: 68 car.; en: 68 car."
+muy poco texto;289;Valencia;Gilet;https://www.gilet.es/;es;es;es;fijo;"es: 91 car.; va: 91 car.; en: 91 car."
+muy poco texto;294;Valencia;Benaguasil;https://www.benaguasil.es/;es;es;es;fijo;"es: 66 car.; va: 66 car.; en: 66 car."
+muy poco texto;297;Valencia;Casinos;https://www.casinos.es/;ca;ca;ca;revisar;"es: 36 car.; va: 36 car.; en: 36 car."
+muy poco texto;300;Valencia;Llíria;https://www.lliria.es/;es;es;es;fijo;"es: 107 car.; va: 107 car.; en: 107 car."
+muy poco texto;302;Valencia;Marines;https://www.marines.es/;es;es;es;fijo;"es: 81 car.; va: 81 car.; en: 81 car."
+muy poco texto;308;Valencia;Vilamarxant;https://www.vilamarxant.es/;ca;ca;ca;fijo;"es: 78 car.; va: 78 car.; en: 78 car."
+muy poco texto;310;Valencia;San Antonio de Benagéber;https://www.sanantoniodebenageber.es/;es;es;es;fijo;"es: 153 car.; va: 153 car.; en: 153 car."
+muy poco texto;312;Valencia;Bicorp;https://www.bicorp.es/;es;es;es;fijo;"es: 138 car.; va: 138 car.; en: 138 car."
+muy poco texto;313;Valencia;Bolbaite;https://www.bolbaite.es/;es;es;es;fijo;"es: 67 car.; va: 67 car.; en: 67 car."
+muy poco texto;315;Valencia;Enguera;https://www.enguera.es/;es;es;es;fijo;"es: 115 car.; va: 115 car.; en: 115 car."
+muy poco texto;317;Valencia;Navarrés;https://www.navarres.es/;es;es;es;fijo;"es: 74 car.; va: 74 car.; en: 74 car."
+muy poco texto;320;Valencia;Barxeta;https://www.barxeta.es/;ca;ca;ca;revisar;"es: 78 car.; va: 78 car.; en: 78 car."
+muy poco texto;325;Valencia;Genovés;https://www.genoves.es/;ca;ca;ca;fijo;"es: 151 car.; va: 151 car.; en: 151 car."
+muy poco texto;328;Valencia;Llocnou d'En Fenollet;https://www.llocnoudenfenollet.es/;ca;ca;ca;fijo;"es: 42 car.; va: 42 car.; en: 42 car."
+muy poco texto;330;Valencia;Llosa de Ranes, la;https://www.lallosaderanes.es/;ro;ro;ro;revisar;"es: 53 car.; va: 53 car.; en: 53 car."
+muy poco texto;332;Valencia;Montesa;https://www.montesa.es/;el-Latn;el-Latn;el-Latn;revisar;"es: 109 car.; va: 109 car.; en: 109 car."
+muy poco texto;334;Valencia;Rotglà i Corberà;https://www.rotglaicorbera.es/;es;es;es;revisar;"es: 65 car.; va: 65 car.; en: 65 car."
+muy poco texto;339;Valencia;Alboraya;https://www.alboraya.es/;lb;lb;lb;revisar;"es: 112 car.; va: 112 car.; en: 112 car."
+muy poco texto;341;Valencia;Alfara del Patriarca;https://www.alfaradelpatriarca.es/;ca;ca;ca;fijo;"es: 88 car.; va: 88 car.; en: 88 car."
+muy poco texto;342;Valencia;Almàssera;https://www.almassera.es/;ca;ca;ca;fijo;"es: 153 car.; va: 153 car.; en: 153 car."
+muy poco texto;343;Valencia;Bonrepòs i Mirambell;https://www.bonreposimirambell.es/;ca;ca;ca;fijo;"es: 146 car.; va: 146 car.; en: 146 car."
+muy poco texto;346;Valencia;Foios;https://www.foios.es/;ca;ca;ca;fijo;"es: 102 car.; va: 102 car.; en: 102 car."
+muy poco texto;348;Valencia;Massalfassar;https://www.massalfassar.es/;ca;ca;ca;fijo;"es: 37 car.; va: 37 car.; en: 37 car."
+muy poco texto;349;Valencia;Massamagrell;https://www.massamagrell.es/;ca;ca;ca;fijo;"es: 98 car.; va: 98 car.; en: 98 car."
+muy poco texto;350;Valencia;Meliana;https://www.meliana.es/;ca;ca;ca;revisar;"es: 78 car.; va: 78 car.; en: 78 car."
+muy poco texto;351;Valencia;Moncada;https://www.moncada.es/;ca;ca;ca;revisar;"es: 103 car.; va: 103 car.; en: 103 car."
+muy poco texto;354;Valencia;Pobla de Farnals, la;https://www.lapobladefarnals.es/;co;co;co;revisar;"es: 63 car.; va: 63 car.; en: 63 car."
+muy poco texto;355;Valencia;Puig de Santa Maria, el;https://www.elpuig.es/;ca;ca;ca;revisar;"es: 137 car.; va: 137 car.; en: 137 car."
+muy poco texto;356;Valencia;Puçol;https://www.pucol.es/;es;es;es;fijo;"es: 114 car.; va: 114 car.; en: 114 car."
+muy poco texto;357;Valencia;Rafelbunyol;https://www.rafelbunyol.es/;eu;eu;eu;revisar;"es: 60 car.; va: 60 car.; en: 60 car."
+muy poco texto;358;Valencia;Rocafort;https://www.rocafort.es/;ca;ca;ca;revisar;"es: 77 car.; va: 77 car.; en: 77 car."
+muy poco texto;359;Valencia;Tavernes Blanques;https://www.tavernesblanques.es/;ca;ca;ca;fijo;"es: 70 car.; va: 70 car.; en: 70 car."
+muy poco texto;360;Valencia;Vinalesa;https://www.vinalesa.es/;ro;ro;ro;revisar;"es: 78 car.; va: 78 car.; en: 78 car."
+muy poco texto;365;Valencia;Alfafar;https://www.alfafar.es/;es;es;es;fijo;"es: 106 car.; va: 106 car.; en: 106 car."
+muy poco texto;366;Valencia;Benetússer;https://www.benetusser.es/;ca;ca;ca;revisar;"es: 143 car.; va: 143 car.; en: 143 car."
+muy poco texto;367;Valencia;Beniparrell;https://www.beniparrell.es/;es;es;es;fijo;"es: 40 car.; va: 40 car.; en: 40 car."
+muy poco texto;368;Valencia;Catarroja;https://www.catarroja.es/;ca;ca;ca;fijo;"es: 196 car.; va: 196 car.; en: 196 car."
+muy poco texto;370;Valencia;Xirivella;https://www.xirivella.es/;ca;ca;ca;fijo;"es: 161 car.; va: 161 car.; en: 161 car."
+muy poco texto;373;Valencia;Massanassa;https://www.massanassa.es/;ca;ca;ca;fijo;"es: 158 car.; va: 158 car.; en: 158 car."
+muy poco texto;378;Valencia;Sedaví;https://www.sedavi.es/;ca;ca;ca;fijo;"es: 125 car.; va: 125 car.; en: 125 car."
+muy poco texto;379;Valencia;Silla;https://www.silla.es/;es;es;es;fijo;"es: 77 car.; va: 77 car.; en: 77 car."
+muy poco texto;383;Valencia;Cheste;https://www.cheste.es/;es;es;es;fijo;"es: 64 car.; va: 64 car.; en: 64 car."
+muy poco texto;385;Valencia;Dos Aguas;https://www.dosaguas.es/;es;es;es;fijo;"es: 102 car.; va: 102 car.; en: 102 car."
+muy poco texto;386;Valencia;Godelleta;https://www.godelleta.es/;es;es;es;revisar;"es: 55 car.; va: 55 car.; en: 55 car."
+muy poco texto;387;Valencia;Macastre;https://www.macastre.es/;es;es;es;fijo;"es: 90 car.; va: 90 car.; en: 90 car."
+muy poco texto;388;Valencia;Siete Aguas;https://www.sieteaguas.es/;es;es;es;fijo;"es: 55 car.; va: 55 car.; en: 55 car."
+muy poco texto;389;Valencia;Yátova;https://www.yatova.es/;es;es;es;fijo;"es: 72 car.; va: 72 car.; en: 72 car."
+muy poco texto;390;Valencia;Camporrobles;https://www.camporrobles.es/;es;es;es;fijo;"es: 79 car.; va: 79 car.; en: 79 car."
+muy poco texto;392;Valencia;Chera;https://www.chera.es/;es;es;es;fijo;"es: 183 car.; va: 183 car.; en: 183 car."
+muy poco texto;394;Valencia;Requena;https://www.requena.es/;es;es;es;fijo;"es: 91 car.; va: 91 car.; en: 91 car."
+muy poco texto;395;Valencia;Sinarcas;https://www.sinarcas.es/;es;es;es;fijo;"es: 94 car.; va: 94 car.; en: 94 car."
+muy poco texto;396;Valencia;Utiel;https://www.utiel.es/;es;es;es;fijo;"es: 81 car.; va: 81 car.; en: 81 car."
+muy poco texto;399;Valencia;Alberic;https://www.alberic.es/;co;co;co;revisar;"es: 127 car.; va: 127 car.; en: 127 car."
+muy poco texto;400;Valencia;Alcàntera de Xúquer;https://www.alcanteradexuquer.es/;ca;ca;ca;fijo;"es: 62 car.; va: 62 car.; en: 62 car."
+muy poco texto;405;Valencia;Alginet;https://www.alginet.es/;ca;ca;ca;fijo;"es: 71 car.; va: 71 car.; en: 71 car."
+muy poco texto;406;Valencia;Antella;https://www.antella.es/;ca;ca;ca;fijo;"es: 102 car.; va: 102 car.; en: 102 car."
+muy poco texto;408;Valencia;Benifaió;https://www.benifaio.es/;ca;ca;ca;fijo;"es: 146 car.; va: 146 car.; en: 146 car."
+muy poco texto;413;Valencia;Carlet;https://www.carlet.es/;es;es;es;fijo;"es: 187 car.; va: 187 car.; en: 187 car."
+muy poco texto;414;Valencia;Catadau;https://www.catadau.es/;ca;ca;ca;fijo;"es: 60 car.; va: 60 car.; en: 60 car."
+muy poco texto;416;Valencia;Énova, l';https://www.lenova.es/;ro;ro;ro;revisar;"es: 55 car.; va: 55 car.; en: 55 car."
+muy poco texto;417;Valencia;Gavarda;https://www.gavarda.es/;ca;ca;ca;fijo;"es: 52 car.; va: 52 car.; en: 52 car."
+muy poco texto;420;Valencia;Manuel;https://www.manuel.es/;ca;ca;ca;fijo;"es: 156 car.; va: 156 car.; en: 156 car."
+muy poco texto;423;Valencia;Montroy;https://www.montroy.es/;es;es;es;fijo;"es: 106 car.; va: 106 car.; en: 106 car."
+muy poco texto;424;Valencia;Pobla Llarga, la;https://www.lapoblallarga.es/;ca;ca;ca;revisar;"es: 87 car.; va: 87 car.; en: 87 car."
+muy poco texto;425;Valencia;Rafelguaraf;https://www.rafelguaraf.es/;ca;ca;ca;fijo;"es: 180 car.; va: 180 car.; en: 180 car."
+muy poco texto;426;Valencia;Real;https://www.ajuntamentdereal.es/;es;es;es;fijo;"es: 108 car.; va: 108 car.; en: 108 car."
+muy poco texto;427;Valencia;Sant Joanet;https://www.santjoanet.es/;ca;ca;ca;revisar;"es: 70 car.; va: 70 car.; en: 70 car."
+muy poco texto;432;Valencia;Turís;https://www.turis.es/;ca;ca;ca;fijo;"es: 70 car.; va: 70 car.; en: 70 car."
+muy poco texto;433;Valencia;Castelló;https://www.castellosom.es/;ca;ca;ca;fijo;"es: 129 car.; va: 129 car.; en: 129 car."
+muy poco texto;434;Valencia;Albalat de la Ribera;https://www.albalatdelaribera.es/;ca;ca;ca;fijo;"es: 66 car.; va: 66 car.; en: 66 car."
+muy poco texto;436;Valencia;Corbera;https://www.corbera.es/;co;co;co;revisar;"es: 124 car.; va: 124 car.; en: 124 car."
+muy poco texto;437;Valencia;Cullera;https://www.cullera.es/;pt;pt;pt;revisar;"es: 109 car.; va: 109 car.; en: 109 car."
+muy poco texto;438;Valencia;Favara;https://www.favara.es/;ca;ca;ca;revisar;"es: 79 car.; va: 79 car.; en: 79 car."
+muy poco texto;439;Valencia;Fortaleny;https://www.fortaleny.es/;ro;ro;ro;revisar;"es: 70 car.; va: 70 car.; en: 70 car."
+muy poco texto;441;Valencia;Polinyà de Xúquer;https://www.polinyadexuquer.es/;ca;ca;ca;fijo;"es: 37 car.; va: 37 car.; en: 37 car."
+muy poco texto;443;Valencia;Sollana;https://www.sollana.es/;eu;eu;eu;revisar;"es: 72 car.; va: 72 car.; en: 72 car."
+muy poco texto;446;Valencia;Ademuz;https://www.ademuz.es/;es;es;es;fijo;"es: 131 car.; va: 131 car.; en: 131 car."
+muy poco texto;447;Valencia;Casas Altas;https://www.casasaltas.es/;es;es;es;fijo;"es: 77 car.; va: 77 car.; en: 77 car."
+muy poco texto;449;Valencia;Castielfabib;https://www.castielfabib.es/;es;es;es;fijo;"es: 75 car.; va: 75 car.; en: 75 car."
+muy poco texto;453;Valencia;Ador;https://www.ador.es/;ca;ca;ca;fijo;"es: 58 car.; va: 58 car.; en: 58 car."
+muy poco texto;458;Valencia;Barx;https://www.barx.es/;ca;ca;ca;fijo;"es: 81 car.; va: 81 car.; en: 81 car."
+muy poco texto;460;Valencia;Beniarjó;https://www.beniarjo.es/;ca;ca;ca;revisar;"es: 133 car.; va: 133 car.; en: 133 car."
+muy poco texto;461;Valencia;Benifairó de la Valldigna;https://www.benifairo.org/;ca;ca;ca;revisar;"es: 71 car.; va: 71 car.; en: 71 car."
+muy poco texto;462;Valencia;Beniflá;https://www.benifla.es/;es;es;es;fijo;"es: 61 car.; va: 61 car.; en: 61 car."
+muy poco texto;479;Valencia;Real de Gandía;https://www.realdegandia.es/;ca;ca;ca;revisar;"es: 68 car.; va: 68 car.; en: 68 car."
+muy poco texto;482;Valencia;Tavernes de la Valldigna;https://www.tavernes.es/;pt;pt;pt;revisar;"es: 34 car.; va: 34 car.; en: 34 car."
+muy poco texto;487;Valencia;Aras de los Olmos;https://www.arasdelosolmos.es/;es;es;es;fijo;"es: 75 car.; va: 75 car.; en: 75 car."
+muy poco texto;489;Valencia;Bugarra;https://www.bugarra.es/;es;es;es;fijo;"es: 77 car.; va: 77 car.; en: 77 car."
+muy poco texto;490;Valencia;Calles;https://www.calles.es/;es;es;es;fijo;"es: 117 car.; va: 117 car.; en: 117 car."
+muy poco texto;491;Valencia;Chelva;https://www.chelva.es/;es;es;es;fijo;"es: 102 car.; va: 102 car.; en: 102 car."
+muy poco texto;493;Valencia;Gestalgar;https://www.gestalgar.es/;es;es;es;fijo;"es: 72 car.; va: 72 car.; en: 72 car."
+muy poco texto;494;Valencia;Higueruelas;https://www.higueruelas.es/;es;es;es;fijo;"es: 92 car.; va: 92 car.; en: 92 car."
+muy poco texto;495;Valencia;Losa del Obispo;https://www.losadelobispo.es/;es;es;es;fijo;"es: 105 car.; va: 105 car.; en: 105 car."
+muy poco texto;496;Valencia;Pedralba;https://www.pedralba.es/;es;es;es;fijo;"es: 117 car.; va: 117 car.; en: 117 car."
+muy poco texto;497;Valencia;Sot de Chera;https://www.sotdechera.es/;ca;ca;ca;fijo;"es: 142 car.; va: 142 car.; en: 142 car."
+muy poco texto;499;Valencia;Tuéjar;https://www.tuejar.es/;es;es;es;fijo;"es: 73 car.; va: 73 car.; en: 73 car."
+muy poco texto;500;Valencia;Villar del Arzobispo;https://www.villardelarzobispo.es/;es;es;es;fijo;"es: 134 car.; va: 134 car.; en: 134 car."
+muy poco texto;501;Valencia;Yesa, la;https://www.layesa.es/;es;es;es;fijo;"es: 55 car.; va: 55 car.; en: 55 car."
+muy poco texto;503;Valencia;Atzeneta d'Albaida;https://www.atzenetadalbaida.es/;ca;ca;ca;revisar;"es: 142 car.; va: 142 car.; en: 142 car."
+muy poco texto;508;Valencia;Aielo de Rugat;https://www.aieloderugat.es/;es;es;es;fijo;"es: 30 car.; va: 30 car.; en: 30 car."
+muy poco texto;509;Valencia;Bèlgida;https://www.belgida.es/;ca;ca;ca;fijo;"es: 82 car.; va: 82 car.; en: 82 car."
+muy poco texto;513;Valencia;Benigànim;https://www.beniganim.es/;ca;ca;ca;fijo;"es: 122 car.; va: 122 car.; en: 122 car."
+muy poco texto;515;Valencia;Benissuera;https://www.benisuera.es/;es;es;es;fijo;"es: 45 car.; va: 45 car.; en: 45 car."
+muy poco texto;517;Valencia;Bufali;https://www.bufali.es/;es;es;es;fijo;"es: 78 car.; va: 78 car.; en: 78 car."
+muy poco texto;523;Valencia;Llutxent;https://www.llutxent.es/;co;co;co;revisar;"es: 78 car.; va: 78 car.; en: 78 car."
+muy poco texto;524;Valencia;Montaverner;https://www.montaverner.es/;ca;ca;ca;revisar;"es: 88 car.; va: 88 car.; en: 88 car."
+muy poco texto;525;Valencia;Montichelvo;https://www.montitxelvo.es/;ca;ca;ca;fijo;"es: 60 car.; va: 60 car.; en: 60 car."
+muy poco texto;526;Valencia;Olleria, l';https://www.lolleria.org/;co;co;co;revisar;"es: 103 car.; va: 103 car.; en: 103 car."
+muy poco texto;529;Valencia;Palomar, el;https://www.elpalomar.es/;es;es;es;revisar;"es: 90 car.; va: 90 car.; en: 90 car."
+muy poco texto;531;Valencia;Pobla del Duc, la;https://www.lapobladelduc.es/;en;en;en;revisar;"es: 77 car.; va: 77 car.; en: 77 car."
+muy poco texto;537;Valencia;Ayora;https://www.ayora.es/;es;es;es;fijo;"es: 133 car.; va: 133 car.; en: 133 car."
+muy poco texto;539;Valencia;Cortes de Pallás;https://www.cortesdepallas.es/;es;es;es;fijo;"es: 74 car.; va: 74 car.; en: 74 car."
+muy poco texto;540;Valencia;Jalance;https://www.jalance.es/;es;es;es;fijo;"es: 84 car.; va: 84 car.; en: 84 car."
+muy poco texto;541;Valencia;Jarafuel;https://www.jarafuel.es/;es;es;es;fijo;"es: 45 car.; va: 45 car.; en: 45 car."
+muy poco texto;542;Valencia;Teresa de Cofrentes;https://www.teresadecofrentes.es/;es;es;es;fijo;"es: 59 car.; va: 59 car.; en: 59 car."
+muy poco texto;543;Valencia;Zarra;https://www.zarra.es/;es;es;es;fijo;"es: 39 car.; va: 39 car.; en: 39 car."
+portada de entrada: interior re-comprobado;280;Valencia;Algar de Palancia;https://www.algardepalancia.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.algardepalancia.es/va/portada"
+portada de entrada: interior re-comprobado;282;Valencia;Benavites;https://www.benavites.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.benavites.es/va/portada"
+portada de entrada: interior re-comprobado;283;Valencia;Benifairó de les Valls;https://www.benifairovalls.com/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada es; https://benifairovalls.com/ajuntament/"
+portada de entrada: interior re-comprobado;284;Valencia;Canet d'En Berenguer;https://www.canetdenberenguer.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.canetdenberenguer.es/va/portada"
+portada de entrada: interior re-comprobado;286;Valencia;Quartell;https://www.quartell.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.quartell.es/va/portada"
+portada de entrada: interior re-comprobado;287;Valencia;Estivella;https://www.aytoestivella.com/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.estivella.es/va/portada"
+portada de entrada: interior re-comprobado;289;Valencia;Gilet;https://www.gilet.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.gilet.es/es/portada"
+portada de entrada: interior re-comprobado;294;Valencia;Benaguasil;https://www.benaguasil.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.benaguasil.es/es/portada"
+portada de entrada: interior re-comprobado;297;Valencia;Casinos;https://www.casinos.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.casinos.es/portada"
+portada de entrada: interior re-comprobado;300;Valencia;Llíria;https://www.lliria.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.lliria.es/es/portada"
+portada de entrada: interior re-comprobado;302;Valencia;Marines;https://www.marines.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.marines.es/portada"
+portada de entrada: interior re-comprobado;308;Valencia;Vilamarxant;https://www.vilamarxant.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.vilamarxant.es/va/ayuntamiento"
+portada de entrada: interior re-comprobado;310;Valencia;San Antonio de Benagéber;https://www.sanantoniodebenageber.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.sanantoniodebenageber.es/es/portada"
+portada de entrada: interior re-comprobado;312;Valencia;Bicorp;https://www.bicorp.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.bicorp.es/portada"
+portada de entrada: interior re-comprobado;313;Valencia;Bolbaite;https://www.bolbaite.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.bolbaite.es/portada"
+portada de entrada: interior re-comprobado;315;Valencia;Enguera;https://www.enguera.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.enguera.es/es/portada"
+portada de entrada: interior re-comprobado;317;Valencia;Navarrés;https://www.navarres.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.navarres.es/portada"
+portada de entrada: interior re-comprobado;320;Valencia;Barxeta;https://www.barxeta.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.barxeta.es/ca/portada"
+portada de entrada: interior re-comprobado;325;Valencia;Genovés;https://www.genoves.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.genoves.es/ca/portada"
+portada de entrada: interior re-comprobado;328;Valencia;Llocnou d'En Fenollet;https://www.llocnoudenfenollet.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.llocnoudenfenollet.es/portada"
+portada de entrada: interior re-comprobado;330;Valencia;Llosa de Ranes, la;https://www.lallosaderanes.es/;ro;ro;ro;revisar;"interior fijo ca; texto de portada ro; lang portada ca (el texto de la portada engaña); https://www.lallosaderanes.es/portada"
+portada de entrada: interior re-comprobado;332;Valencia;Montesa;https://www.montesa.es/;el-Latn;el-Latn;el-Latn;revisar;"interior fijo ca; texto de portada el-Latn; lang portada ca (el texto de la portada engaña); https://www.montesa.es/ca/portada"
+portada de entrada: interior re-comprobado;334;Valencia;Rotglà i Corberà;https://www.rotglaicorbera.es/;es;es;es;revisar;"interior fijo ca; texto de portada es; lang portada ca (el texto de la portada engaña); https://www.rotglaicorbera.es/ca/portada"
+portada de entrada: interior re-comprobado;339;Valencia;Alboraya;https://www.alboraya.es/;lb;lb;lb;revisar;"interior fijo ca; texto de portada lb; lang portada x-VA (el texto de la portada engaña); https://www.alboraya.es/va/portada"
+portada de entrada: interior re-comprobado;341;Valencia;Alfara del Patriarca;https://www.alfaradelpatriarca.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.alfaradelpatriarca.es/va/portada"
+portada de entrada: interior re-comprobado;342;Valencia;Almàssera;https://www.almassera.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.almassera.es/va/portada"
+portada de entrada: interior re-comprobado;343;Valencia;Bonrepòs i Mirambell;https://www.bonreposimirambell.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.bonreposimirambell.es/va/portada"
+portada de entrada: interior re-comprobado;346;Valencia;Foios;https://www.foios.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.foios.es/va/portada"
+portada de entrada: interior re-comprobado;348;Valencia;Massalfassar;https://www.massalfassar.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.massalfassar.es/ca/portada"
+portada de entrada: interior re-comprobado;349;Valencia;Massamagrell;https://www.massamagrell.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.massamagrell.es/va/portada"
+portada de entrada: interior re-comprobado;350;Valencia;Meliana;https://www.meliana.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.meliana.es/va/portada"
+portada de entrada: interior re-comprobado;351;Valencia;Moncada;https://www.moncada.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.moncada.es/va/portada"
+portada de entrada: interior re-comprobado;354;Valencia;Pobla de Farnals, la;https://www.lapobladefarnals.es/;co;co;co;revisar;"interior fijo ca; texto de portada co; lang portada ca (el texto de la portada engaña); https://www.lapobladefarnals.es/va/portada"
+portada de entrada: interior re-comprobado;355;Valencia;Puig de Santa Maria, el;https://www.elpuig.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.elpuig.es/va/portada"
+portada de entrada: interior re-comprobado;356;Valencia;Puçol;https://www.pucol.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.pucol.es/es/portada"
+portada de entrada: interior re-comprobado;357;Valencia;Rafelbunyol;https://www.rafelbunyol.es/;eu;eu;eu;revisar;"interior fijo ca; texto de portada eu; lang portada ca (el texto de la portada engaña); https://www.rafelbunyol.es/va/portada"
+portada de entrada: interior re-comprobado;358;Valencia;Rocafort;https://www.rocafort.es/;ca;ca;ca;revisar;"interior fijo es; texto de portada ca; lang portada es (el texto de la portada engaña); https://www.rocafort.es/es/portada"
+portada de entrada: interior re-comprobado;359;Valencia;Tavernes Blanques;https://www.tavernesblanques.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.tavernesblanques.es/va/portada"
+portada de entrada: interior re-comprobado;360;Valencia;Vinalesa;https://www.vinalesa.es/;ro;ro;ro;revisar;"interior fijo ca; texto de portada ro; lang portada ca (el texto de la portada engaña); https://www.vinalesa.es/va/portada"
+portada de entrada: interior re-comprobado;365;Valencia;Alfafar;https://www.alfafar.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.alfafar.es/es/portada"
+portada de entrada: interior re-comprobado;366;Valencia;Benetússer;https://www.benetusser.es/;ca;ca;ca;revisar;"interior fijo es; texto de portada ca; lang portada es (el texto de la portada engaña); https://www.benetusser.es/es/portada"
+portada de entrada: interior re-comprobado;367;Valencia;Beniparrell;https://www.beniparrell.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.beniparrell.es/es/portada"
+portada de entrada: interior re-comprobado;368;Valencia;Catarroja;https://www.catarroja.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.catarroja.es/va/portada"
+portada de entrada: interior re-comprobado;370;Valencia;Xirivella;https://www.xirivella.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.xirivella.es/va/portada"
+portada de entrada: interior re-comprobado;373;Valencia;Massanassa;https://www.massanassa.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.massanassa.es/va/portada"
+portada de entrada: interior re-comprobado;378;Valencia;Sedaví;https://www.sedavi.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.sedavi.es/va/portada"
+portada de entrada: interior re-comprobado;379;Valencia;Silla;https://www.silla.es/;es;es;es;fijo;"interior fijo ca; texto de portada es; lang portada ca (el texto de la portada engaña); https://www.silla.es/portada"
+portada de entrada: interior re-comprobado;383;Valencia;Cheste;https://www.cheste.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.cheste.es/portada"
+portada de entrada: interior re-comprobado;385;Valencia;Dos Aguas;https://www.dosaguas.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.dosaguas.es/es/portada"
+portada de entrada: interior re-comprobado;386;Valencia;Godelleta;https://www.godelleta.es/;es;es;es;revisar;"interior fijo es; texto de portada es; lang portada es; https://www.godelleta.es/es/portada"
+portada de entrada: interior re-comprobado;387;Valencia;Macastre;https://www.macastre.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.macastre.es/portada"
+portada de entrada: interior re-comprobado;388;Valencia;Siete Aguas;https://www.sieteaguas.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.sieteaguas.es/portada"
+portada de entrada: interior re-comprobado;389;Valencia;Yátova;https://www.yatova.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.yatova.es/portada"
+portada de entrada: interior re-comprobado;390;Valencia;Camporrobles;https://www.camporrobles.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.camporrobles.es/portada"
+portada de entrada: interior re-comprobado;392;Valencia;Chera;https://www.chera.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.chera.es/portada"
+portada de entrada: interior re-comprobado;394;Valencia;Requena;https://www.requena.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.requena.es/portada"
+portada de entrada: interior re-comprobado;395;Valencia;Sinarcas;https://www.sinarcas.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.sinarcas.es/portada"
+portada de entrada: interior re-comprobado;396;Valencia;Utiel;https://www.utiel.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.utiel.es/es/portada"
+portada de entrada: interior re-comprobado;399;Valencia;Alberic;https://www.alberic.es/;co;co;co;revisar;"interior fijo ca; texto de portada co; lang portada ca (el texto de la portada engaña); https://www.alberic.es/va/portada"
+portada de entrada: interior re-comprobado;400;Valencia;Alcàntera de Xúquer;https://www.alcanteradexuquer.es/;ca;ca;ca;fijo;"interior fijo es; texto de portada ca; lang portada es (el texto de la portada engaña); https://www.alcanteradexuquer.es/es/portada"
+portada de entrada: interior re-comprobado;405;Valencia;Alginet;https://www.alginet.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.alginet.es/va/portada"
+portada de entrada: interior re-comprobado;406;Valencia;Antella;https://www.antella.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.antella.es/portada"
+portada de entrada: interior re-comprobado;408;Valencia;Benifaió;https://www.benifaio.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.benifaio.es/va/portada"
+portada de entrada: interior re-comprobado;413;Valencia;Carlet;https://www.carlet.es/;es;es;es;fijo;"interior fijo ca; texto de portada es; lang portada ca (el texto de la portada engaña); https://www.carlet.es/va/portada"
+portada de entrada: interior re-comprobado;414;Valencia;Catadau;https://www.catadau.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.catadau.es/va/portada"
+portada de entrada: interior re-comprobado;416;Valencia;Énova, l';https://www.lenova.es/;ro;ro;ro;revisar;"interior fijo ca; texto de portada ro; lang portada ca (el texto de la portada engaña); https://www.lenova.es/portada"
+portada de entrada: interior re-comprobado;417;Valencia;Gavarda;https://www.gavarda.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.gavarda.es/va/portada"
+portada de entrada: interior re-comprobado;420;Valencia;Manuel;https://www.manuel.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.manuel.es/portada"
+portada de entrada: interior re-comprobado;423;Valencia;Montroy;https://www.montroy.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.montroy.es/es/portada"
+portada de entrada: interior re-comprobado;424;Valencia;Pobla Llarga, la;https://www.lapoblallarga.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.lapoblallarga.es/va/portada"
+portada de entrada: interior re-comprobado;425;Valencia;Rafelguaraf;https://www.rafelguaraf.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.rafelguaraf.es/portada"
+portada de entrada: interior re-comprobado;426;Valencia;Real;https://www.ajuntamentdereal.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.ajuntamentdereal.es/es/portada"
+portada de entrada: interior re-comprobado;427;Valencia;Sant Joanet;https://www.santjoanet.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.santjoanet.es/portada"
+portada de entrada: interior re-comprobado;432;Valencia;Turís;https://www.turis.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.turis.es/portada"
+portada de entrada: interior re-comprobado;433;Valencia;Castelló;https://www.castellosom.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.castellosom.es/va/portada"
+portada de entrada: interior re-comprobado;434;Valencia;Albalat de la Ribera;https://www.albalatdelaribera.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.albalatdelaribera.es/va/portada"
+portada de entrada: interior re-comprobado;436;Valencia;Corbera;https://www.corbera.es/;co;co;co;revisar;"interior fijo ca; texto de portada co; lang portada ca (el texto de la portada engaña); https://www.corbera.es/ca/portada"
+portada de entrada: interior re-comprobado;437;Valencia;Cullera;https://www.cullera.es/;pt;pt;pt;revisar;"interior fijo ca; texto de portada pt; lang portada ca (el texto de la portada engaña); https://www.cullera.es/va/portada"
+portada de entrada: interior re-comprobado;438;Valencia;Favara;https://www.favara.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.favara.es/va/portada"
+portada de entrada: interior re-comprobado;439;Valencia;Fortaleny;https://www.fortaleny.es/;ro;ro;ro;revisar;"interior fijo ca; texto de portada ro; lang portada ca (el texto de la portada engaña); https://www.fortaleny.es/portada"
+portada de entrada: interior re-comprobado;441;Valencia;Polinyà de Xúquer;https://www.polinyadexuquer.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.polinyadexuquer.es/portada"
+portada de entrada: interior re-comprobado;443;Valencia;Sollana;https://www.sollana.es/;eu;eu;eu;revisar;"interior fijo ca; texto de portada eu; lang portada ca (el texto de la portada engaña); https://www.sollana.es/va/portada"
+portada de entrada: interior re-comprobado;446;Valencia;Ademuz;https://www.ademuz.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.ademuz.es/es/portada"
+portada de entrada: interior re-comprobado;447;Valencia;Casas Altas;https://www.casasaltas.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.casasaltas.es/portada"
+portada de entrada: interior re-comprobado;449;Valencia;Castielfabib;https://www.castielfabib.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.castielfabib.es/es/portada"
+portada de entrada: interior re-comprobado;453;Valencia;Ador;https://www.ador.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.ador.es/va/portada"
+portada de entrada: interior re-comprobado;458;Valencia;Barx;https://www.barx.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.barx.es/va/portada"
+portada de entrada: interior re-comprobado;460;Valencia;Beniarjó;https://www.beniarjo.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.beniarjo.es/ca/portada"
+portada de entrada: interior re-comprobado;461;Valencia;Benifairó de la Valldigna;https://www.benifairo.org/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.benifairo.org/va/portada"
+portada de entrada: interior re-comprobado;462;Valencia;Beniflá;https://www.benifla.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.benifla.es/es/portada"
+portada de entrada: interior re-comprobado;479;Valencia;Real de Gandía;https://www.realdegandia.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.realdegandia.es/va/portada"
+portada de entrada: interior re-comprobado;482;Valencia;Tavernes de la Valldigna;https://www.tavernes.es/;pt;pt;pt;revisar;"interior fijo ca; texto de portada pt; lang portada ca (el texto de la portada engaña); https://www.tavernes.es/va/portada"
+portada de entrada: interior re-comprobado;487;Valencia;Aras de los Olmos;https://www.arasdelosolmos.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.arasdelosolmos.es/es/portada"
+portada de entrada: interior re-comprobado;489;Valencia;Bugarra;https://www.bugarra.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.bugarra.es/portada"
+portada de entrada: interior re-comprobado;490;Valencia;Calles;https://www.calles.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.calles.es/portada"
+portada de entrada: interior re-comprobado;491;Valencia;Chelva;https://www.chelva.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.chelva.es/portada"
+portada de entrada: interior re-comprobado;493;Valencia;Gestalgar;https://www.gestalgar.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.gestalgar.es/portada"
+portada de entrada: interior re-comprobado;494;Valencia;Higueruelas;https://www.higueruelas.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.higueruelas.es/portada"
+portada de entrada: interior re-comprobado;495;Valencia;Losa del Obispo;https://www.losadelobispo.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.losadelobispo.es/portada"
+portada de entrada: interior re-comprobado;496;Valencia;Pedralba;https://www.pedralba.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.pedralba.es/portada"
+portada de entrada: interior re-comprobado;497;Valencia;Sot de Chera;https://www.sotdechera.es/;ca;ca;ca;fijo;"interior fijo es; texto de portada ca; lang portada es (el texto de la portada engaña); https://www.sotdechera.es/es/portada"
+portada de entrada: interior re-comprobado;499;Valencia;Tuéjar;https://www.tuejar.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.tuejar.es/es/portada"
+portada de entrada: interior re-comprobado;500;Valencia;Villar del Arzobispo;https://www.villardelarzobispo.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.villardelarzobispo.es/es/portada"
+portada de entrada: interior re-comprobado;501;Valencia;Yesa, la;https://www.layesa.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.layesa.es/portada"
+portada de entrada: interior re-comprobado;503;Valencia;Atzeneta d'Albaida;https://www.atzenetadalbaida.es/;ca;ca;ca;revisar;"interior fijo es; texto de portada ca; lang portada es (el texto de la portada engaña); https://www.atzenetadalbaida.es/es/portada"
+portada de entrada: interior re-comprobado;508;Valencia;Aielo de Rugat;https://www.aieloderugat.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.aieloderugat.es/portada"
+portada de entrada: interior re-comprobado;509;Valencia;Bèlgida;https://www.belgida.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.belgida.es/portada"
+portada de entrada: interior re-comprobado;512;Valencia;Benicolet;https://www.benicolet.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.benicolet.es/portada"
+portada de entrada: interior re-comprobado;513;Valencia;Benigànim;https://www.beniganim.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.beniganim.es/va/portada"
+portada de entrada: interior re-comprobado;515;Valencia;Benissuera;https://www.benisuera.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.benisuera.es/es/portada"
+portada de entrada: interior re-comprobado;517;Valencia;Bufali;https://www.bufali.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.bufali.es/es/portada"
+portada de entrada: interior re-comprobado;523;Valencia;Llutxent;https://www.llutxent.es/;co;co;co;revisar;"interior fijo ca; texto de portada co; lang portada ca (el texto de la portada engaña); https://www.llutxent.es/ca/portada"
+portada de entrada: interior re-comprobado;524;Valencia;Montaverner;https://www.montaverner.es/;ca;ca;ca;revisar;"interior fijo ca; texto de portada ca; lang portada ca; https://www.montaverner.es/portada"
+portada de entrada: interior re-comprobado;525;Valencia;Montichelvo;https://www.montitxelvo.es/;ca;ca;ca;fijo;"interior fijo ca; texto de portada ca; lang portada ca; https://www.montitxelvo.es/ca/portada"
+portada de entrada: interior re-comprobado;526;Valencia;Olleria, l';https://www.lolleria.org/;co;co;co;revisar;"interior fijo es; texto de portada co; lang portada es (el texto de la portada engaña); https://www.lolleria.org/es/portada"
+portada de entrada: interior re-comprobado;529;Valencia;Palomar, el;https://www.elpalomar.es/;es;es;es;revisar;"interior fijo es; texto de portada es; lang portada es; https://www.elpalomar.es/es/portada"
+portada de entrada: interior re-comprobado;531;Valencia;Pobla del Duc, la;https://www.lapobladelduc.es/;en;en;en;revisar;"interior fijo ca; texto de portada en; lang portada ca (el texto de la portada engaña); https://www.lapobladelduc.es/va/portada"
+portada de entrada: interior re-comprobado;537;Valencia;Ayora;https://www.ayora.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.ayora.es/es/portada"
+portada de entrada: interior re-comprobado;539;Valencia;Cortes de Pallás;https://www.cortesdepallas.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.cortesdepallas.es/es/portada"
+portada de entrada: interior re-comprobado;540;Valencia;Jalance;https://www.jalance.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.jalance.es/portada"
+portada de entrada: interior re-comprobado;541;Valencia;Jarafuel;https://www.jarafuel.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.jarafuel.es/es/portada"
+portada de entrada: interior re-comprobado;542;Valencia;Teresa de Cofrentes;https://www.teresadecofrentes.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.teresadecofrentes.es/portada"
+portada de entrada: interior re-comprobado;543;Valencia;Zarra;https://www.zarra.es/;es;es;es;fijo;"interior fijo es; texto de portada es; lang portada es; https://www.zarra.es/es/portada"
+portada de entrada: sin página interior;138;Alicante;Monóvar;https://www.monovar.es/;ca;ca;ca;revisar;no hay enlace a una web municipal
+revisar: lang cambia con el navegador;34;Alicante;Callosa de Segura;https://www.callosadesegura.es/;es;ca;es;revisar;"lang=es/ca/en; texto: Inicio #66479 (sin título) Agenda de alcaldía AlertaOkupa Alojamiento Asociaciones Aviso legal Política de cookies Polít"
+revisar: lang cambia con el navegador;93;Alicante;Xaló;https://www.xalo.org/;ca;ca;ca;revisar;"lang=es/va-VA/en-US; texto: El Ayuntamiento Xaló Servicios Noticias Enlaces Documentos Contactar Buscar Reproductor de vídeo PARTICIPACIÓ TRANSPARÈN"
+revisar: misma página en las tres visitas, poco texto;138;Alicante;Monóvar;https://www.monovar.es/;ca;ca;ca;revisar;"lang=es/es/es; texto: Saltar al contenido AYUNTAMIENTO DE MONÓVAR – AJUNTAMENT DE MONÒVER Bienvenidas y bienvenidos a la Web Municipal del Ayu"
+revisar: misma página en las tres visitas, poco texto;282;Valencia;Benavites;https://www.benavites.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook Ajuntament AJUNTAMENT SEU ELECTRÒNICA TRANSPARÈNCIA TURISME"
+revisar: misma página en las tres visitas, poco texto;286;Valencia;Quartell;https://www.quartell.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook YouTube Instagram Telegram TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÓNICA"
+revisar: misma página en las tres visitas, poco texto;297;Valencia;Casinos;https://www.casinos.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: PARTICIPA AJUNTAMENT APP MUNICIPAL"
+revisar: misma página en las tres visitas, poco texto;320;Valencia;Barxeta;https://www.barxeta.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Youtube Instagram AJUNTAMENT SEU ELECTRÒNICA TRANSPARÈNCIA"
+revisar: misma página en las tres visitas, poco texto;330;Valencia;Llosa de Ranes, la;https://www.lallosaderanes.es/;ro;ro;ro;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Youtube AJUNTAMENT SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;332;Valencia;Montesa;https://www.montesa.es/;el-Latn;el-Latn;el-Latn;revisar;"lang=ca/ca/ca; texto: Facebook Twitter YouTube Instagram Pinterest AEDL AYUNTAMIENTO TURISMO ELECTRONICA TRANSPARENCIA TABLON"
+revisar: misma página en las tres visitas, poco texto;334;Valencia;Rotglà i Corberà;https://www.rotglaicorbera.es/;es;es;es;revisar;"lang=ca/ca/ca; texto: Facebook Whatsapp Instagram Youtube AJUNTAMENT SEDE ELECTRÓNICA"
+revisar: misma página en las tres visitas, poco texto;339;Valencia;Alboraya;https://www.alboraya.es/;lb;lb;lb;revisar;"lang=x-VA/x-VA/x-VA; texto: Facebook X / Twitter YouTube Instagram WhatsApp Flickr TURISME AJUNTAMENT SEU ELECTRÒNICA SERVEIS MUNICIPALS"
+revisar: misma página en las tres visitas, poco texto;350;Valencia;Meliana;https://www.meliana.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Youtube Instagram TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;351;Valencia;Moncada;https://www.moncada.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Ayuntamiento de Moncada Ajuntament Moncada Youtube Telegram TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;354;Valencia;Pobla de Farnals, la;https://www.lapobladefarnals.es/;co;co;co;revisar;"lang=ca/ca/ca; texto: Facebook Telegram YouTube TURISME AJUNTAMENT SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;355;Valencia;Puig de Santa Maria, el;https://www.elpuig.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook Municipal Whatsapp Municipal Instagram Municipal AJUNTAMENT SEU ELECTRÒNICA CITA PREVIA TURISME TRANSPARÈNCIA P"
+revisar: misma página en las tres visitas, poco texto;357;Valencia;Rafelbunyol;https://www.rafelbunyol.es/;eu;eu;eu;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Youtube Instagram GOBERN OBERT AJUNTAMENT"
+revisar: misma página en las tres visitas, poco texto;358;Valencia;Rocafort;https://www.rocafort.es/;ca;ca;ca;revisar;"lang=es/es/es; texto: Facebook Twitter Youtube Whatsapp TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;360;Valencia;Vinalesa;https://www.vinalesa.es/;ro;ro;ro;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Youtube Instagram AJUNTAMENT APP MUNICIPAL SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;366;Valencia;Benetússer;https://www.benetusser.es/;ca;ca;ca;revisar;"lang=es/es/es; texto: ES VA Spotify Whatsapp Youtube Buzón ciudadano Twitter Instagram Facebook TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÒNICA TAULE"
+revisar: misma página en las tres visitas, poco texto;386;Valencia;Godelleta;https://www.godelleta.es/;es;es;es;revisar;"lang=es/es/es; texto: Facebook Twitter Instagram TRANSPARENCIA AYUNTAMIENTO"
+revisar: misma página en las tres visitas, poco texto;399;Valencia;Alberic;https://www.alberic.es/;co;co;co;revisar;"lang=ca/ca/ca; texto: Facebook Alberic Twitter Alberic Youtube Alberic Instagram Alberic Whatsapp TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;416;Valencia;Énova, l';https://www.lenova.es/;ro;ro;ro;revisar;"lang=ca/ca/ca; texto: Facebook YouTube Instagram AJUNTAMENT SEU ELECTRONICA"
+revisar: misma página en las tres visitas, poco texto;424;Valencia;Pobla Llarga, la;https://www.lapoblallarga.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Youtube Instagram Whatsapp TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;427;Valencia;Sant Joanet;https://www.santjoanet.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook YouTube Instagram AJUNTAMENT SEU ELECTRÒNICA TRANSPARÈNCIA"
+revisar: misma página en las tres visitas, poco texto;436;Valencia;Corbera;https://www.corbera.es/;co;co;co;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Youtube Agenda Corbera SEU ELECTRÒNICA AJUNTAMENT TRANSPARÈNCIA APP MUNICIPAL AGENDA CULTURAL TURISME"
+revisar: misma página en las tres visitas, poco texto;437;Valencia;Cullera;https://www.cullera.es/;pt;pt;pt;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Youtube Telegram Instagram TRANSPARÈNCIA AJUNTAMENT TURISME CITA PRÈVIA SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;438;Valencia;Favara;https://www.favara.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook X YouTube Instagram SEU ELECTRÒNICA AJUNTAMENT ACTUALITAT APUNTA'T"
+revisar: misma página en las tres visitas, poco texto;439;Valencia;Fortaleny;https://www.fortaleny.es/;ro;ro;ro;revisar;"lang=ca/ca/ca; texto: Facebook Twitter Instagram TRANSPARENCIA AJUNTAMENT SEU ELECTRONICA"
+revisar: misma página en las tres visitas, poco texto;443;Valencia;Sollana;https://www.sollana.es/;eu;eu;eu;revisar;"lang=ca/ca/ca; texto: Facebook Twitter YouTube Instagram Telegram AJUNTAMENT SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;460;Valencia;Beniarjó;https://www.beniarjo.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook Ajuntament Whatsapp Ajuntament Facebook Espai Jove Instagram Espai Jove TRANSPARÈNCIA AJUNTAMENT TURISME SEU EL"
+revisar: misma página en las tres visitas, poco texto;461;Valencia;Benifairó de la Valldigna;https://www.benifairo.org/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: SEU ELECTRÒNICA AJUNTAMENT AGENDA ACTUALITAT TURISME TRANSPARÈNCIA"
+revisar: misma página en las tres visitas, poco texto;479;Valencia;Real de Gandía;https://www.realdegandia.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook Youtube Parlem? TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÓNICA"
+revisar: misma página en las tres visitas, poco texto;482;Valencia;Tavernes de la Valldigna;https://www.tavernes.es/;pt;pt;pt;revisar;"lang=ca/ca/ca; texto: TURISME AJUNTAMENT TRANSPARÈNCIA"
+revisar: misma página en las tres visitas, poco texto;503;Valencia;Atzeneta d'Albaida;https://www.atzenetadalbaida.es/;ca;ca;ca;revisar;"lang=es/es/es; texto: Facebook Twitter Youtube Instagram Vimeo Pinterest Portales Municipales TRANSPARÈNCIA AJUNTAMENT TURISME VISOR PRESSUPOS"
+revisar: misma página en las tres visitas, poco texto;523;Valencia;Llutxent;https://www.llutxent.es/;co;co;co;revisar;"lang=ca/ca/ca; texto: Facebook Youtube Whatsapp TRANSPARÈNCIA AJUNTAMENT TURISME SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;524;Valencia;Montaverner;https://www.montaverner.es/;ca;ca;ca;revisar;"lang=ca/ca/ca; texto: Facebook Instagram Telegram Youtube TRANSPARÈNCIA AJUNTAMENT SEU ELECTRÒNICA MON-DOC"
+revisar: misma página en las tres visitas, poco texto;526;Valencia;Olleria, l';https://www.lolleria.org/;co;co;co;revisar;"lang=es/es/es; texto: Facebook Youtube Instagram Whatsapp TRANSPARÈNCIA AJUNTAMENT APP MUNICIPAL TURISME SEU ELECTRÒNICA"
+revisar: misma página en las tres visitas, poco texto;529;Valencia;Palomar, el;https://www.elpalomar.es/;es;es;es;revisar;"lang=es/es/es; texto: Facebook Twitter Youtube Instagram Whatsapp SEDE ELECTRÓNICA AYUNTAMIENTO APP MUNICIPAL"
+revisar: misma página en las tres visitas, poco texto;531;Valencia;Pobla del Duc, la;https://www.lapobladelduc.es/;en;en;en;revisar;"lang=ca/ca/ca; texto: Facebook Twitter YouTube Whatsapp Instagram AJUNTAMENT TURISME ELECTRONICA"
+sin atributo lang;102;Alicante;Ràfol d'Almúnia, el;https://www.elrafoldalmunia.es/;ca;ca;ca;fijo;
+sin atributo lang;288;Valencia;Faura;https://www.fauraweb.net/;ca;ca;ca;fijo;
+sin atributo lang;459;Valencia;Bellreguard;https://www.bellreguard.net/;ca;ca;ca;fijo;
+sin atributo lang;463;Valencia;Benirredrà;https://www.benirredraparticipa.es/;ca;ca;ca;fijo;
+sin atributo lang;507;Valencia;Aielo de Malferit;https://www.aielodemalferit.es/;ca;ca;ca;fijo;
+sin atributo lang;538;Valencia;Cofrentes;https://www.cofrentes.es/;es;es;es;fijo;
+termina en otro dominio;254;Castellón;Nules;https://nules.org/;es;ca;ca;adaptativo;https://nules.org/ -> https://nules.es/es/home-1/
+termina en otro dominio;287;Valencia;Estivella;https://www.aytoestivella.com/;ca;ca;ca;fijo;https://www.aytoestivella.com/ -> https://www.estivella.es/
+valor de lang incorrecto;13;Alicante;Banyeres de Mariola;https://www.portademariola.com/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+valor de lang incorrecto;21;Alicante;Biar;https://www.biar.es/;ca;ca;ca;fijo;va-VA: idioma va inexistente, región Vaticano
+valor de lang incorrecto;82;Alicante;Alcalalí;https://www.alcalali.es/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+valor de lang incorrecto;88;Alicante;Benitachell;https://elpoblenoudebenitatxell.com/;ca;ca;ca;fijo;es-va: español del Vaticano
+valor de lang incorrecto;93;Alicante;Xaló;https://www.xalo.org/;ca;ca;ca;revisar;va-VA: idioma va inexistente, región Vaticano
+valor de lang incorrecto;110;Alicante;Vall de Gallinera, la;https://www.lavalldegallinera.org/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+valor de lang incorrecto;125;Alicante;Nucia, la;https://www.lanucia.es/;es;es;es;fijo;zxx: zxx significa sin contenido lingüístico
+valor de lang incorrecto;254;Castellón;Nules;https://nules.org/;es;ca;ca;adaptativo;ca-CA: catalán de Canadá
+valor de lang incorrecto;275;Castellón;Vilafranca;https://www.ajuntamentdevilafranca.es/;ca;ca;ca;fijo;vl: vl no es un código de idioma
+valor de lang incorrecto;278;Valencia;Albalat dels Tarongers;https://www.albalatdelstarongers.es/;ca;ca;ca;fijo;va-VA: idioma va inexistente, región Vaticano
+valor de lang incorrecto;295;Valencia;Benissanó;https://ajuntamentbenissano.es/;ca;ca;ca;fijo;va: va no es un idioma ISO (VA es el Vaticano)
+valor de lang incorrecto;304;Valencia;Olocau;https://www.olocau.es/v2/;ca;ca;ca;fijo;val: val es la lengua vehes (ISO 639-3)
+valor de lang incorrecto;339;Valencia;Alboraya;https://www.alboraya.es/;lb;lb;lb;revisar;x-VA: x-VA es de uso privado
+valor de lang incorrecto;374;Valencia;Mislata;https://www.mislata.es/;es;ca;es;adaptativo;x-VA: x-VA es de uso privado
+valor de lang incorrecto;421;Valencia;Massalavés;https://massalaves.es/;ca;ca;ca;fijo;va-VA: idioma va inexistente, región Vaticano
+valor de lang incorrecto;527;Valencia;Ontinyent;https://www.ontinyent.es/;ca;ca;ca;fijo;x-VA: x-VA es de uso privado
